@@ -1,0 +1,27 @@
+---
+layout: archive
+title:  "Welcome to the Redesign!"
+date:   2020-05-02 19:18:00 +0200
+categories: tech jekyll
+---
+Recently I've been thinking about updating my personal site. In truth, I've been meaning to do something with the site on and off for a year or more, but just never got around to it. This post marks the first post of the complete redesign of the entire site.
+
+Previously, the site was created with [Joomla][joomla], a Content Management System which was easy enough to use. It was never difficult to add posts, create updates, or publish in multiple languages. In fact, the ability to make different versions of the same post in different langugages and link them was one of my favorite feature.
+
+When considering the redesign, I initially was thinking of a full-fledged website with either Angular or React in the front end. I quickly realized this was not necessary as I wasn't going to need a back end at all, and therefore really just needed to serve static content. From there I started looking into [WordPress][wordpress], which is by far the market leader of the Content Management Systems. However, WordPress is written in PHP, which was also the case for Joomla and doesn't hold a lot of interest for me. I found other CMSs which are written in nodeJS, but I decided that ultimately wasn't what I wanted because most were obscure compared to WordPress.
+
+Then I started looking into popular static site generators. I ended up settling on [Jekyll][jekyll] for a couple reasons. Most importantly, it has been created by a co-founder of Github and interfaces very well with [Github Pages][githubpages]. Using Jekyll is a great opportunity for me to learn more about Github Pages, which I otherwise wouldn't be able to do with other projects which require a backend and are thus not ideal for Github Pages. I also like being able to submit posts and pages in a simple markdown format.
+
+Jekyll also allows me to learn about [Ruby][ruby], [YAML][yaml], and [Liquid][liquid]. I'm just getting into basic Jekyll subjects such as  front-matter, layouts, and themes, but I'm enjoying the relatively easy learning curve. To me it feels right as an engineer to move away from the Content Management Systems and get into something more akin to a development environment, even for creating simple blog posts.
+
+I think I'm going to enjoy learning how to customize the look of the site. I'd like to explore things like integrating maps, media files, or scripted content. I may get into some Ruby for the more complicated components, and that could be fun too.
+
+I hope that you find the new design easy to use. If you see important improvements that could be made, please do contact me. I'm always looking for another perspective in development.
+
+[githubpages]: https://pages.github.com/
+[jekyll]: https://jekyllrb.com/
+[joomla]: https://www.joomla.org/
+[liquid]: https://shopify.github.io/liquid/
+[ruby]: https://www.ruby-lang.org/
+[wordpress]: https://wordpress.com/
+[yaml]: https://yaml.org/
