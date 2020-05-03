@@ -1,0 +1,28 @@
+---
+layout: archive
+pagination: true
+title:  "French Transportation"
+date:   2017-01-18 12:00:00 +0200
+categories: culture france
+---
+I’ve spent a decent amount of time complaining about France and Paris to friends, family, and occasionally social media. So I think that I should take a step back and highlight one of the things that I really appreciate about Paris. The reality is, even though I can always find something to whine about, life in Paris is really quite good, and so the city deserves some praise in areas that it shines.
+
+For me, one of these areas is public transportation. As an American, my life never included very much public transportation until I moved abroad. Here in Paris, my family doesn’t own a car, so we use various other means to get around.
+
+I should first explain the reasoning behind not owning a car. First, I should explain that my wife does not drive yet. In China, many young people do not drive as often as their American peers, so it was never necessary for her. That’s fine, because there are so many other reasons that owning a car is not for us right now.
+
+For starters, the price of gas in France is very high. Brief research shows that the price in France in 2016 was about twice that of the price in the USA. Buying a car in France would also be costly. I had a car in America, but obviously can’t use it in France. If I did buy a car, then I would have to sell it were I ever to leave France, so it’s not a very flexible plan. Also, parking anywhere near Paris is a nightmare. I would have to be an expert in parallel parking, and comfortable constantly blocking traffic lanes in order to position myself to park. The whole point of driving is that it is supposed to be convenient; yet finding a parking place is often very inconvenient and sometimes costly. Cars also have to be maintained. Even if you have a good car, occasionally Paris restricts traffic due to pollution or events. Perhaps most importantly, we can’t divide a single car, so it isn’t a great solution for a family that has different places to go. Multiple cars is out of the question due to the expense.
+
+That’s not to say that there would be no advantages to having a car. Cars are great when the whole family is going somewhere together, especially with a lot of children that can be put in the backseat. If we were to travel around Europe, a car would be perfect. Vacations in the French countryside and mountains would be fantastic for a car that can travel the scenic routes. Perhaps most obviously, a car would let us leave the house on our own schedule, instead of constantly checking bus and train schedules. We would also be able to load up groceries and other things and not have to carry bags onto a bus or train.
+
+Though a car would be a nice convenience, there are many great advantages to using public transport in the Parisian region. Perhaps most importantly, I consider the wait times to be short. For the metro system inside Paris itself, trains arrive at a given station about every four or five minutes. For my family, we’ve always just outside Paris, meaning we take the RER trains.
+
+Chaville actually has three different train stations, so we can get to anywhere in Paris within an hour and most places within forty minutes. The RER C and Line N trains that I took for two years to get to school have two levels of seating, meaning they are rarely crowded. Though the RER trains are not as frequent as the Parisian Metro, they still arrive about every fifteen minutes, depending on the station and route. For example, in Chaville we receive trains coming from various different endpoints farther away from Paris, giving us more frequent trains.
+
+In addition, we can use any bus or train in the Ile-de-France region with a single rechargeable pass. Recently the system was reformed so that the entire region operates on a single price for those with a weekly or monthly pass, so we only pay 73 euros each a month and our children will ride for free until they turn 4 years old, at which points their passes would be half price until they are in their 20’s. A majority of my pass is covered by job, which is about 20 euros more per month than I would receive than if I did not use public transport.
+
+Ultimately we make our transportation decisions based on the commutes we make each day. For me, I am looking at possibly taking a direct train from Rambouillet, which is out near the edge of the Ile-de-France region, to Versailles, and then a bus to my job in Vélizy. This would be less than 1 hour and 15 minutes from the door of my house to my office chair, which is the same travel time of people driving their cars for half that distance. The key is the direct train to Versailles.
+
+This covers our daily life. When we go on vacation, France has a good train network that covers most of its cities. It’s not as ideal as packing up the car and being free to drive wherever we want, but it makes vacations possible for a decent price and comfortable train rides. The trains also connect to the rest of Europe, of course, including the United Kingdom.
+
+To conclude, I would like to praise Paris and the Ile-de-France region for having cheap and frequent public transportation with a wide coverage area. I sometimes compare Paris unfavorably to my life in America, but in this case I can say without hesitation that Paris has the best public transportation system of any city I have lived in. You can walk the streets of the city and come across a Metro station very often. Outside of Paris, nearly every town has a train station, and some have several. With the growing population of the area, I am happy to not be investing in a car, but rather to be taking the more flexible option.
