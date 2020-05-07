@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Supernatural"
 date:   2017-01-09 12:00:00 +0200
 categories: faith thoughts

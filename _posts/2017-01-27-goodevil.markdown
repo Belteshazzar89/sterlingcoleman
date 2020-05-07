@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Good and Evil"
 date:   2017-01-27 12:00:00 +0200
 categories: faith thoughts

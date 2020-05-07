@@ -192,12 +192,11 @@ permalink: /:year/:month/:title.html # /:categories/:title/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Pagination Settings
+paginate_path: /blog/page:num
 pagination:
   enabled: true
-  per_page: 3
-  permalink: '/page/:num/'
-  title: ' - page :num'
   limit: 1
+  per_page: 3
   sort_field: 'date'
   sort_reverse: true
 
@@ -216,6 +215,9 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+
+# Github metadata, stops warning message "No Github API authentication"
+github: [metadata]
 
 # Archives
 #  Type
