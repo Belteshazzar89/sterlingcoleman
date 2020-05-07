@@ -1,6 +1,5 @@
 ---
-layout: archive
-pagination: true
+layout: posts
 title:  "Welcome to the Redesign!"
 date:   2020-05-02 19:18:00 +0200
 categories: tech jekyll

@@ -66,7 +66,7 @@ google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
-
+ 
 # Social Sharing
 twitter:
   username               :
@@ -195,10 +195,9 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 pagination:
   enabled: true
   per_page: 3
-  offset: 2
   permalink: '/page/:num/'
-  title: ':title - page :num of :max'
-  limit: 0
+  title: ' - page :num'
+  limit: 1
   sort_field: 'date'
   sort_reverse: true
 

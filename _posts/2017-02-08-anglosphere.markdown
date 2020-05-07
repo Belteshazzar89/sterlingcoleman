@@ -1,6 +1,5 @@
 ---
-layout: archive
-pagination: true
+layout: posts
 title:  "Outside the Anglosphere"
 date:   2017-02-08 12:00:00 +0200
 categories: culture thoughts

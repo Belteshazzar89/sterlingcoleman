@@ -1,6 +1,5 @@
 ---
-layout: archive
-pagination: true
+layout: posts
 title:  "French Transportation"
 date:   2017-01-18 12:00:00 +0200
 categories: culture france
