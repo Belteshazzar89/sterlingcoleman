@@ -1,8 +1,7 @@
 ---
+date:   2017-01-02 12:00:00 +0200
 layout: single
 title:  "2016 in Review"
-date:   2017-01-02 12:00:00 +0200
-categories: thoughts
 ---
 With 2016 now having ended with only one blog post written, I have realized that I would like to resurrect this blog and write more often. In order to do so, I should write a post which gives a brief summary of 2016. Though I can only touch on the highlights, I would like to show off a little of our year 2016, and what we have been up to.
 

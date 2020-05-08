@@ -1,8 +1,7 @@
 ---
+date:   2017-03-18 12:00:00 +0200
 layout: single
 title:  "Consequences of Good and Evil"
-date:   2017-03-18 12:00:00 +0200
-categories: faith thoughts
 ---
 In a recent blog post I wrote my thoughts on the concepts of good and evil, and explained why I think it is irrefutable that these things exist, and most importantly, are not merely natural or earthly ideas, but are indeed supernatural. Having laid the foundation for a topic more relevant to my daily life and existence as a human being, I would like to discuss the consequences of good and evil.
 

@@ -1,8 +1,7 @@
 ---
+date:   2017-01-27 12:00:00 +0200
 layout: single
 title:  "Good and Evil"
-date:   2017-01-27 12:00:00 +0200
-categories: faith thoughts
 ---
 Two weeks ago I discussed the evidence for the supernatural and the origin of God. I would now like to talk about a related topic which is perhaps closer to our daily lives: the idea of good and evil. The notion of good and evil is also self-evident, like the supernatural. We saw that the supernatural can be seen by observing the natural world. Similarly, we can see good and evil in our observation of the natural world.
 

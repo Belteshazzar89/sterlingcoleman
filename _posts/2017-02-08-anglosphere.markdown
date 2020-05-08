@@ -1,8 +1,7 @@
 ---
+date:   2017-02-08 12:00:00 +0200
 layout: single
 title:  "Outside the Anglosphere"
-date:   2017-02-08 12:00:00 +0200
-categories: culture thoughts
 ---
 This week, I’d like to put down my opinion on the vacation and immigration habits of many of my fellow American citizens. As someone who is highly interested in learning foreign languages and living in other countries, I realize that my opinion and experience and not that of the typical American. I hope that this will bring some value to what I have to say and yet that as an American I give my opinion not to belittle or unnecessarily criticize Americans, but rather to make us better through correction.
 

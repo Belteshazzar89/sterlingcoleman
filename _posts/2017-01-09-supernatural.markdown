@@ -1,8 +1,7 @@
 ---
+date:   2017-01-09 12:00:00 +0200
 layout: single
 title:  "Supernatural"
-date:   2017-01-09 12:00:00 +0200
-categories: faith thoughts
 ---
 I would like to take a minute to address a fundamental question that I’ve heard and seen discussed, argued, and debated many times: “Where did God come from?” To an unbeliever, the concept of God’s origin may seem difficult to understand. This is a normal feeling to have, as God’s origins are indeed difficult, if not impossible, to understand.
 

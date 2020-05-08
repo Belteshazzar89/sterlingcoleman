@@ -1,8 +1,7 @@
 ---
+date:   2017-01-18 12:00:00 +0200
 layout: single
 title:  "French Transportation"
-date:   2017-01-18 12:00:00 +0200
-categories: culture france
 ---
 I’ve spent a decent amount of time complaining about France and Paris to friends, family, and occasionally social media. So I think that I should take a step back and highlight one of the things that I really appreciate about Paris. The reality is, even though I can always find something to whine about, life in Paris is really quite good, and so the city deserves some praise in areas that it shines.
 
