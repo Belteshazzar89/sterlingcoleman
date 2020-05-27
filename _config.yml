@@ -66,7 +66,7 @@ google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
-
+ 
 # Social Sharing
 twitter:
   username               :
@@ -164,14 +164,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -184,20 +182,27 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-
 # Outputting
-permalink: /:categories/:title/
+permalink: /blog/:year/:month/:title.html # /:categories/:title/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# Pagination Settings
+paginate_path: /blog/page:num
+pagination:
+  enabled: true
+  limit: 1
+  per_page: 3
+  sort_field: 'date'
+  sort_reverse: true
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -205,12 +210,14 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
 
+# Github metadata, stops warning message "No Github API authentication"
+github: [metadata]
 
 # Archives
 #  Type

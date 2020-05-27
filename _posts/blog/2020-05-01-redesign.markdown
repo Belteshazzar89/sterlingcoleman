@@ -1,8 +1,7 @@
 ---
-layout: archive
-title:  "Welcome to the Redesign!"
 date:   2020-05-02 19:18:00 +0200
-categories: tech jekyll
+layout: single
+title:  "Welcome to the Redesign!"
 ---
 Recently I've been thinking about updating my personal site. In truth, I've been meaning to do something with the site on and off for a year or more, but just never got around to it. This post marks the first post of the complete redesign of the entire site.
 
