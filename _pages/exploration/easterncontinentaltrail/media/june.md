@@ -181,6 +181,6 @@ title: Eastern Continental Trail June Media
 </style>
 <div class="photo-gallery">
 {% for item in page.media %}
-    <img alt="{{ item.title }}" src="{{ item.path }}">
+    <a href="{{ item.path | replace: 'small', 'large' }}"><img alt="{{ item.title }}" src="{{ item.path }}"></a>
 {% endfor %}
 </div>
