@@ -12,3 +12,4 @@ I took photos and a few videos while I was on the trail. Most of the photos are 
 <a href="may">May</a>
 <a href="june">June</a>
 <a href="july">July</a>
+<a href="august">August</a>
