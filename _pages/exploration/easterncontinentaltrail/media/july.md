@@ -209,9 +209,6 @@ gallery:
     -   image_path: /assets/images/exploration/eastern-continental-trail/july/small/29-8.jpg
         title: Tree Art in Mont Louis
         url: /assets/images/exploration/eastern-continental-trail/july/large/29-8.jpg
-    -   image_path: /assets/images/exploration/eastern-continental-trail/july/small/29-7.jpg
-        title: Approaching Mont Louis
-        url: /assets/images/exploration/eastern-continental-trail/july/large/29-7.jpg
     -   image_path: /assets/images/exploration/eastern-continental-trail/july/small/29-9.jpg
         title: This is the IAT
         url: /assets/images/exploration/eastern-continental-trail/july/large/29-9.jpg
