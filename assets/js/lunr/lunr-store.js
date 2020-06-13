@@ -40,4 +40,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/05/redesign.html",
         "teaser": null
+      },{
+        "title": "Zeihan on Geopolitics",
+        "excerpt":"About a year ago, I somehow came across some content put out by Peter Zeihan. I believe it was a [YouTube][youtube] video of him talking to an audience at some sort of economic forum. His YouTube channel doesn’t have any new content, but other people have uploaded many of his...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/06/peter-zeihan.html",
+        "teaser": null
       }]
