@@ -23,8 +23,4 @@ Peter Zeihan's conclusion, therefore, is that the United States is removing itse
 My final conclusion is that Zeihan is basically right, and that the USA will become isolated to the North American continent, and that the world at large will suffer. One subject that Peter Zeihan does not cover as in-depth, however, is the effect on many individuals in places like the United States or France, where the country may have high relative power, but may also receive many immigrants. That is a personal subject which I have been dwelling over for some months, and continue to do so.
 
 [books]: https://www.amazon.com/Peter-Zeihan/e/B00MPX86VK%3Fref=dbs_a_mng_rwt_scns_share
-<<<<<<< HEAD
 [youtube]: https://www.youtube.com/channel/UC0vqqjAyPXP1BSvbFwZi_pA/
-=======
-[youtube]: https://www.youtube.com/channel/UC0vqqjAyPXP1BSvbFwZi_pA/
->>>>>>> develop
