@@ -215,7 +215,7 @@ gallery:
     -   image_path: /assets/images/exploration/eastern-continental-trail/january/small/30-2.jpg
         title: Utility Building on Stilts
         url: /assets/images/exploration/eastern-continental-trail/january/large/30-2.jpg
-permalink: /exploration/easterncontinentaltrail/media/january
+permalink: /exploration/eastern-continental-trail/media/january
 title: Eastern Continental Trail January Media
 ---
 <style type="text/css" rel="stylesheet">

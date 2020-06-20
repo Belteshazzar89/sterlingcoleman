@@ -17,7 +17,7 @@ For this reason, simply updating and pushing the pre-compiled code will correctl
 - _includes: content to [include][include] in multiple places
 - _pages: individual pages
     - exploration: pages for explorations
-        - easterncontinentaltrail: pages for the 2012 Eastern Continental Trail trip
+        - eastern-continental-trail: pages for the 2012 Eastern Continental Trail trip
             - journal: pages for the journal for the 2012 Eastern Contentail Trail trip
                 - april: april journal entries
                 - august: august journal entries

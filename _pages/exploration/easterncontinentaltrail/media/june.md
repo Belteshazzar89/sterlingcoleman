@@ -248,7 +248,7 @@ gallery:
     -   image_path: /assets/images/exploration/eastern-continental-trail/june/small/30-2.jpg
         title: Welcome to New Brunswick
         url: /assets/images/exploration/eastern-continental-trail/june/large/30-2.jpg
-permalink: /exploration/easterncontinentaltrail/media/june
+permalink: /exploration/eastern-continental-trail/media/june
 title: Eastern Continental Trail June Media
 ---
 <style type="text/css" rel="stylesheet">

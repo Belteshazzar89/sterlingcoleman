@@ -95,7 +95,7 @@ gallery:
     -   image_path: /assets/images/exploration/eastern-continental-trail/february/small/29-2.jpg
         title: Closed Norman Bridge
         url: /assets/images/exploration/eastern-continental-trail/february/large/29-2.jpg
-permalink: /exploration/easterncontinentaltrail/media/february
+permalink: /exploration/eastern-continental-trail/media/february
 title: Eastern Continental Trail February Media
 ---
 <style type="text/css" rel="stylesheet">
