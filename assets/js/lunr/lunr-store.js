@@ -46,4 +46,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/06/peter-zeihan.html",
         "teaser": null
+      },{
+        "title": "Trailblazing the Northern Divide",
+        "excerpt":"After finishing my Eastern Continental Trail hike, I had many ideas. I wanted to hike across America, I wanted to kayak, and as I had hiked the ECT, I had fantasized about all the things I wanted to do. Finishing my hike, I decided to go in a different direction,...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/06/trailblazing-northern-divide.html",
+        "teaser": null
       }]
