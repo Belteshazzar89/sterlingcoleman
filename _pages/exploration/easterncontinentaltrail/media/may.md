@@ -218,7 +218,7 @@ gallery:
     -   image_path: /assets/images/exploration/eastern-continental-trail/may/small/31-3.jpg
         title: Trimmed Vermont Woods
         url: /assets/images/exploration/eastern-continental-trail/may/large/31-3.jpg
-permalink: /exploration/easterncontinentaltrail/media/may
+permalink: /exploration/eastern-continental-trail/media/may
 title: Eastern Continental Trail May Media
 ---
 <style type="text/css" rel="stylesheet">

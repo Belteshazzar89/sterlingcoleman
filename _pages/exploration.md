@@ -9,4 +9,5 @@ I've always been appreciative of the less-traveled path. Being in the minority o
 
 Until now, my most interesting adventure has been the Eastern Continental Trail.
 
-{% include ectIntro.md %}
+{% include exploration/eastern-continental-trail/introduction.md %}
+{% include exploration/northern-divide-trail/introduction.md %}

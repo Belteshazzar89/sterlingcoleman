@@ -1,7 +1,7 @@
 ---
 author_profile: true
 layout: archive
-permalink: /exploration/easterncontinentaltrail/
+permalink: /exploration/eastern-continental-trail/
 title: Eastern Continental Trail
 ---
 <style type="text/css" rel="stylesheet">

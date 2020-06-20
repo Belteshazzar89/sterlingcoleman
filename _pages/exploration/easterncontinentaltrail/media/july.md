@@ -221,7 +221,7 @@ gallery:
     -   image_path: /assets/images/exploration/eastern-continental-trail/july/small/31-2.jpg
         title: Cascades Refuge
         url: /assets/images/exploration/eastern-continental-trail/july/large/31-2.jpg
-permalink: /exploration/easterncontinentaltrail/media/july
+permalink: /exploration/eastern-continental-trail/media/july
 title: Eastern Continental Trail July Media
 ---
 <style type="text/css" rel="stylesheet">

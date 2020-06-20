@@ -305,7 +305,7 @@ gallery:
     -   image_path: /assets/images/exploration/eastern-continental-trail/april/small/30-2.jpg
         title: Foggy Skyline Drive
         url: /assets/images/exploration/eastern-continental-trail/april/large/30-2.jpg
-permalink: /exploration/easterncontinentaltrail/media/april
+permalink: /exploration/eastern-continental-trail/media/april
 title: Eastern Continental Trail April Media
 ---
 <style type="text/css" rel="stylesheet">

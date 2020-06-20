@@ -299,7 +299,7 @@ gallery:
     -   image_path: /assets/images/exploration/eastern-continental-trail/march/small/31-3.jpg
         title: Max Patch
         url: /assets/images/exploration/eastern-continental-trail/march/large/31-3.jpg
-permalink: /exploration/easterncontinentaltrail/media/march
+permalink: /exploration/eastern-continental-trail/media/march
 title: Eastern Continental Trail March Media
 ---
 <style type="text/css" rel="stylesheet">

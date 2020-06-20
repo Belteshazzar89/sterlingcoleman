@@ -251,7 +251,7 @@ gallery:
     -   image_path: /assets/images/exploration/eastern-continental-trail/august/small/26-11.jpg
         title: Viking Silhouettes
         url: /assets/images/exploration/eastern-continental-trail/august/large/26-11.jpg
-permalink: /exploration/easterncontinentaltrail/media/august
+permalink: /exploration/eastern-continental-trail/media/august
 title: Eastern Continental Trail August Media
 ---
 <style type="text/css" rel="stylesheet">
