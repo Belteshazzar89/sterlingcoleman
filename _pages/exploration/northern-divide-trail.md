@@ -18,7 +18,7 @@ The goal of the Northern Divide Trail is to guide explorers through the Northern
 
 The route for the trail has been planned, but no work has been done on the ground. No blazes, cairns, or other guiding markings have been put in place, nor has any work been done to receive approval from the appropriate authorities or landowners to put a trail in place. The trail is merely a proposal.
 
-## Summary
+## Route
 
 From Kakwa Lake, the Southernmost section of the Northern Divide Trail enters the Hart Ranges and continues Northwest to Monkman Provincial Park.
 
