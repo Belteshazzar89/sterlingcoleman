@@ -3,7 +3,7 @@ date:   2020-06-21 00:00:00 +0200
 layout: single
 title:  "Trailblazing the Northern Divide"
 ---
-After finishing my Eastern Continental Trail hike, I had many ideas. I wanted to hike across America, I wanted to kayak, and as I had hiked the ECT, I had fantasized about all the things I wanted to do. Finishing my hike, I decided to go in a different direction, but still had a passion for exploration. I took a step back and decided I was most interested in big mountain ranges. In North America, none is longer than the Rocky Moutains.
+After finishing my Eastern Continental Trail hike, I had many ideas. I wanted to hike across America, I wanted to kayak, and as I had hiked the ECT, I had fantasized about all the things I wanted to do. Finishing my hike, I decided to go in a different direction, but still had a passion for exploration. I took a step back and decided I was most interested in big mountain ranges. In North America, none is longer than the Rocky Mountains.
 
 For Americans, hiking the Rocky Mountains means the [Continental Divide Trail][cdt] (CDT), one of the three trails required to attain the famed Triple Crown of North American hiking. Yet, the CDT is not a trail which spans the Rocky Mountains. It is a trail which spans the United States, with each terminus being on a border with Mexico and Canada, respectively.
 
