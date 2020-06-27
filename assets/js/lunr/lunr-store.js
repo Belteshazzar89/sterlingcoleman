@@ -52,4 +52,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/06/trailblazing-northern-divide.html",
         "teaser": null
+      },{
+        "title": "Routing the Northern Divide Trail",
+        "excerpt":"Of all the resources I have prepared for the Northern Divide Trail, the most important is probably the Keyhold Markup File (KML/KMZ) which I have created using Google Earth. If an explorer were to upload this file to a GPS receiver, possibly by converting it to GPS Exchange Format (GPX),...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/06/routing-northern-divide-trail.html",
+        "teaser": null
       }]
