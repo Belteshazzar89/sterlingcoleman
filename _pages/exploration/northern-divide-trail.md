@@ -7,6 +7,7 @@ title: Northern Divide Trail
 The Northern Divide Trail (NDT) is a planned trail in the Hart and Muskwa Ranges of the Northern Rocky Mountains.
 
 - Length: ≈ 1000 kilometers
+- Elevation Change: ≈ 130 kilometers
 - Difficulty: High
 - Season: May - September
 
@@ -53,7 +54,7 @@ For the Southern Terminus, public transportation is available to Prince George b
 
 ## Resources
 
-- [Keyhole Markup File][kmz]: Meticulous route with periodic points labelling geographic features. The path formed by this route has been divided into days, none of which have a maximum slope of over 50%, or a total length of over 40 kilometersS. Each day details the route to get to the next camp, which is often on a major creek or river.
+- [Keyhole Markup File][kmz]: Meticulous route with periodic points labelling geographic features. The path formed by this route has been divided into days, none of which have a maximum slope of over 50%, or a total length of over 40 kilometers. Each day details the route to get to the next camp, which is often on a major creek or river.
 - [Maps][maps]: Large file containing detailed 1:20,000 scale maps on the NDT route. Made using maps provided by the provincial government of British Columbia, each of the 63 pages for the principal route covers roughly half of a day of hiking.
 
 [bcbus]: https://bcbus.ca/
