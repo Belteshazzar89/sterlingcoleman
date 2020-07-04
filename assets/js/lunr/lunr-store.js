@@ -58,4 +58,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/06/routing-northern-divide-trail.html",
         "teaser": null
+      },{
+        "title": "End of the 2020 School Year",
+        "excerpt":"Today is July 4th, Independence Day in the United States. As an American abroad, I hadn’t even realized it was Independence Day, as it is not a holiday here in France. One of the more minor problems of living abroad is that you miss out on your usual holidays, and...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/07/end-of-school.html",
+        "teaser": null
       }]
