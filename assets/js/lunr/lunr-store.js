@@ -64,4 +64,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/07/end-of-school.html",
         "teaser": null
+      },{
+        "title": "Development Guide",
+        "excerpt":"As a software engineer, one of my pet peeves is dealing with the almighty developer guide. This document exists at almost every software company as an aid for developer writing code. Among other things, it outlines rules for the formatting of code. These guides are important, and necessary, if mainly...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/07/development-guide.html",
+        "teaser": null
       }]
