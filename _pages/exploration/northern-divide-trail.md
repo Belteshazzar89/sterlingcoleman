@@ -8,8 +8,8 @@ The Northern Divide Trail (NDT) is a planned trail in the Hart and Muskwa Ranges
 
 - Length: ≈ 1000 kilometers
 - Elevation Change: ≈ 130 kilometers
-- Difficulty: High
-- Season: May - September
+- Maximum Elevation: 2632 meters, Ithaca Pass
+- Minimum Elevation: 672 meters, Williston Lake
 
 ## Goal
 
