@@ -11,7 +11,7 @@ The main difficulty posed is that of the extreme difficulty of the terrain of th
 
 |Trail          |Distance (km)  |Total Elevation Change (km)    |Average Elevation Change (%)   |
 |:-------------:|:-------------:|:-----------------------------:|:-----------------------------:|
-|Appalachian    |3530           |157                            |4.4                            |
+|Appalachian    |3530           |312                            |8.9                            |
 |Great Divide   |1130           |42                             |3.7                            |
 |Northern Divide|1000           |130                            |13                             |
 
