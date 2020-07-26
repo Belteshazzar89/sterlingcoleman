@@ -1,0 +1,14 @@
+---
+date:   2020-07-26 20:00:00 -0400
+layout: single
+title:  "Destination: Higgins Lake"
+---
+Higgins Lake is my favorite destination for a family vacation. I'm currently looking out onto the beautiful lake right now. My family has been coming up here for generations, after an ancestor bought a plot of land up here and built a small cabin about ninety years ago.
+
+Despite the lack of serious improvements made on the property in the near century which followed, I love being here with family in the summer. The most important reason is that my family is here, and that's something that is not specific to any one place. However, the history of the family coming here almost once a year for many years has built up a lot of great memories and nostalgia in this place.
+
+The next most important reason, is the water. Simply put, being on the shore of the lake makes all the difference. There is a very soothing breeze which comes right in the window. The water is clear here, and that is something specific to this lake in particular. It's a beautifully clear lake, not clouded by mud or silt, with a sandy bottom, fed by springs. Obviously, a wonderful lake like that offers opportunities to do every kind of lake boating, fishing, and swimming. I personally love taking a Sunfish sailboat out on windy days.
+
+Finally, the thing that sets Higgins Lake apart as a top vacation destination for our family is its relative remote location. If this place were in California, Texas, or Florida, it would be swamped with visitors all summer long. The fact that it is instead in Northern Michigan means that it receives mostly weekend boaters coming up from Detroit, and that's about it. There are plenty of tourists, but it is still a very calm location, a bit of a "hidden gem". In addition, despite being remote, it is very accessible, right next to an Interstate and a US highway, and not far from towns for groceries or restaurants. Perhaps the only real problem is its distance from major airports: the closest options are Saginaw or Traverse City, the latter having decent seasonal options to arrive from farther away.
+
+Of all the things that are great about Higgins Lake, meeting up with family is the most important. The pleasure of spending time on the lake is the thing that brings us all together here to spend time with each other. My ideal of a great family vacation is a relaxing time, not necessarily a visit to a big city with a full sight-seeing agenda. Higgins Lake perfectly matches that, which is why I had been looking forward to this trip for so long, and why I have been enjoying my time here.
