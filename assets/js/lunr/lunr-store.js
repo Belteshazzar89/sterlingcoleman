@@ -70,4 +70,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/07/development-guide.html",
         "teaser": null
+      },{
+        "title": "Destination: Higgins Lake",
+        "excerpt":"Higgins Lake is my favorite destination for a family vacation. I’m currently looking out onto the beautiful lake right now. My family has been coming up here for generations, after an ancestor bought a plot of land up here and built a small cabin about ninety years ago. Despite the...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/07/destination-higgins-lake.html",
+        "teaser": null
       }]
