@@ -76,4 +76,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/07/destination-higgins-lake.html",
         "teaser": null
+      },{
+        "title": "Back Home",
+        "excerpt":"After three weeks in the United States, our little family is back home. We’re happy to be back to our routine, but also sad to have finished a wonderful vacation. The saying “All good things come to an end” is very appropriate to how we feel about finishing a vacation...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/08/back-home.html",
+        "teaser": null
       }]
