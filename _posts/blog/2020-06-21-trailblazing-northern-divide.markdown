@@ -1,5 +1,5 @@
 ---
-date:   2020-06-21 00:00:00 +0200
+date:   2020-06-21 00:00:00 +0100
 layout: single
 title:  "Trailblazing the Northern Divide"
 ---
