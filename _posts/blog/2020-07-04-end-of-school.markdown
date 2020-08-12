@@ -1,5 +1,5 @@
 ---
-date:   2020-07-04 17:00:00 +0200
+date:   2020-07-04 17:00:00 +0100
 layout: single
 title:  "End of the 2020 School Year"
 ---

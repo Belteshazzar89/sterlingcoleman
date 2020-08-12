@@ -1,5 +1,5 @@
 ---
-date:   2017-01-09 12:00:00 +0200
+date:   2017-01-09 12:00:00 +0100
 layout: single
 title:  "Supernatural"
 ---

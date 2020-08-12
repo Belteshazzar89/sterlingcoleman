@@ -1,5 +1,5 @@
 ---
-date:   2020-07-10 23:00:00 +0200
+date:   2020-07-10 23:00:00 +0100
 layout: single
 title:  "Development Guide"
 ---

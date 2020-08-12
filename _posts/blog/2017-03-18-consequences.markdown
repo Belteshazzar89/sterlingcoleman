@@ -1,5 +1,5 @@
 ---
-date:   2017-03-18 12:00:00 +0200
+date:   2017-03-18 12:00:00 +0100
 layout: single
 title:  "Consequences of Good and Evil"
 ---

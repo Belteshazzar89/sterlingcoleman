@@ -1,5 +1,5 @@
 ---
-date:   2020-07-26 20:00:00 -0400
+date:   2020-07-26 20:00:00 -0500
 layout: single
 title:  "Destination: Higgins Lake"
 ---
