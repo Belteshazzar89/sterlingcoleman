@@ -1,0 +1,20 @@
+---
+date:   2020-08-15 17:00:00 +0100
+layout: single
+title:  "Back to Work"
+---
+One thing that I've been putting off as much as possible is all the work that needs to be done on our house. We bought this house back in 2017 and it was in need of remodeling. Some rooms had orange paint on two walls, and purple paint on the other two. Others had old wallpaper. The kitchen still has teal paint. The whole place was a mishmash of colors and wallpapers that didn't look good by themselves, let alone together. I was prepared to make those changes, and within a few months of our move-in date we had most walls repainted white, and a few small improvements made such as updating electrical sockets.
+
+But there was still much more to do, and I didn't feel overly confident in diving into a big project and possibly making a big mistake. Thankfully, our neighbor JB does lots of work on his house, and he came over numerous times to help me out. I'm grateful for everything he's done for us. But this was supposed to be my work, and so I've taken on the vast majority of it alone.
+
+The main improvement that I have made is adding a small bathroom upstairs. When we moved in, there was a small space at the top of the stairs which didn't really serve any purpose. It was merely space between bedrooms. The realtor had suggested that this could be a bathroom, and I realized that he was right. The only other bathroom was downstairs, not at all convenient for trips in the middle of the night, especially for small children. Even baths for the children would be a nuisance transferring them from the downstairs bath up to their beds.
+
+And so one summer I embarked upon the upstairs bathroom project. I took hand tools and smashed a hole through a basement cement brick wall big enough for pipes to pass through, then did the same in the cement block basement ceiling, which is also the ground floor. That in itself was a big achievement for me, but just the beginning. After that, there was setting the pipes (both in and out) in place from the basement up through the ground floor to the upstairs space. There was a new ceiling window, ventilation, flooring, water-resistant walls, and tiles. The bath and shower, toilet, and sink. All measured to perfectly fit in a small space (small enough that tall men have their head in the ceiling window space in front of the toilet).
+
+That was a ton of work, but the bathroom still wasn't quite finished. But I basically was. I was exhausted and a little burned out on doing things that I had never done before. I don't necessarily find it as fun to learn something new as I find it scary to consider the consequences of flooding the house with a bad pipe joint, or just making something very ugly which I won't enjoy.
+
+And so for a time I didn't put in the finishing touches. The kids can take a bath upstairs, but I don't shower there because there's no rod for a curtain. There is a light, but no plug for a hair dryer. The hallway between the bedrooms has no finished floor, it's down to the plywood. And the exterior bathroom wall is not done yet because the electric plug is not done, so I still can't do that.
+
+After a nice long vacation, I'm refreshed and ready to finish the project. I'm ready to find out how to do things I don't need to do, and try to do them without overly worrying about a bad result. That doesn't mean that I am expecting a great result, but rather that I don't think the quality of my work is vastly inferior to that of an average contractor. My parents have paid contractors to do work on their house, and almost without fail the contractor needs to come back and redo something. So if I have to do the same, I can live with that while I do the job for a quarter of the cost of paying someone else to do it.
+
+Today I figured out how to connect a new plug to a junction box in the attic. I doubt that whoever previously worked in that junction box organized it in a standard way, but I'm not going to let that bother me today. There will always be another project to reorganize the electrical system, but not today. Today I am finishing the bathroom.
