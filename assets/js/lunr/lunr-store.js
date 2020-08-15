@@ -82,4 +82,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/08/back-home.html",
         "teaser": null
+      },{
+        "title": "Back to Work",
+        "excerpt":"One thing that I’ve been putting off as much as possible is all the work that needs to be done on our house. We bought this house back in 2017 and it was in need of remodeling. Some rooms had orange paint on two walls, and purple paint on the...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/08/back-to-work.html",
+        "teaser": null
       }]
