@@ -88,4 +88,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/08/back-to-work.html",
         "teaser": null
+      },{
+        "title": "Paris Saint-Germain: First Time in the Final",
+        "excerpt":"When we first arrived in Paris, I was happy to support the local soccer team, Paris Saint-Germain (PSG). The team was on the upswing, having just started a streak of winning their domestic league, Ligue 1, twice in a row. Since then, the team has won every year except 2016-17,...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/08/first-time-final.html",
+        "teaser": null
       }]
