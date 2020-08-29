@@ -94,4 +94,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/08/first-time-final.html",
         "teaser": null
+      },{
+        "title": "Back to School",
+        "excerpt":"Now that it is the end of August, the Back to School season is upon us. We’re lucky to be in France for this period, where the COVID-19 pandemic is under control and children are able to go to school without too many disruptions. After our vacation in the United...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/08/back-to-school.html",
+        "teaser": null
       }]
