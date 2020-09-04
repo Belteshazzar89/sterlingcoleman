@@ -1,5 +1,5 @@
 ---
-date:   2020-08-22 14:00:00 +0100
+date:   2020-08-22 14:00:00 +0200
 layout: single
 title:  "Paris Saint-Germain: First Time in the Final"
 ---
