@@ -100,4 +100,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/08/back-to-school.html",
         "teaser": null
+      },{
+        "title": "What I'm Watching: Disc Golf",
+        "excerpt":"I have the type of personality that leads me to get hung up on a subject for a few weeks and dive into it for awhile, before moving on to the next thing. The things that really interest me deeply endure more than just a few weeks, and become bigger...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/09/watching-disc-golf.html",
+        "teaser": null
       }]
