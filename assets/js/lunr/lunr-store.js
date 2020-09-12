@@ -106,4 +106,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/09/watching-disc-golf.html",
         "teaser": null
+      },{
+        "title": "Updating the Northern Divide Trail",
+        "excerpt":"It’s been a few weeks since I highlighted my work on the Northern Divide Trail. During this time I’ve been busily reviewing the route, reviewing the resources, and making small changes. Right now, the trail is complete. The resources have been updated to their latest version, and a new resource,...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/09/updating-northern-divide.html",
+        "teaser": null
       }]
