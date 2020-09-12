@@ -60,7 +60,7 @@ For the Southern Terminus, public transportation is available to Prince George b
 
 [bcbus]: https://bcbus.ca/
 [kmz]: /assets/resources/exploration/northern-divide-trail/northern-divide-trail.kmz
-[maps]: https://drive.google.com/file/d/1HZ22aDmKtbBGO8tlPyoCf9G2K0gdD6KS/
+[maps]: https://drive.google.com/file/d/1dpaxKYFeDWgrkSQSX4OUC6K7Aa8_FFWW/view?usp=sharing
 [text]: /assets/resources/exploration/northern-divide-trail/NDTNorthboundGuide.pdf
 [via-rail]: https://www.viarail.ca/
 [yye]: https://en.wikipedia.org/wiki/Fort_Nelson_Airport
