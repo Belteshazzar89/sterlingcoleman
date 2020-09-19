@@ -112,4 +112,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/09/updating-northern-divide.html",
         "teaser": null
+      },{
+        "title": "What I'm Watching: Jim and Ted Baird",
+        "excerpt":"Now that I’ve finished the first version of the route for the Northern Divide Trail, and have updated all the associated resources, I’ve turned to other things. I’ve always been interested in navigating rivers via canoe and kayak as a form of exploration, which is how I came across Jim...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/09/watching-jim-baird.html",
+        "teaser": null
       }]
