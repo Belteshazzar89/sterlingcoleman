@@ -118,4 +118,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/09/watching-jim-baird.html",
         "teaser": null
+      },{
+        "title": "My Financial Cultural Evaluation Theory",
+        "excerpt":"A couple of things which happened to me recently reminded me of a theory which I had been developing for some time. The theory is related to understanding the main philosophies of a culture, and evaluating the quality of life in that culture. What happened recently, was that an ATM...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/09/financial-cultural-evaluation.html",
+        "teaser": null
       }]
