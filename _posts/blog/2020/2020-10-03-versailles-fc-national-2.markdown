@@ -1,0 +1,23 @@
+---
+date:   2020-10-03 12:00:00 +0200
+layout: single
+title:  "Versailles in the National 2"
+---
+Though I always am happy when Paris Saint-Germain is doing well, they are a team which is expected to win everything in France, and to compete for European titles. They did that recently, making it all the way to the UEFA Champions League Final. Nevertheless, I don't find it very exciting to wait the entire season for a few competitive matches in the European competitions. Luckily, lower-level teams closer to me have been performing well. Specifically, [FC Versailles][versailles] have moved up a level to the National 2 this season.
+
+In the department called "Yvelines" where we live, Versailles is by far the most populated town, literally the department's crown jewel. It is easily the biggest tourist destination in the department, and the entry point for further travel from Paris to the rest of the department, with the notable exception of the towns to the Northwest along the Seine.
+
+Among the other teams in the department FC Versailles and AS Poissy stand as the top teams, both competing in the National 2, the fourth tier of the French Football Pyramid. The previous year, [AS Poissy][poissy] and [FC Mantois][mantes] were competing in the National 2, and Versailles was in the National 3, one level down. FC Mantois had a terrible seaon, claiming just 5 points in 21 matches, definitely relegated to the National 3. AS Poissy managed to get 22 points in as many games, being the last team not to be relegated. Meanwhile, FC Versailles had a fantastic season in the National 3, barely beating out [US Ivry][ivry] to win first place, the only team to be promoted to the National 2.
+
+Evidently, in a pyramid structure, it is much easier to be relegated than promoted. The National 3 consists of 12 groups of 14 teams each, for a total of 168 teams. One team from each group is promoted. Due to administrative decisions, the number of teams relegated can change, but normally, 36 teams are sent down to the regional leagues. The same ratio exists in the Naional 2, where of the 64 teams, 4 are promoted, and 12 are relegated. Though the ratio between relegated and promoted teams is the same, the chance that a team is relegated or promoted is not exactly the same, because the National 2 has groups of 16 teams, whereas the National 3 has groups of 14 teams. In comparison, promotion is harder to achieve in the National 2, and relegation easier to avoid. However, the pyramid structure becomes linear at the level above the National 2, the Championnat National. Of the 18 teams at that level, 2.5 teams (there is a playoff between the third-placed team and the corresponding team from Ligue 2, the level above the National) are promoted and 4 relegated. This doubles the chance of promotion compared to that in the National 2, and only slightly increases the chance of relegation.
+
+If Versailles could make it to the National, that would be huge. But doing so would be a big step up from where the team is now. After 7 games played, the team has just 7 points, putting them on the brink of relegation back to the National 3. Thankfully, there are still 23 matches to be played, so there is plenty of time for the team to pick up enough points. Generally speaking, a team needs to 60 points (2 per match) to be promoted. 30 points (1 per match) is the edge of relegation.
+
+This weekend, Versailles will enter into the Coupe de France, nation's largest football tournament, pitting over 8,000 teams against each other in a series of single elimination matches, in which higher ranked teams enter as each round passes. The tournament is interesting, but mostly a matter of honor for teams in the National 2 or 3, which must win several successive matches just to enter the seventh round, where the rewards start at a few thousand euros. Last year, Versailles made a great run, losing in the Round of 64 and thus winning 30,000 euros. It would be great to see another run in the cup this year, but the most important thing, as acknowledged by the club's president, is to avoid relegation in the National 2.
+
+For now, I follow the games on twitter, as there appears to be no video to stream or television channel to watch for games at this level. But it would be fun to see a game in person, as the stadium is not too long of a journey from our house, and the matches are very cheap (about 5 euros) to attend. If Versailles starts winning games in the French Cup, or if they are able to start collecting points in the National 2, you might find me in the stands.
+
+[ivry]: http://www.usivryfootball.com/
+[mantes]: http://fcmantois.com/
+[poissy]: https://www.aspoissyfoot.com/
+[versailles]: https://www.fcversailles78.com/
