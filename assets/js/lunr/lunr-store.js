@@ -124,4 +124,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/09/financial-cultural-evaluation.html",
         "teaser": null
+      },{
+        "title": "Versailles in the National 2",
+        "excerpt":"Though I always am happy when Paris Saint-Germain is doing well, they are a team which is expected to win everything in France, and to compete for European titles. They did that recently, making it all the way to the UEFA Champions League Final. Nevertheless, I don’t find it very...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/10/versailles-fc-national-2.html",
+        "teaser": null
       }]
