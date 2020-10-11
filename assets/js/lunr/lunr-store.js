@@ -130,4 +130,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/10/versailles-fc-national-2.html",
         "teaser": null
+      },{
+        "title": "What I'm Watching: Steve Dangle",
+        "excerpt":"At the end of this summer, the National Hockey League (NHL) returned from its interruption due to COVID-19, and started a modified version of the Stanley Cup Playoffs. I don’t normally pay too much attention to hockey, but I enjoy sports, and this particular year, the Dallas Stars made a...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/10/watching-steve-dangle.html",
+        "teaser": null
       }]
