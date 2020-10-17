@@ -136,4 +136,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/10/watching-steve-dangle.html",
         "teaser": null
+      },{
+        "title": "Easy PostgreSQL Migrations with pgloader",
+        "excerpt":"As part of a recent project, I’ve been dealing with a difficult database migration from MySQL to PostgreSQL. The migration involves moving many tables, and several Gigabytes of data, which must all be moved without any loss. With a move like this, there is a lot to do besides just...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/10/pgloader-migration.html",
+        "teaser": null
       }]
