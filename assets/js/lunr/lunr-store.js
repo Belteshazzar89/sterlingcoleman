@@ -142,4 +142,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/10/pgloader-migration.html",
         "teaser": null
+      },{
+        "title": "My 2020 Reading List",
+        "excerpt":"Every year, I come up with a list of twelve books that I want to read, which I track on Goodreads. I do this reading on my commute, as I take the train into work. I’m lucky to take a train with enough seating for everyone, which is not at...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/10/2020-reading-list.html",
+        "teaser": null
       }]
