@@ -148,4 +148,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/10/2020-reading-list.html",
         "teaser": null
+      },{
+        "title": "A COVID-19 Halloween",
+        "excerpt":"Today is Halloween. It’s the day when we watch It’s the Great Pumpkin, Charlie Brown, we set out our jack o’ lanterns for the last night, and our daughter wears her costume all day in high anticipation of trick-or-treating that night. Except that with the global events of this year,...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/10/covid-halloween.html",
+        "teaser": null
       }]
