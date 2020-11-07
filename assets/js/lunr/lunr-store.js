@@ -154,4 +154,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/10/covid-halloween.html",
         "teaser": null
+      },{
+        "title": "Raking Leaves",
+        "excerpt":"Fall is a great time for me, second only to Spring. The heat of Summer is over and the weather remains good. All the delays and closures caused by most of the country being on vacation for the month of August are finished, and the world is back to normal....","categories": [],
+        "tags": [],
+        "url": "/blog/2020/11/raking-leaves.html",
+        "teaser": null
       }]
