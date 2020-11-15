@@ -160,4 +160,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/11/raking-leaves.html",
         "teaser": null
+      },{
+        "title": "My Marathon Start Theory",
+        "excerpt":"After finishing my thru-hike of the Eastern Continental Trail in 2012, I used that accomplishment as a springboard to take on other challenges. I feel that from that point on, the thru-hike became a point of reference for the way that I see the different challenges that I take on,...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/11/marathon-start.html",
+        "teaser": null
       }]
