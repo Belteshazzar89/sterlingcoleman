@@ -166,4 +166,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/11/marathon-start.html",
         "teaser": null
+      },{
+        "title": "The Benefits of Language",
+        "excerpt":"It’s inevitable that when people get to know us, pretty early on in the conversation, they find out that we speak three different languages. Well, really my wife and children speak three. I’m still working on my Chinese, and it’s usually on hold because of other priorities. But as I...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/11/language-benefits.html",
+        "teaser": null
       }]
