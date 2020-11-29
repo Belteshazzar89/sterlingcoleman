@@ -172,4 +172,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/11/language-benefits.html",
         "teaser": null
+      },{
+        "title": "Thanksgiving Abroad",
+        "excerpt":"This week we celebrated Thanksgiving at our house. I feel confident in saying that we were the only participants in Thanksgiving festivities in our neighborhood, since I am the only American. We’ve done this for a couple of years, and were lucky enough to share Thanksgiving with another American family...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/11/thanksgiving-abroad.html",
+        "teaser": null
       }]
