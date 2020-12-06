@@ -178,4 +178,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/11/thanksgiving-abroad.html",
         "teaser": null
+      },{
+        "title": "What I'm Watching: Jomboy",
+        "excerpt":"Sometime during the baseball season I stumbled upon a YouTube channel called Jomboy Media. Jomboy has a fantastic channel, with many videos of just a few minutes, called “breakdowns”. Each one focuses on a single part of a game, usually a baseball game, and makes it entertaining. That in itself...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/12/watching-jomboy.html",
+        "teaser": null
       }]
