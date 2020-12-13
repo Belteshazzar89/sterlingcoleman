@@ -184,4 +184,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/12/watching-jomboy.html",
         "teaser": null
+      },{
+        "title": "Frostpunk",
+        "excerpt":"I’m a little hesitant to spend time talking about a video game, but I think that given how much time I have spent playing this game recently, and the amount of time I have spent thinking about the game, it is only right that I dedicate a post to the...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/12/frostpunk.html",
+        "teaser": null
       }]
