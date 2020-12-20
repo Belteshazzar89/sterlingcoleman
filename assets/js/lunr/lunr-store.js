@@ -190,4 +190,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/12/frostpunk.html",
         "teaser": null
+      },{
+        "title": "Making Christmas Traditions",
+        "excerpt":"France and America have some big differences when it comes to the Christmas season. The one I think of in November is that there is no Thanksgiving holiday to provide a buffer between Halloween and Christmas. Though the French don’t typically start singing their Christmas carols in early November, they...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/12/making-christmas-traditions.html",
+        "teaser": null
       }]
