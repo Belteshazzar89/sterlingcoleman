@@ -196,4 +196,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/12/making-christmas-traditions.html",
         "teaser": null
+      },{
+        "title": "The End of 2020",
+        "excerpt":"Compared to most people, we have weathered 2020 quite well. The story of 2020 for us was one of many changes. Of course, COVID-19 was the cause of some of that, but not all. We had never been stagnant in previous years, but had instead tackled big subjects, like the...","categories": [],
+        "tags": [],
+        "url": "/blog/2020/12/end-of-2020.html",
+        "teaser": null
       }]
