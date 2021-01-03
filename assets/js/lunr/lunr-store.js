@@ -202,4 +202,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2020/12/end-of-2020.html",
         "teaser": null
+      },{
+        "title": "New Year, New Challenges",
+        "excerpt":"2020 is finished, and a new year is upon us. At the beginning of a new year, I like to think about what I want to have accomplished by the end of the year. I think it’s important to specifically set goals. Otherwise, what happens is that time just passes,...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/01/new-year-new-challenges.html",
+        "teaser": null
       }]
