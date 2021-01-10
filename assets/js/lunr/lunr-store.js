@@ -208,4 +208,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/01/new-year-new-challenges.html",
         "teaser": null
+      },{
+        "title": "Living Ultralight",
+        "excerpt":"As it is the beginning of a new year, we recently renewed our Navigo passes for the whole year. Although it is a bit painful to pay for the whole year up front, I prefer that to giving out bank account information for monthly payments. The choice to use the...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/01/living-ultralight.html",
+        "teaser": null
       }]
