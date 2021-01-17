@@ -214,4 +214,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/01/living-ultralight.html",
         "teaser": null
+      },{
+        "title": "Snow Weekend",
+        "excerpt":"On Saturday morning, my wife left the house early to head into Paris and get some specific items from a Chinese grocery store. Given the time it takes to get there and back, and also knowing that she would be going with a friend, I knew that I had the...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/01/snow-weekend.html",
+        "teaser": null
       }]
