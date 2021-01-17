@@ -1,0 +1,18 @@
+---
+date:   2021-01-17 17:00:00 +0100
+layout: single
+title:  "Snow Weekend"
+---
+On Saturday morning, my wife left the house early to head into Paris and get some specific items from a Chinese grocery store. Given the time it takes to get there and back, and also knowing that she would be going with a friend, I knew that I had the children all to myself for the entire morning, until noon or even a little after. Little did I know that this Saturday morning would be an especially exciting time for them.
+
+I thought I might get lucky and be able to sleep in, but less than ten minutes after my wife had left the house, our son Daniel found me, and was upset that his mother was not there. Pretty soon his sister arrived as well, and we were all in bed together. I let them watch an old Asterix movie, which is a classic French cartoon, as well as a Wallace and Gromit film. I went to work on my computer, but after awhile was ready to get up, so I finally opened up the shutters, which is when I realized it had been snowing for awhile.
+
+Opening up the shutters to a world of whiteness is a special feeling. It harkens back to childhood, waking up to a snow day, seeing that it had snowed overnight and the ground was no longer visible, being instead covered with a white blanket of snow. The children of course noticed the snow just as quickly. Once they saw that it, they were very excited, and immediately wanted to go out and play. Daniel, being just two years old, enjoyed simply staring out the window to watch the snow fall lightly into our back yard. Miriam preferred to pester me in constantly asking when we were going to go out to play. Daniel quickly joined in to make it a chorus.
+
+Preparing children to go out in the snow is a pain. They have to have a lot of clothing on, but they don't want it. Once they get outside and fall down, they complain that they are cold and wet. I was lucky in that the children didn't complain too much when I insisted on several layers. Unfortunately, Miriam's best coat was not waterproof, and I don't know if we have snow gloves for anybody. We just went out with the best we could come up with.
+
+One thing I immediately noticed was that my wife had not left any footprints in the snow when she left, meaning that in just a few hours, everything had been completely covered in snow. The next thing I remarked is that there are limited options for playing in the snow with small children. We ran around, hit the windows with a couple snowballs, and played hide and seek in the snow. I'm glad nobody tried to make a snow angel, although Daniel did slip and fall several times. After less than an hour playing outside, everyone was ready to go back into the house, where I finally succeeded in getting the fire going.
+
+It would seem that I've turned into a bit of a Grinch since my youth, as I was very happy to be back inside and away from the snow. The main thing that I noticed about snow is that it is very cold and wet. While during my childhood I may have looked past this in order to go sledding, this weekend I mostly just wanted to avoid the cold and wet snow. Thankfully, the children had their fun and the snow was beautiful to watch from the comfort of our house.
+
+Perhaps the best part of the snow weekend for me was that it ended the next day. Today when I went out, the snow was completely gone from the roads, and elsewhere only a little remained. Snow is fun for a day, but when it bogs down school, work, and the commute during the week, it loses its charm. We had a good weekend in the snow, and made a few memories with the children. Even so, I'm happy that the snow weekend will remain just the weekend.
