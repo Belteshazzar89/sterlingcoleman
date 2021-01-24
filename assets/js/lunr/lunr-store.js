@@ -220,4 +220,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/01/snow-weekend.html",
         "teaser": null
+      },{
+        "title": "On the Trail: Matthew Hengst",
+        "excerpt":"During a recent conversation with my parents, I mentioned that it was a shame that no one had recently surfaced on the Trail Journals site with a journal of a hike on the Eastern Continental Trail. Ever since I hiked the ECT in 2012, I’ve been keen to read other...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/01/matthew-hengst.html",
+        "teaser": null
       }]
