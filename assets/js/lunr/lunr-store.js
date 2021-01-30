@@ -226,4 +226,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/01/matthew-hengst.html",
         "teaser": null
+      },{
+        "title": "The Sequelize Saga",
+        "excerpt":"Recently I found the source to a very befuddling problem that I had been grappling with on and off again for weeks. As a warning to other developers, I’d like to recount my tale of woe. The subject here is Sequelize, which is an ORM (Objet Relational Mapping) tool which...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/01/sequelize-saga.html",
+        "teaser": null
       }]
