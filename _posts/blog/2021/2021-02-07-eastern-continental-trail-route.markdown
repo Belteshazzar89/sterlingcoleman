@@ -1,0 +1,22 @@
+---
+date:   2021-02-07 12:00:00 +0100
+layout: single
+title:  "Eastern Continental Trail Route"
+---
+As I have often mentioned, my time on the Eastern Continental Trail was transformative for me. Finishing the thru-hike, and doing so without having ever done a real hiking trip before, was a big accomplishment for me. Afterwards, I was ready and confidnent to take on new challenges. Therefore I look back fondly on my time on the ECT and hope to follow the journeys of new hikers on the trail. Because the ECT isn't a trail with its own caretaker organization, the information needed to learn more about the trail is scattered among the various trails which constitute the ECT, as well as the personal sites of various hikers. Therefore, I've decided to launch a new website dedicated to the [Eastern Continental Trail][ect].
+
+The website has just been started recently, and there is much work to be done. So far, I've spent a lot of time working on the route page. This is important, because as soon as someone arrives on the home page for the site, they should instantly have an idea of what the Eastern Continental Trail is. By putting a static image of a satellite view of the East Coast with the trail layered in, the vast distance of the trail and its geography should be evident. Clicking this image leads to the route page.
+
+The route page is currently just a Google Map of the Eastern Continental Trail. Just putting this map together took a lot of time. In order to do so, I had to find the appropriate files for the Florida Keys Overseas Heritage Trail, South Dade Greenway, Roberts Lake Trail, Florida Trail, Pinhoti Trail, Benton MacKaye Trail, Appalachian Trail, and each state or province of the International Appalachian Trail.
+
+Even all that was not enough. The trail on Prince Edward Island is simply the Confederation Trail, but the Confederation Trail is a network of trails, and therefore I had to remove all the portions which are not part of the Eastern Continental Trail. I had to do the same type of thing for Newfoundland. The file which I found on the Florida Trail required the most work. It has the trail split into over a hundred small sections, with many parts being connector trails or side trails. I removed all the unnecessary stuff, and then had to work a considerable amount to trim down the file size to something acceptable by Google Maps.
+
+There does not seem to be any GPS track or other similar file for the Nova Scotia portion of the International Appalachian Trail. I used the existing maps to make a new file, as I did for the Alabama Roadwalk and the walk on US 41 to the Roberts Lake Trail. The end result is, to my knowledge, the first ever interactive map of the official route of the entire Eastern Continental Trail.
+
+I believe that this is a very important part of advocating for the ECT. Most people want to see a visual representation of the trail, and simply stating that the trail includes a bunch of trails on the East Coast doesn't really do the trail justice. A single interactive map with the entire trail should capture more interest in the trail. The goal of the website is to continue to centralize information on the trail in this way.
+
+Future developments on the route page include adding the connection between the Northern Terminus of the Appalachian Trail and the Southern Terminus of the International Appalachian Trail. In addition, I will be adding a simple tool to calculate how long the route is, depending on the route taken in Florida and the choice of Northern Terminus. Many people start or end their hike at Cap Gaspé in Quebec, but some choose to additionally do the sections in Prince Edward Island, Nova Scotia, and Newfoundland, though none of these sections are connected to each other by land.
+
+There is much more to be done to make the site really useful, but I'm already happy to have the route online. I want to put more resources on the website to help people planning to spend time on the trail, and I also want to build a small community interface. One nice thing about the ECT is that few people actually hike the trail, so the thru-hiker community is quite small and can have a more personal feel. I'll be working on bringing that experience to encourage more publicity for the Eastern Continental Trail.
+
+[ect]: https://easterncontinentaltrail.com
