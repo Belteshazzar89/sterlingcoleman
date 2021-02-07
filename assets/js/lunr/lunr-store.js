@@ -232,4 +232,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/01/sequelize-saga.html",
         "teaser": null
+      },{
+        "title": "Eastern Continental Trail Route",
+        "excerpt":"As I have often mentioned, my time on the Eastern Continental Trail was transformative for me. Finishing the thru-hike, and doing so without having ever done a real hiking trip before, was a big accomplishment for me. Afterwards, I was ready and confidnent to take on new challenges. Therefore I...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/02/eastern-continental-trail-route.html",
+        "teaser": null
       }]
