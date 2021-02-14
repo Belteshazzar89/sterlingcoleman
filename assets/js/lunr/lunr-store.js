@@ -238,4 +238,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/02/eastern-continental-trail-route.html",
         "teaser": null
+      },{
+        "title": "The Year of the Cow",
+        "excerpt":"This past weekend has been double packed with special days. Friday was the Chinese New Year, which is actually an event that goes on for weeks. This year is the year of the Cow, which is supposed to be a more auspicious symbol than that of the previous year, the...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/02/year-of-the-cow.html",
+        "teaser": null
       }]
