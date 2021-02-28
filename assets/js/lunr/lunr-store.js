@@ -244,4 +244,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/02/year-of-the-cow.html",
         "teaser": null
+      },{
+        "title": "Running",
+        "excerpt":"This weekend I went running for the first time in almost a year. My friend Yohan has been trying to get me back into running off and on for several months, and this weekend I finally gave in and put my running shoes back on. It had been a long...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/02/running.html",
+        "teaser": null
       }]
