@@ -250,4 +250,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/02/running.html",
         "teaser": null
+      },{
+        "title": "My One Thing at a Time Theory",
+        "excerpt":"Often when I’m working on a project, a proposal will be made to make multiple improvements at the same time. We can upgrade to a different technology so that we can use that technology’s exclusive features. So why not do both at once? The short answer is usually: because it...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/03/one-thing-theory.html",
+        "teaser": null
       }]
