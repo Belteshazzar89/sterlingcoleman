@@ -256,4 +256,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/03/one-thing-theory.html",
         "teaser": null
+      },{
+        "title": "How Long is the Eastern Continental Trail?",
+        "excerpt":"I’ve finally gotten around to adding an important page to the Eastern Continental Trail website: the route distance page. This page responds to one of the more common questions that I received when I was hiking on the ECT: “How long is that?”. This question really deserved a page of...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/03/ect-distance.html",
+        "teaser": null
       }]
