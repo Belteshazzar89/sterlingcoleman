@@ -1,0 +1,20 @@
+---
+date:   2021-03-21 16:00:00 +0100
+layout: single
+title:  "How Long is the Eastern Continental Trail?"
+---
+I've finally gotten around to adding an important page to the Eastern Continental Trail website: the route distance [page][distance]. This page responds to one of the more common questions that I received when I was hiking on the ECT: "How long is that?". This question really deserved a page of its own, because the answer depends on several factors.
+
+First of all, an ECT hiker has several choices to make. Besides the common choice of choosing to travel the trail going North, or to take the path less traveled and head South, there are choices which can actually affect the distance of the hike. First, the Florida Trail includes two basic East-West decisions: Lake Okeechobee and the Central Florida Corridors. Lake Okeechobee is situated in South Florida, and most hikers choose to take the slightly more direct route and travel West around this lake, rather than East, though the difference is a miniscule two miles. In Central Florida, many hikers choose to travel on the Eastern Corridor, which passes through the Northeastern suburbs of Orlando, while others choose the Western Corridor, which is 34 more miles in comparison, and includes the Green Swamp and a path much farther from Orlando.
+
+Most trails don't contain these sorts of options. Besides these two choices, the only other real decision is to determine the Northern Terminus of the hike. The Eastern Continental Trail was originally a hike from Key West to Cap Gaspé in Québec. Since then, the International Appalachian Trail has expanded, and some hikers choose to include the provinces of Prince Edward Island, Nova Scotia, and Newfoundland in their journey.
+
+So finally, the answer to the question is that the ECT is about 4800 miles (7800 kilometers) when starting or finishing at Cap Gaspé, or 5700 miles (9200 kilometers) when starting or finishing at Crow Head (or Belle Isle) in Northern Newfoundland. These distances should be accurate, as the distances of each component trail have been refined over the years to be more and more accurate.
+
+The distance of the Appalachian Trail has been well studied over the years, and is currently measured to be 2193 miles (3537 kilomets), which is almost half of the ECT as it runs between Key West and Cap Gaspé. Likewise, the distances of the other trails is continually being more accurately measured. In my mind, the real question in this area is: what is the most accurate way to measure the distance of the trail. For example, is a detailed GPS track a good source? From what I have seen, the measured distances of the files which exist on the internet are significantly different from those of the published lengths of the trails. For example, I have a Keyhole Markup file for the Appalachian Trail which measures 1970 miles, a full 220 miles of difference, or 10% of the entire trail. Meanwhile, each chapter of the International Appalachian Trail seems to have used the GPS file data as the official distance, as each file matches the reported distance to the kilometer (or mile).
+
+Whether or not the reported numbers are 99% accurate or just 95% accurate, the page which I have added to the ECT website clearly shows the breakdown of the distance among the ECT's component trails. Besides the Appalachian Trail, about 1300 miles (2100 kilometers) of distance is in the state of Florida alone. The relative distance of the IAT in proportion to the entire ECT varies greatly depending on the choice to set the Northern Terminus at Newfoundland or Québec. The extra 850 miles (1400 kilometers) makes Newfoundland the province with the most trail distance in the IAT, instead of Québec.
+
+No matter what choices are made, the Eastern Continental Trail is quite a long trail. I'd pack a lunch.
+
+[distance]: https://easterncontinentaltrail.com/route/distance
