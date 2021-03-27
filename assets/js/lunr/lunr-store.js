@@ -262,4 +262,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/03/ect-distance.html",
         "teaser": null
+      },{
+        "title": "Robert Massie's Russian Rulers",
+        "excerpt":"I’ve just finished Catherine the Great: Portrait of a Woman by Robert Massie, and since it is the third and final biography of a Russian emperor or empress that I will read, I’d like to dedicate a post to applaud these three great books. The first book written by Massie...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/03/massies-russian-rulers.html",
+        "teaser": null
       }]
