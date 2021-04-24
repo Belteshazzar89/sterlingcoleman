@@ -268,4 +268,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/03/massies-russian-rulers.html",
         "teaser": null
+      },{
+        "title": "Terrorism in Rambouillet",
+        "excerpt":"Yesterday afternoon, a man of Tunisian origin attacked and killed Stephanie, an employee at the Rambouillet police station, with a knife. He cut her throat before being killed by policemen on the scene. I found this to be much more shocking than most news of this type because I am...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/04/terrorism-rambouillet.html",
+        "teaser": null
       }]
