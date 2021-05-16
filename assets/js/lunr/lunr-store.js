@@ -274,4 +274,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/04/terrorism-rambouillet.html",
         "teaser": null
+      },{
+        "title": "Finishing the Carpet",
+        "excerpt":"For a long time, the upstairs bedrooms in our house have been unfinished. This is mostly because of a multitide of setbacks, starting with the discovery that we had water damage at two different windows. Including the time needed to find a suitable way to replace the windows as cheaply...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/05/finishing-carpet.html",
+        "teaser": null
       }]
