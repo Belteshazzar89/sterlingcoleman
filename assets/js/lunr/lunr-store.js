@@ -280,4 +280,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/05/finishing-carpet.html",
         "teaser": null
+      },{
+        "title": "Patrick Leigh Fermor",
+        "excerpt":"A couple of years ago, my father recommended me a book called A Time of Gifts By Patrick Leigh Fermor. The book chronicles the beginning of Fermor’s travels from England across Europe to Istanbul, ending at the border between Romania and Yugoslavia. I was a bit skeptical at first, as...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/05/patrick-leigh-fermor.html",
+        "teaser": null
       }]
