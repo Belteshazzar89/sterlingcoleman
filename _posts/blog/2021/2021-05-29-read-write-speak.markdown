@@ -1,0 +1,16 @@
+---
+date:   2021-05-29 08:00:00 +0200
+layout: single
+title:  "Learning to Read, Write, and Speak"
+---
+I typically try not to write too much about my children. Bragging about them can be good in moderate amounts, but as the Western world has seen in the past few decades, many parents think that every little thing that their kids do is a big achievement. Not everything that a child does is a sign of a big improvement or new abilities. However, recently our daughter Miriam has progressed a lot in her reading and writing abilities, and our son Daniel has been speaking in longer and more complex sentences. That type of development is indeed a big improvement.
+
+Miriam is not yet six years old, and in the French school system, she is in the last year of what I would call preschool. Real schoolwork doesn't really begin until next year, when she enters the elementary school. Of course, her teachers do a lot of work with her right now too, and she has learned a lot at school. But as far as I know, she is not expected to be able to read or write full sentences on her own until next year.
+
+Our son Daniel is just three years old, so reading and writing is still a couple of years away. However, he has been making big improvements in his speaking ability. It used to be that he would just give a few words in response to a question or command. Now, he demonstrates an enjoyment in putting together longer statements. He's starting to lose the baby voice and sound much more like our daughter or other children when he speaks. It's difficult to explain the difference, but it's obvious when we listen to him talk that he is enjoying speaking. Of course, we are a little wary that this could soon lead to the period that our daughter Miriam had at this age, at which time if she was awake, she was talking. But Daniel is a different person, and we're happy that he is demonstrating an enjoyment of his new skills in verbal communication.
+
+Of course, what is most impressive about all of this is that both children are multilingual. In fact, the improvements which I have described in Miriam's reading and writing are just what I have seen in English. I haven't seen her reading in French, but I know that she can write a lot of basic French words already. Most interestingly, according to my wife her Chinese character writing has progressed a lot as well. Daniel may not be speaking a lot of French, but he does understand French, and he enjoys repeating the days of the week or counting to ten with his sister.
+
+As a parent, improvements in communication skills are improvements worth celebrating. It makes our job a lot easier when communication is better. When Daniel can express himself, he cries less, which is a big relief for our nerves. As Miriam continues to improve her reading, she is entering a new phase in which she enjoys reading, and will read things by herself, making things easier for us.
+
+And of course, as a parent there is a simple satisfaction in seeing a change in our children, and watching them grow. Reading, writing, and speaking are all important skills on their own. Seeing improvements in those subjects in three different languages makes us very proud, and is part of the validation we feel as parents who have made an effort to provide the right learning environemnt to obtain these important skills.
