@@ -286,4 +286,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/05/patrick-leigh-fermor.html",
         "teaser": null
+      },{
+        "title": "Learning to Read, Write, and Speak",
+        "excerpt":"I typically try not to write too much about my children. Bragging about them can be good in moderate amounts, but as the Western world has seen in the past few decades, many parents think that every little thing that their kids do is a big achievement. Not everything that...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/05/read-write-speak.html",
+        "teaser": null
       }]
