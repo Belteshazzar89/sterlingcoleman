@@ -292,4 +292,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/05/read-write-speak.html",
         "teaser": null
+      },{
+        "title": "Mont Blanc Preparation",
+        "excerpt":"Months ago, my brother surprised me by proposing that we climb Mont Blanc together. Mont Blanc is the highest mountain in Western Europe, or rather, the highest mountain in Europe not including the Caucasus, which contains several mountains which reach a higher elevation. At just over 4,800 meters, Mont Blanc...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/06/mont-blanc-preparation.html",
+        "teaser": null
       }]
