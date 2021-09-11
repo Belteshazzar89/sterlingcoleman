@@ -298,4 +298,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/06/mont-blanc-preparation.html",
         "teaser": null
+      },{
+        "title": "Success on Mont Blanc: Part 1",
+        "excerpt":"Now that the summer is coming to an end, I’m finally getting back to my blog. Taking a break has been refreshing, and I’ve been busy with a lot of different things. Now that I have a free moment, I’d like to recount the adventure of climbing Mont Blanc with...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/08/success-mont-blanc-part-1.html",
+        "teaser": null
       }]
