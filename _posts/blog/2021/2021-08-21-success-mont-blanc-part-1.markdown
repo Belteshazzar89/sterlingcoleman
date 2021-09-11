@@ -1,0 +1,20 @@
+---
+date:   2021-08-21 09:00:00 +0200
+layout: single
+title:  "Success on Mont Blanc: Part 1"
+---
+Now that the summer is coming to an end, I'm finally getting back to my blog. Taking a break has been refreshing, and I've been busy with a lot of different things. Now that I have a free moment, I'd like to recount the adventure of climbing Mont Blanc with my brother Kevin at the beginning of August.
+
+As I have mentioned previously, Kevin had recruited me for this trip over a year before, and we had spent a lot of time preparing reservations and researching the logistics. On Tuesday, August 3, he flew into Paris, and we met up. First we got his American vaccine card translated into a French QR code in the TousAntiCovid app, allowing him to access any locations requiring proof of a vaccination or a negative COVID test. After getting off work, we hastily transferred everything we wouldn't be taking to the mountain to my wife to take back to our house, and we travelled across Paris to get on our high-speed train to Lyon.
+
+We traversed Lyon on foot at midnight, still clutching our shopping bags full of gear and food, and found our hotel for the night. Up by 6AM the next morning, we took a series of regional trains to Saint-Gervais-les-Bains, one of the villages at the foot of Mont Blanc. Just getting from the train station to the rental gear shop was a challenge. I made a big mistake by following Google Maps through a park, which led us up a steep and muddy footpath. Our large bag handles were difficult to manage with pure arm strength, and by the time we made it up to the top, I was soaked in sweat.
+
+We didn't have much time to commiserate, as we needed to get to Unlimited Sports to rent our mountaineering gear before it closed for lunch. We did finally arrive, and started the long process of getting all of our gear, and receiving instructions on every piece. The owner of the shop was helpful and took the time to make sure we understood how everything worked, and that we were prepared.
+
+By the time we were ready to leave the village, it was already 1PM. I called the the Eagle's Nest hut, were we had a reservation for the night, to confirm that we could arrive after the normal 5PM limit. I was told that anything before 7PM was fine. With this taken care of, we stocked up on water and left on a long walk up to the Eagle's Nest. I had asked my brother if we could do this instead of simply taking the tramway, as I wanted the experience of climbing the entire mountain. We had already walked from the train station up to the upper portion of the village, and now we passed though Bionnay, and then Bionnassay. Bionnassay is a group of homes way up on the side of the mountain. Wearing our slightly unweildy mountaineering boots from the rental shop, we slowly made our way to this village.
+
+Once up at the heart of Bionnassay, we saw a sign marking the Eagle's Nest as being 3 hours and 50 minutes away by foot. It was already 4PM. We didn't have much choice but to just continue trudging on, as we continued to climb up and up. Our packs felt heavy. At one point, I asked Kevin to take the 30-meter mountaineering rope for a time, as it was the heaviest thing I had, and I was feeling tired. The path up from Bionnassay to the Eagle's Nest was very long. The portion just after leaving the village felt like a steep climb with our full packs. Of course, there was beauty all around us, which encouraged us to keep moving forward. As we continued on, each sign further on showed that we were reducing the gap and stood a chance of arriving at the refuge by 7PM.
+
+In the last portion of the day, the slight drizzle we had been experiencing all day picked up. Combined with a stronger wind, Kevin was feeling pretty cold, and put on all his gear in order to stay safe. We had to cross a series of small streams and waterfalls which slowed us down a little bit, and there was just a non-stop climb that had our spirits low. After little sleep, Kevin's jet lag, and heavy packs, we had had enough. Thankfully, the slog did eventually end, and we made it to the Eagle's Nest about 60 seconds before 7PM.
+
+To be continued...
