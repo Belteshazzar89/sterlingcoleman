@@ -304,4 +304,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/08/success-mont-blanc-part-1.html",
         "teaser": null
+      },{
+        "title": "Success on Mont Blanc: Part 2",
+        "excerpt":"We were exhausted both physically and emotionnaly when we arrived at the Eagle’s Nest. We had hiked upwards for 6 hours through rain and wind to get to the point at which most climbers start their trip after taking the tramway. The staff at the Eagle’s Nest was very kind,...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/08/success-mont-blanc-part-2.html",
+        "teaser": null
       }]
