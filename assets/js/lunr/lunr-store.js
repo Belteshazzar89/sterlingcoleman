@@ -310,4 +310,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/08/success-mont-blanc-part-2.html",
         "teaser": null
+      },{
+        "title": "Success on Mont Blanc: Part 3",
+        "excerpt":"In the very early hours of the morning, everyone else in the hut got up and started their ascent to the summit. I woke up later and noticed that the wind was howling outside. Refuge Goûter sits on the edge of a cliff, which makes for an incredible view, albeit...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/09/success-mont-blanc-part-3.html",
+        "teaser": null
       }]
