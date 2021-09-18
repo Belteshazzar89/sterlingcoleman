@@ -316,4 +316,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/09/success-mont-blanc-part-3.html",
         "teaser": null
+      },{
+        "title": "9/11: 20 Years Later",
+        "excerpt":"Like most people who can remember September 11, 2001, I remember first and foremost where I was when the news broke. I was in middle school at The Covenant School, a great private Christian school in Charlottesville, Virginia. The school was finishing up a brand new campus that we would...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/09/9-11-20-years-later.html",
+        "teaser": null
       }]
