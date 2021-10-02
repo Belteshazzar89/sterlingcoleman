@@ -322,4 +322,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/09/9-11-20-years-later.html",
         "teaser": null
+      },{
+        "title": "A Wonderful Wedding",
+        "excerpt":"The big event this summer was the August wedding cerembony for my brother Kevin, and his fiancé Emma. Kevin and Emma had met years before, but hadn’t started dating until later on. Very soon after the engagement, plans were made to have the wedding sooner rather than later. Having had...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/09/wonderful-wedding.html",
+        "teaser": null
       }]
