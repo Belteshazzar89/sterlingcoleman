@@ -324,8 +324,14 @@ var store = [{
         "teaser": null
       },{
         "title": "A Wonderful Wedding",
-        "excerpt":"The big event this summer was the August wedding cerembony for my brother Kevin, and his fiancé Emma. Kevin and Emma had met years before, but hadn’t started dating until later on. Very soon after the engagement, plans were made to have the wedding sooner rather than later. Having had...","categories": [],
+        "excerpt":"The big event this summer was the August wedding ceremony for my brother Kevin, and his fiancée Emma. Kevin and Emma had met years before, but hadn’t started dating until later on. Very soon after the engagement, plans were made to have the wedding sooner rather than later. Having had...","categories": [],
         "tags": [],
         "url": "/blog/2021/09/wonderful-wedding.html",
+        "teaser": null
+      },{
+        "title": "What I'm Watching: Justin Barbour",
+        "excerpt":"It’s not often for me to find a series of adventures that really captures my attention these days, as many of the popular trips we find on the internet are road trips or rather mundane adventures that never enter into truly remote territory. Recently, while playing around on Google Maps,...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/09/watching-justin-barbour.html",
         "teaser": null
       }]
