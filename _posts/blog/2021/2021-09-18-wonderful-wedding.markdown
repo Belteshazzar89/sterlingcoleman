@@ -3,7 +3,7 @@ date:   2021-09-18 12:00:00 +0200
 layout: single
 title:  "A Wonderful Wedding"
 ---
-The big event this summer was the August wedding cerembony for my brother Kevin, and his fiancé Emma. Kevin and Emma had met years before, but hadn't started dating until later on. Very soon after the engagement, plans were made to have the wedding sooner rather than later. Having had a short engagement period myself, I admired the willingness to commit to marriage once the decision was made. We had our tickets to fly to the United States (along with Kevin, who came to do Mont Blanc), and were excited to be witness to this great event.
+The big event this summer was the August wedding ceremony for my brother Kevin, and his fiancée Emma. Kevin and Emma had met years before, but hadn't started dating until later on. Very soon after the engagement, plans were made to have the wedding sooner rather than later. Having had a short engagement period myself, I admired the willingness to commit to marriage once the decision was made. We had our tickets to fly to the United States (along with Kevin, who came to do Mont Blanc), and were excited to be witness to this great event.
 
 Of course, we weren't merely witnesses. Kevin had already honored me by asking me to be the Best Man at his wedding, and I had been working on my speech, though it wasn't finished yet. Our daughter Miriam was the flower girl, and our son Daniel was the ring bearer. Not only that, but Kevin and Emma had recently bought a house, and offered to let us stay there in the week prior to the wedding. We found their house to be wonderful, with an all-new interior and a big back yard.
 
