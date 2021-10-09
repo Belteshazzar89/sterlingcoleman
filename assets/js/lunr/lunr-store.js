@@ -334,4 +334,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/09/watching-justin-barbour.html",
         "teaser": null
+      },{
+        "title": "Back to School",
+        "excerpt":"With all of the other topics that I wanted to share, I haven’t yet had a chance to write about the start of a new school year. As parents, the apprehension of our children to going to school is balanced directly by our joy in sending them. This year is...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/10/back-to-school.html",
+        "teaser": null
       }]
