@@ -1,0 +1,18 @@
+---
+date:   2021-10-09 12:00:00 +0200
+layout: single
+title:  "Stellaris"
+---
+Given how much I've played this game in recent months, it's only fair that I spend some time talking about my interest in one of Paradox Interactive's games. My interest in Paradox came when I started playing Europa Universalis 4, a game which really deserves its own post. That is probably Paradox's most well-known and successful game, and thoug I knew that they had done other games such as Crusader Kings, I never jumped at the chance to play any of their other games. That changed recently when I found a bundle on the wonderful site Humble Bundle to buy Stellaris and some extra content for a low price. I decided to take the offer, and I haven't regretted it.
+
+Most of the games that I enjoy are strategy games. Games in which I can control some territory and build a civilization are always fun. Most of the games that I had played in this genre focused on ancient times: Age of Empires, Civilization (which I find more fun in the early stages), and Europa Universalis, which is not ancient but certainly medieval. I had some interest in trying the same context in a futuristic setting, which led me to buy Master of Orion years ago. That was an interesting game, though flaxed. Stellaris far surpasses it, and really meets my expectations.
+
+Much more than just Europa Universalis in space, Stellaris has a all the basic elements of a [4X game][4x], but with some story elements as well. As the game progresses, events occur which can shape the outlook of your civilization, and there is a lot of good science fiction writing that makes the archeological finds and scientific discoveries interesting. To me, this is the mark of a good space game. Because the game is in the future, naturally it is fiction, and being in space, it's science fiction, which is a difficult genre for which to write a story. The events have to be beyond the current experiences of humanity, but also believable.
+
+One of the ways that Stellaris stays interesting is by simply having so many dimensions. Other games that I know in this genre have types of planets and different civilizations, each with specific characteristics. Stellaris has that, but also has more sophisticated systems for planet, resource, and population management. The exploration and discovery process is a little more detailed, and there are simply more types of non-playable entities in the galaxy, with fallen empires, merchant groups, hostile drones, and more all being not unimportant pieces of the galactic picture.
+
+The technological tree is vast, and there are ways to play the game "tall" instead of just "wide", meaning that there are viable strategies to sticking to a small piece of territory and not expanding. This is an important subject for any 4X game, as most fail to come up with alternatives to the typical strategy of expanding infinitely in order to control more resources. That is still one possibility in Stellaris, but the player can also stick to the few planets surrounding the homeworld, and vastly increase the population on these planets, all while remaining competitive with those empires covering many more systems.
+
+I would definitely recommend Stellaris to anyone interested in this genre, who also enjoys science fiction. If the futuristic aspect is not important, there are already many other games that do exploration and civilization-building quite well. Concerning Stellaris, I haven't seen any game that has accomplished as much in an engaging futuristic science fiction galaxy while retaining everything great about the empire-building games that I have come to enjoy the most.
+
+[4x]: https://en.wikipedia.org/wiki/4X
