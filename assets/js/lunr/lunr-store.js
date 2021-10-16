@@ -340,4 +340,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/10/back-to-school.html",
         "teaser": null
+      },{
+        "title": "Stellaris",
+        "excerpt":"Given how much I’ve played this game in recent months, it’s only fair that I spend some time talking about my interest in one of Paradox Interactive’s games. My interest in Paradox came when I started playing Europa Universalis 4, a game which really deserves its own post. That is...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/10/stellaris.html",
+        "teaser": null
       }]
