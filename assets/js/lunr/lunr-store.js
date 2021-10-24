@@ -346,4 +346,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/10/stellaris.html",
         "teaser": null
+      },{
+        "title": "Jonah",
+        "excerpt":"On Wednesdays, I’ve been trying to get through one section of the book of Jonah during my train ride home. Our church has Wednesday night Bible studies, but they aren’t very convenient for a family with small children who need to get to bed early in preparation for school the...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/10/jonah.html",
+        "teaser": null
       }]
