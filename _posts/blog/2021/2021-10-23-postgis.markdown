@@ -1,0 +1,22 @@
+---
+date:   2021-10-23 12:00:00 +0200
+layout: single
+title:  "PostGIS"
+---
+Recently I was working on a personal project involving geographical data, and realized that I needed to do spatial calculations such as distance inside a certain radius. In previous times, I might have programmed a function in JavaScript to do the calculations directly in the backend of my application. But in recent years, I've been improving my awareness of how to structure applications and make the right decisions when it comes to assigning responsibilities and roles among the different portions of an application. In the old legend of the Handyman's Invoice, the engineer explains that knowing where to place the fix is worth much more than the fix itself. With that in mind, wouldn't it be great to do the geographical calculations directly at the database level?
+
+The problem I was presented with demanded handling a large set of geographical data, and performing distance calculations to return the subset which matched a certain criteria. Clearly, the JavaScript solution would not be ideal. Even getting started on such a solution would present problems. Would the backend simply get all data, then filter via its calculations? Theoretically, the backend could do some prior calculations, such as calculating absolute maximum and minimum latitude and longitude limits, then get all points within those limits, and finally perform the radius calculations to see which points actually fall in the circle. And in fact, the instructions sent to the database by the backend could become even more complicated if the backend calculated certain regions (to exclude) that were within the absolute limits, but certain not to be within the radius, such as the corners of a square which contains a circle.
+
+By thinking about the problem this way and trying to improve the backend solution, we can see that we are moving towards the ideal solution, of having the database return only the points within the radius, and doing no extra calculations in the backend whatsoever. This would be not only more logical, but also better in terms of performance. Such a solution would require database tools which understand a spatial calculation, and ideally could use the power of an index to avoid a sequential search of the geographical data.
+
+Enter [PostGIS][postgis]. PostGIS is an extension of PostgreSQL databases that loads a library of geographical and geometrical functions, types, and indexes. There is too much to present in one post, but suffice it to say that every possible function, data type, and index is present in this very helpful tool. For my project, I first needed a function that would calculate the distance between a data point and a test point (or alternatively, calculate the inclusion of a point within a given radius of another point). PostGIS has many functions that could fill this requirement, such as [Distance Sphere][distance_sphere]. Note that the function even takes a spherical shape into consideration, and treats points as WGS 80 latitude/longitude points.
+
+However, there is another function, [Within][within], that does one better. This function accomplishes the same goal, yet can take a [geography][geography] type, and most importantly, seeks by default to use a [spatial index][spatial]. This is where PostGIS goes from being useful to being critically important. Using a spatial index, we no longer need to sequentially scan all of our data points. Instead, we have the points already organized (indexed) in such a manner that we can jump straight to the records where we are most likely to match our request.
+
+With this in place, a request for all points within hundreds or thousands of kilometers of another point returns us our result set in less than five milliseconds! Though this measurement is taken from a reduced data set, even a larger data set will still perform quite admirably when properly indexed. This is a relatively simple example of the utility of PostGIS. The tool can also perform much more complex operations and keep indexes on spatial geometries. Given what I've seen from PostGIS in my limited time working with it, I will definitely be trying to take advantage of it on future projects.
+
+[distance_sphere]: https://postgis.net/docs/manual-1.4/ST_Distance_Sphere.html
+[geography]: http://postgis.net/workshops/postgis-intro/geography.html
+[postgis]: https://postgis.net
+[spatial]: http://postgis.net/workshops/postgis-intro/indexing.html
+[within]: https://postgis.net/docs/ST_DWithin.html
