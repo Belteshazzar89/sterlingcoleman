@@ -9,38 +9,38 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Jonah - Sterling Coleman</title>
-<meta name="description" content="On Wednesdays, I’ve been trying to get through one section of the book of Jonah during my train ride home. Our church has Wednesday night Bible studies, but they aren’t very convenient for a family with small children who need to get to bed early in preparation for school the next day. Given that I’ve now finished the short story of Jonah, I’d like to share a few of my thoughts. I find it interesting to compare my life with that of a person like Jonah, living in ancient times and thus a different social or cultural environment. Despite the differences, he seems to have many of the same problems that modern peopel encounter.  ">
+<!-- begin _includes/seo.html --><title>PostGIS - Sterling Coleman</title>
+<meta name="description" content="Recently I was working on a personal project involving geographical data, and realized that I needed to do spatial calculations such as distance inside a certain radius. In previous times, I might have programmed a function in JavaScript to do the calculations directly in the backend of my application. But in recent years, I’ve been improving my awareness of how to structure applications and make the right decisions when it comes to assigning responsibilities and roles among the different portions of an application. In the old legend of the Handyman’s Invoice, the engineer explains that knowing where to place the fix is worth much more than the fix itself. With that in mind, wouldn’t it be great to do the geographical calculations directly at the database level?  ">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Sterling Coleman">
-<meta property="og:title" content="Jonah">
-<meta property="og:url" content="/blog/2021/10/jonah.html">
+<meta property="og:title" content="PostGIS">
+<meta property="og:url" content="/blog/2021/10/postgis.html">
 
 
-  <meta property="og:description" content="On Wednesdays, I’ve been trying to get through one section of the book of Jonah during my train ride home. Our church has Wednesday night Bible studies, but they aren’t very convenient for a family with small children who need to get to bed early in preparation for school the next day. Given that I’ve now finished the short story of Jonah, I’d like to share a few of my thoughts. I find it interesting to compare my life with that of a person like Jonah, living in ancient times and thus a different social or cultural environment. Despite the differences, he seems to have many of the same problems that modern peopel encounter.  ">
-
-
-
-
-
-
-
-  <meta property="article:published_time" content="2021-10-16T12:00:00+02:00">
+  <meta property="og:description" content="Recently I was working on a personal project involving geographical data, and realized that I needed to do spatial calculations such as distance inside a certain radius. In previous times, I might have programmed a function in JavaScript to do the calculations directly in the backend of my application. But in recent years, I’ve been improving my awareness of how to structure applications and make the right decisions when it comes to assigning responsibilities and roles among the different portions of an application. In the old legend of the Handyman’s Invoice, the engineer explains that knowing where to place the fix is worth much more than the fix itself. With that in mind, wouldn’t it be great to do the geographical calculations directly at the database level?  ">
 
 
 
 
 
-  
+
+
+  <meta property="article:published_time" content="2021-10-23T12:00:00+02:00">
+
+
+
+
 
   
 
+  
 
-<link rel="canonical" href="/blog/2021/10/jonah.html">
+
+<link rel="canonical" href="/blog/2021/10/postgis.html">
 
 
 
@@ -273,15 +273,15 @@
 
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Jonah">
-    <meta itemprop="description" content="On Wednesdays, I’ve been trying to get through one section of the book of Jonah during my train ride home. Our church has Wednesday night Bible studies, but they aren’t very convenient for a family with small children who need to get to bed early in preparation for school the next day. Given that I’ve now finished the short story of Jonah, I’d like to share a few of my thoughts. I find it interesting to compare my life with that of a person like Jonah, living in ancient times and thus a different social or cultural environment. Despite the differences, he seems to have many of the same problems that modern peopel encounter.">
-    <meta itemprop="datePublished" content="2021-10-16T12:00:00+02:00">
+    <meta itemprop="headline" content="PostGIS">
+    <meta itemprop="description" content="Recently I was working on a personal project involving geographical data, and realized that I needed to do spatial calculations such as distance inside a certain radius. In previous times, I might have programmed a function in JavaScript to do the calculations directly in the backend of my application. But in recent years, I’ve been improving my awareness of how to structure applications and make the right decisions when it comes to assigning responsibilities and roles among the different portions of an application. In the old legend of the Handyman’s Invoice, the engineer explains that knowing where to place the fix is worth much more than the fix itself. With that in mind, wouldn’t it be great to do the geographical calculations directly at the database level?">
+    <meta itemprop="datePublished" content="2021-10-23T12:00:00+02:00">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">Jonah
+          <h1 id="page-title" class="page__title" itemprop="headline">PostGIS
 </h1>
           
         </header>
@@ -289,19 +289,18 @@
 
       <section class="page__content" itemprop="text">
         
-        <p>On Wednesdays, I’ve been trying to get through one section of the book of Jonah during my train ride home. Our church has Wednesday night Bible studies, but they aren’t very convenient for a family with small children who need to get to bed early in preparation for school the next day. Given that I’ve now finished the short story of Jonah, I’d like to share a few of my thoughts. I find it interesting to compare my life with that of a person like Jonah, living in ancient times and thus a different social or cultural environment. Despite the differences, he seems to have many of the same problems that modern peopel encounter.</p>
+        <p>Recently I was working on a personal project involving geographical data, and realized that I needed to do spatial calculations such as distance inside a certain radius. In previous times, I might have programmed a function in JavaScript to do the calculations directly in the backend of my application. But in recent years, I’ve been improving my awareness of how to structure applications and make the right decisions when it comes to assigning responsibilities and roles among the different portions of an application. In the old legend of the Handyman’s Invoice, the engineer explains that knowing where to place the fix is worth much more than the fix itself. With that in mind, wouldn’t it be great to do the geographical calculations directly at the database level?</p>
 
-<p>The story of Jonah is well known as that of a man swalled by a big fish and spit out on the shore. This, of course, is because God sent Jonah on a mission. But how did he send him? Did Jonah hear a voice. For those of us who wish things were a little more concrete, the missing details of the form of communication between Jonah and God throughout the story are frustrating.</p>
+<p>The problem I was presented with demanded handling a large set of geographical data, and performing distance calculations to return the subset which matched a certain criteria. Clearly, the JavaScript solution would not be ideal. Even getting started on such a solution would present problems. Would the backend simply get all data, then filter via its calculations? Theoretically, the backend could do some prior calculations, such as calculating absolute maximum and minimum latitude and longitude limits, then get all points within those limits, and finally perform the radius calculations to see which points actually fall in the circle. And in fact, the instructions sent to the database by the backend could become even more complicated if the backend calculated certain regions (to exclude) that were within the absolute limits, but certain not to be within the radius, such as the corners of a square which contains a circle.</p>
 
-<p>Nevertheless, the idea of the ancient city of Nineveh interests me. I like geography, and I like history, so the workings of an ancient city seems quite interesting. In fact, Nineveh was probably the most populous city in the world at the time of Jonah’s visit, and Jonah may have in fact visited Nineveh as well as a few surrounding sites. Whatever the geography, God’s interest in Nineveh shows the importance of urban ministry in its ability to reach out to many people in a single location. Without the ministry, the city degenerates into what Nineveh was before Jonah, but by the same means, Jonah’s message spreads throughout the city and even reaches the Assyrian king, Nineveh being the seat of his empire.</p>
+<p>By thinking about the problem this way and trying to improve the backend solution, we can see that we are moving towards the ideal solution, of having the database return only the points within the radius, and doing no extra calculations in the backend whatsoever. This would be not only more logical, but also better in terms of performance. Such a solution would require database tools which understand a spatial calculation, and ideally could use the power of an index to avoid a sequential search of the geographical data.</p>
 
-<p>Of course, the most astonishing thing for me as a modern reader is to consider that the city accepted Jonah’s message and repented. This is incomprehensible in a modern setting. Can we imagine going to Moscow and having the city take a message from God seriously, and initiate a city-wide repentance movement. Or Beijing, or Paris, or New York? It’s unthinkable in a modern context in which such a message would be laughed off, treated as some sort of scam, or more likely simply drowned out by crowds wearing their headphones on their commutes and going about their daily lives, uninterested in the dealings on any particular street corner or the city square.</p>
+<p>Enter <a href="https://postgis.net">PostGIS</a>. PostGIS is an extension of PostgreSQL databases that loads a library of geographical and geometrical functions, types, and indexes. There is too much to present in one post, but suffice it to say that every possible function, data type, and index is present in this very helpful tool. For my project, I first needed a function that would calculate the distance between a data point and a test point (or alternatively, calculate the inclusion of a point within a given radius of another point). PostGIS has many functions that could fill this requirement, such as <a href="https://postgis.net/docs/manual-1.4/ST_Distance_Sphere.html">Distance Sphere</a>. Note that the function even takes a spherical shape into consideration, and treats points as WGS 80 latitude/longitude points.</p>
 
-<p>And finally, Jonah’s reason for avoiding the city is the most surprising to me personally. If it were me, I would be avoiding the trip to Nineveh because I don’t like public speaking, especially unscheduled appearances on the street to random passers-by. Jonah’s message isn’t exactly a cheerful one, so it would make sense for him to want to avoid the wrath of the Ninehvites. But no, Jonah tells God that he wanted to avoid Nineveh in order to avoid God pouring His compassion out on the city, presumably because Jonahs feels the Ninehvites are undeserving.</p>
+<p>However, there is another function, <a href="https://postgis.net/docs/ST_DWithin.html">Within</a>, that does one better. This function accomplishes the same goal, yet can take a <a href="http://postgis.net/workshops/postgis-intro/geography.html">geography</a> type, and most importantly, seeks by default to use a <a href="http://postgis.net/workshops/postgis-intro/indexing.html">spatial index</a>. This is where PostGIS goes from being useful to being critically important. Using a spatial index, we no longer need to sequentially scan all of our data points. Instead, we have the points already organized (indexed) in such a manner that we can jump straight to the records where we are most likely to match our request.</p>
 
-<p>Jonah’s mindset is therefore not aligned completely with God’s values, and the story ends with God posing the question to Jonah, “Are you right to be angry?”, referring to an analogy which God makes between a shade plant and the city of Nineveh. I’m not sure that the analogy makes sense from Jonah’s perspective, given that Jonah is a human comparing himself to the Ninehvites, but the book nonetheless ends there.</p>
+<p>With this in place, a request for all points within hundreds or thousands of kilometers of another point returns us our result set in less than five milliseconds! Though this measurement is taken from a reduced data set, even a larger data set will still perform quite admirably when properly indexed. This is a relatively simple example of the utility of PostGIS. The tool can also perform much more complex operations and keep indexes on spatial geometries. Given what I’ve seen from PostGIS in my limited time working with it, I will definitely be trying to take advantage of it on future projects.</p>
 
-<p>There is no continuation to show us the end of Jonah’s life, and I often wonder what kind of man Jonah was in general. Did he have a family? What was his main occupation? He surely must have had quite a reputation after having preached to the entire city of Nineveh, and he was in fact referenced by Jesus in the New Testament.. His father was apparently named Amittai. A site that was possibly his gravesite was attacked by ISIS in 2014. Despite the open-ended ending, I like the simple and short story, and the fact that there is a lot to consider.</p>
 
         
       </section>
@@ -312,30 +311,29 @@
 
 
         
-          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2021-10-16T12:00:00+02:00">October 16, 2021</time></p>
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2021-10-23T12:00:00+02:00">October 23, 2021</time></p>
         
       </footer>
 
       <section class="page__share">
   
 
-  <a href="https://twitter.com/intent/tweet?text=Jonah%20%2Fblog%2F2021%2F10%2Fjonah.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=PostGIS%20%2Fblog%2F2021%2F10%2Fpostgis.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=%2Fblog%2F2021%2F10%2Fjonah.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=%2Fblog%2F2021%2F10%2Fpostgis.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=%2Fblog%2F2021%2F10%2Fjonah.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=%2Fblog%2F2021%2F10%2Fpostgis.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 
       
   <nav class="pagination">
     
-      <a href="/blog/2021/10/stellaris.html" class="pagination--pager" title="Stellaris
+      <a href="/blog/2021/10/jonah.html" class="pagination--pager" title="Jonah
 ">Previous</a>
     
     
-      <a href="/blog/2021/10/postgis.html" class="pagination--pager" title="PostGIS
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 
@@ -378,14 +376,14 @@
     
     <h2 class="condense archive__item-title no_toc" itemprop="headline">
       
-        <a href="/blog/2021/10/postgis.html" rel="permalink">PostGIS
+        <a href="/blog/2021/10/jonah.html" rel="permalink">Jonah
 </a>
       
     </h2>
 	
 
-	<span class="post-date">October 23, 2021</span>
-    <p class="archive__item-excerpt" itemprop="description">Recently I was working on a personal project involving geographical data, and realized that I needed to do spatial calculations such as distance inside a cer...</p>
+	<span class="post-date">October 16, 2021</span>
+    <p class="archive__item-excerpt" itemprop="description">On Wednesdays, I’ve been trying to get through one section of the book of Jonah during my train ride home. Our church has Wednesday night Bible studies, but ...</p>
   </article>
 </div>
         

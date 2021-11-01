@@ -352,4 +352,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/10/jonah.html",
         "teaser": null
+      },{
+        "title": "PostGIS",
+        "excerpt":"Recently I was working on a personal project involving geographical data, and realized that I needed to do spatial calculations such as distance inside a certain radius. In previous times, I might have programmed a function in JavaScript to do the calculations directly in the backend of my application. But...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/10/postgis.html",
+        "teaser": null
       }]
