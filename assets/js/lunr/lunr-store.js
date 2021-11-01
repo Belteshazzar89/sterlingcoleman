@@ -358,4 +358,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/10/postgis.html",
         "teaser": null
+      },{
+        "title": "Halloween",
+        "excerpt":"I’ve waited until the end of Halloween weekend in order to be able to provide a full recap of our goings-on this year. I think I can summarize by saying that as with most years, we did our best. As a parent I have to say that I’m often a...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/10/halloween.html",
+        "teaser": null
       }]
