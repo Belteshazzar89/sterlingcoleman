@@ -364,4 +364,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/10/halloween.html",
         "teaser": null
+      },{
+        "title": "Turning on the Heat and Weighing Priorities",
+        "excerpt":"It’s November now, and my poor family has been living in a house that seems to get cooler by the day as winter approaches. Where we are, September is an enjoyable transition from summer to fall, October is a rude awakening that the warm weather is over, and by the...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/11/heat-priorities.html",
+        "teaser": null
       }]
