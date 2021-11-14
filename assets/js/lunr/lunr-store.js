@@ -370,4 +370,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/11/heat-priorities.html",
         "teaser": null
+      },{
+        "title": "USA Beats Mexico",
+        "excerpt":"In the early hours of Saturday morning, I got up to watch the biggest soccer match the US Men’s National Team has played in a long team. The team’s biggest rival is Mexico, and the rivaly isn’t just about the soccer match. In most things, Mexico doesn’t stack up well...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/11/usa-beats-mexico.html",
+        "teaser": null
       }]
