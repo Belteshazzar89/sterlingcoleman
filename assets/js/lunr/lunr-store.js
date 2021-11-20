@@ -376,4 +376,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/11/usa-beats-mexico.html",
         "teaser": null
+      },{
+        "title": "The Paddle the Waters Expedition",
+        "excerpt":"Back when I was hiking on the Eastern Continental Trail, I had plenty of time to think about what kind of things I wanted to do afterwards. I thought about canoeing or kayaking on a river often. Though I haven’t really had a good opportunity to get out on a...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/11/paddle-the-waters.html",
+        "teaser": null
       }]
