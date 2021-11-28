@@ -382,4 +382,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/11/paddle-the-waters.html",
         "teaser": null
+      },{
+        "title": "With Friends for Thanksgiving",
+        "excerpt":"Being in France during the holidays means that once again we have to construct our own Thanksgiving plans. Thanksgiving is a tough holiday, because for many Americans it is the second most important holiday behind Christmas, yet it happens over a long weekend. This means that travel is not easy...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/11/friends-for-thanksgiving.html",
+        "teaser": null
       }]
