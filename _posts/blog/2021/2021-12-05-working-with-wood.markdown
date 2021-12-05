@@ -1,0 +1,16 @@
+---
+date:   2021-12-05 12:00:00 +0100
+layout: single
+title:  "Working with Wood"
+---
+Being a homeowner for the first time has been an opportunity to get involved with a lot of improvement projects around the house. One of my more recent projects has been the creation of a couple of drawers in a nook underneath a bedroom window. The space is perfect for a fixture, as it's a small space between walls, spanning the width of the window. The top of the drawers can be a good spot for sitting and looking out the window, perhaps reading a book. This is a great opportunity to buy some planks of wood, and do a little basic carpentry.
+
+My worksmanship is quite low-level, but even I can appreciate the ability to take raw wood and turn it into something functional. In the past, I've created some rudimentary shelves for our shoes in a tiny nook by the front door. That project just entailed cutting the shelves to the right size, installing some simple pieces to hold the shelves, and tinting the wood to a darker color. The tint is something that I do for all woodworking projects, as the wood I buy is light-colored pine planks, and I think a darker color suits our house much better.
+
+For this latest project, I ran into problems pretty quickly, as there was a worldwide shortage of wood once most of the world came out of quarantine to get back to construction in 2021. I'mt not typically very fast to finish a project, but this delay was especially long, as I had to keep checking our local hardware store, in the hopes that some wood might show up. Eventually, some wood did show up, and I hauled it back to our house with the trailer attached to my bicycle to continue the project.
+
+This particular project involved some basic measurements to get all of the pieces in place. There were only two drawers to create, both quite large. The biggest difficulty was definitely the sliding drawer mechanism. I ordered a bunch of drawer sliders, and they work pretty well. However, there is almost no space at all between the wheel of the outslide slider, and the other slider which is attached to the drawer. This means that when attaching the pieces to the drawer, the heads of the screws which stick out about 1 millimeter often get caught on the outside wheels and wreak havoc. I spent a lot of time repositioning the screws to get them to their current state, which is not perfect, but as good as it can be.
+
+This project has been the toughest one I've taken on when it comes to woodworking, as there are moving parts and the measurements all have to be very precise in order for the drawers to fit and the sliding mechanism to work. I'm proud to say that not only do the drawers fit in the space and slide correctly, but they actually look kind of nice as well. I used decent amount of tint in order to make everything darker, and I like the way it came out.
+
+I'm looking forward to filling these drawers up with stuff to gain some much-needed storage space elsewhere. I also really think it will be fun to sit on the created seat above the drawers, and look out the window or read a book while enjoying the furniture that I've created. That it itself is one of the more lasting pleasures that I get from working with wood.
