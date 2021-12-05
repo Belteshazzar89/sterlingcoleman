@@ -388,4 +388,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/11/friends-for-thanksgiving.html",
         "teaser": null
+      },{
+        "title": "Working with Wood",
+        "excerpt":"Being a homeowner for the first time has been an opportunity to get involved with a lot of improvement projects around the house. One of my more recent projects has been the creation of a couple of drawers in a nook underneath a bedroom window. The space is perfect for...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/12/working-with-wood.html",
+        "teaser": null
       }]
