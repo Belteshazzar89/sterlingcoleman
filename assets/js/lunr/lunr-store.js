@@ -394,4 +394,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/12/working-with-wood.html",
         "teaser": null
+      },{
+        "title": "Beginning to Look Like Christmas",
+        "excerpt":"We’re well into December now, and the Christmas season is starting to really show itself. I’ve been busy with other projects, but now I’m starting to get excited for the Christmas festivities which are starting up. Although we would love to be with extended family during the holidays, the way...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/12/beginning-to-look-like-christmas.html",
+        "teaser": null
       }]
