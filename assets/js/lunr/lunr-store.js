@@ -400,4 +400,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/12/beginning-to-look-like-christmas.html",
         "teaser": null
+      },{
+        "title": "Christmas Season in Rambouillet",
+        "excerpt":"Today was the day that we really got our Christmas vacation going! With the kids out of school for two weeks starting this weekend, we have a few days in Rambouillet before we head to Luxembourg, and we want to really enjoy whatever we can here before we hit the...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/12/christmas-season-rambouillet.html",
+        "teaser": null
       }]
