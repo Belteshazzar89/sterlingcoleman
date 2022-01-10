@@ -406,4 +406,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/12/christmas-season-rambouillet.html",
         "teaser": null
+      },{
+        "title": "A Luxembourg Christmas",
+        "excerpt":"This year, we did something very different for Christmas. I found a cheap car rental, and a hotel in Luxembourg over Christmas Eve and Christmas Day. Though the distance limit on the car rental is exactly that of twice the distance to Luxembourg, I was confident that I could stick...","categories": [],
+        "tags": [],
+        "url": "/blog/2021/12/luxembourg-christmas.html",
+        "teaser": null
       }]
