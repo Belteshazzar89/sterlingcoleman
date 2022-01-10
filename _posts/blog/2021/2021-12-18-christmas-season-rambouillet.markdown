@@ -1,5 +1,5 @@
 ---
-date:   2021-12-19 12:00:00 +0100
+date:   2021-12-18 12:00:00 +0100
 layout: single
 title:  "Christmas Season in Rambouillet"
 ---
