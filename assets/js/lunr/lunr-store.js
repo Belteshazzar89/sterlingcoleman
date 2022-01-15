@@ -412,4 +412,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2021/12/luxembourg-christmas.html",
         "teaser": null
+      },{
+        "title": "Looking back on 2021",
+        "excerpt":"We enjoyed a great New Year’s Eve with friends last night, and though we may be a bit sluggish today, it was a symbolic finish to an eventful year for our family. Of course, in some ways similar to our goings-on this year, Daniel whined and whined until he fell...","categories": [],
+        "tags": [],
+        "url": "/blog/2022/01/looking-back-2021.html",
+        "teaser": null
       }]
