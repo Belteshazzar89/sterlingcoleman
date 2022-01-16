@@ -418,4 +418,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2022/01/looking-back-2021.html",
         "teaser": null
+      },{
+        "title": "Versailles in the Coupe de France",
+        "excerpt":"I’ve been following FC Versailles 78 for awhile now. It’s fun to follow a team in the lower leagues, where the results are much less certain, and teams can’t simply throw money at their problems and win games based on a large disparity in talent. Versailles plays in the National...","categories": [],
+        "tags": [],
+        "url": "/blog/2022/01/versailles-coupe-de-france.html",
+        "teaser": null
       }]
