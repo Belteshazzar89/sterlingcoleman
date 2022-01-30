@@ -1,0 +1,14 @@
+---
+date:   2022-01-30 22:00:00 +0100
+layout: single
+title:  "Year of the Tiger"
+---
+We've just had one of two of our big meals to celebrate the Chinese New Year. The upcoming year is the year of the Tiger, which must be one of the better-sounding animals. Better than the rat or the snake, at least. The Chinese New Year, like many holidays, is principally a time for families to get together, eat big meals, and spend time together. Being away from family this year, we invited friends over to our house to celebrate with us.
+
+Celebrating Chinese New Year is a lot of work for my wife. Mostly, she plans many dishes and cooks them all on the day of the big meal. I don't mean three or four different plates. I think there were almost ten different things on the table at tonight's dinner. That's more than just cooking for an hour or two. She spends all day cooking the dinner that we all enjoy. Before the day even arrives, she gathers some of the special ingredients that she is looking for, scouting out various stores. She plans certain dishes to be more spicy for those of us that can handle them, and most to be less spicy. She comes up with some vegetable dishes to balance out the meal, which inevitably has plenty of meat.
+
+One of the main reasons that my wife does all this work is that we both want our children to experience Chinese holidays, the New Year being the most important of them all. This year, my wife took our daughter into Paris to visit the Chinese neighborhood, where decorations had been placed up, and she could get a little taste of the festivities. This is a very important part of the holidays for us, especially Chinese holidays. We haven't found any opportunities to visit China in recent years, which means we have to work harder to maintain our cultural ties, and ensure that our children grow up with those traditions.
+
+Thankfully, my wife is up to the task. Despite not having her parents and other family available to be here with us physically, she maintains the holidays atmosphere well all by herself, most importantly with the big festive meal, but also in the little things, like a little Chinese New Year piggy bank that she gave the children for saving up New Year's gifts.
+
+I do hope that in the future we will be able to see another New Year in China, but I have my doubts about the feasability of that. Without being too pessimistic, I think it's safe to say that the decision to take our children there would be questionable, given that we could be forced to stay for an unknown period of time. Thankfully, Chinese culture can take place elsewhere, and we can still be a multicultural family. I know that I have enjoyed the New Year already, and it's not even over yet. It's an event that lasts a couple of weeks, and so we'll be having another meal to celebrate more in a week. I can't wait.
