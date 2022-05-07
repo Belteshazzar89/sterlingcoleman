@@ -424,4 +424,16 @@ var store = [{
         "tags": [],
         "url": "/blog/2022/01/versailles-coupe-de-france.html",
         "teaser": null
+      },{
+        "title": "Year of the Tiger",
+        "excerpt":"We’ve just had one of two of our big meals to celebrate the Chinese New Year. The upcoming year is the year of the Tiger, which must be one of the better-sounding animals. Better than the rat or the snake, at least. The Chinese New Year, like many holidays, is...","categories": [],
+        "tags": [],
+        "url": "/blog/2022/01/year-of-the-tiger.html",
+        "teaser": null
+      },{
+        "title": "What I'm Watching: Justin Outdoors",
+        "excerpt":"Considering the amount of time I’ve spent watching video logs of hiking trips online, I was a bit surprised to recently come across a series that I hadn’t seen before: a Great Divide Trail thru-hike, from the American-Canadian border all the way to Kakwa Lake, the Northernmost terminus. I search...","categories": [],
+        "tags": [],
+        "url": "/blog/2022/02/watching-justin-outdoors.html",
+        "teaser": null
       }]
