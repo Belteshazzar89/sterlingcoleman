@@ -436,4 +436,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2022/02/watching-justin-outdoors.html",
         "teaser": null
+      },{
+        "title": "La Fête du Muguet",
+        "excerpt":"This weekend has been insanely busy, and it’s not over yet. Over the past week, the large parking lot near the local high school has been filling up with recreational vehicles of all types as well as some big trucks, as the group which is putting on the Fête du...","categories": [],
+        "tags": [],
+        "url": "/blog/2022/05/la-fete-muguet.html",
+        "teaser": null
       }]
