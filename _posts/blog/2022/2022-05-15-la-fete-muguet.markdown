@@ -1,0 +1,16 @@
+---
+date:   2022-05-15 09:00:00 +0100
+layout: single
+title:  "La Fête du Muguet"
+---
+This weekend has been insanely busy, and it's not over yet. Over the past week, the large parking lot near the local high school has been filling up with recreational vehicles of all types as well as some big trucks, as the group which is putting on the Fête du Muguet came into town to start setting up for the festival.
+
+A Muguet is a lily, and the Muguet Festival is the springtime festival, probably the biggest festival of the year in Rambouillet. There are more events going on than I could even mention, but the main ones which I know of are the parade, topped by the Queen, a local girl chosen every year, I believe by a vote. And of course, there is the carnival.
+
+The carnival takes up the streats all around the central portion of the large park at the Château de Ramobouillet. There are many stands to buy crêpes, coffee, cotton candy, slushies, and other snacks. There are numerous stands to try your luck at winning a PlayStation 5 by performing some sort of impossible challenge, as well as other, easier challenges with smaller prizes. There are bumper cars and many rides which whirl the riders around in various dizzying patterns, all with similar results. Near the town hall there is a swinging ship ride as well as a ridiculously tall version of the pendulum ride wtih just a few people screaming their heads off as they twist and turn in their seats, as their seats reach a hundred meters up in the air before swinging back down to ground level and up again.
+
+For us, we are thankfully in the small child phase for another year or two. We send our children to the gentle rides. We haven´t had this festival for the past couple of years due to the COVID pandemic, but same as a few years ago, the favorite is still the multi-level jungle gym. The best one was a jungle-themed tower, three stories high, with a big spiral slide. It's a perfect ride for us, as we can send our childen inside, and tell them not to come out until they are ready to be done.
+
+It's a good thing that our children spent almost an hour in the jungle gym over the couse of the weekend, as each entry is six euros. I realize that the people running the carnival need to turn a profit, but every time we go to this event, I can't help wondering how much money we will have to spend before we can leave. Ten euros lasts about five minutes if two people go on one of the bigger rides. Of course, it was worth it to watch my wife screaming as she whizzed around in an oval for awhile, but still.
+
+And lastly, the disappointing thing is that as a parent of small children, we will always be subjected to a tantrum when it is time to leave, no matter how much fun has been had. As we walk around the rides, the overwhelming number of teenagers reminds us that someday we can just send our children to the carnival without us, and they can enjoy what appears to be the big social outing of the year to put their arm around someone and buy win an oversized teddy bear. For the moment, we're still budgeting time in the jungle gym.
