@@ -1,5 +1,5 @@
 ---
-date:   2022-12-14 09:00:00 +0100
+date:   2022-12-10 09:00:00 +0100
 layout: single
 title:  "USA at the World Cup"
 ---
