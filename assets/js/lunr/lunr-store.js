@@ -442,4 +442,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2022/05/la-fete-muguet.html",
         "teaser": null
+      },{
+        "title": "USA at the World Cup",
+        "excerpt":"For a long time, I, along with many other American soccer fans, have been watching anxiously as the USA has gone through the qualification phase for the 2022 FIFA World Cup. Every American fan has been looking forward to putting the failure of the 2018 qualification campaign behind them, and...","categories": [],
+        "tags": [],
+        "url": "/blog/2022/12/usa-world-cup.html",
+        "teaser": null
       }]
