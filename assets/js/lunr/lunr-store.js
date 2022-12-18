@@ -448,4 +448,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2022/12/usa-world-cup.html",
         "teaser": null
+      },{
+        "title": "France at the World Cup",
+        "excerpt":"One of the many perks of living abroad is that I can support multiple countries, such as both the USA and France. Back in 2018, when the USA disapointingly failed to qualify for the World Cup, I could still watch France play. That turned out to be a great tournament...","categories": [],
+        "tags": [],
+        "url": "/blog/2022/12/france-world-cup.html",
+        "teaser": null
       }]
