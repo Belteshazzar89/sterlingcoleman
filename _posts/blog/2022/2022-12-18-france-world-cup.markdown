@@ -1,0 +1,16 @@
+---
+date:   2022-12-18 09:00:00 +0100
+layout: single
+title:  "France at the World Cup"
+---
+One of the many perks of living abroad is that I can support multiple countries, such as both the USA and France. Back in 2018, when the USA disapointingly failed to qualify for the World Cup, I could still watch France play. That turned out to be a great tournament to watch from France, as France went on to win the whole World Cup.
+
+I remember when France won, and we went out into the center of our town and celebrated with many other people. There were cars honking everywhere, people cheering with French flags, and even some trucks with a crowd of people loaded into the back, all cheering. It was a little makeshift parade. The games that France played at the 2018 World Cup were tough matchups. They included games against Uruguay, Belgiam, Croatia, and a famous 4-3 win over Argentina to start the knockout rounds.
+
+This time around, France has been playing well again at the World Cup, and will face Argentina once again, this time in the World Cup Final. Both teams have had relatively easy runs up to the Final, in comparison to the teams that one would typically have to face to get that far. This is in large part because of the number of important upsets we have seen in this World Cup. Morocco notably beat both Spain and Portugal to make it to the Semi Final, and Croatia knocked off Brazil to make it to the Semi Final.
+
+France's opponents in the group stage were Australia, Denmark, and Tunisia. Denmark was the team that everyone was concerned could threaten to beat France and make a run deep into the knockout rounds. And while it did take a late goal from Kylian Mbappé to beat Denmark, the Danes turned in a very poor World Cup performance overall, finishing last in the Group. In fact, France was already the leader of the group after just two games, with little chance to be overtaken. It was in this way that the French team rested many of their best players in the final game against Tunisia, and ended up losing!
+
+Thankfully, France picked up their form in the knockout rounds with the return of Kylian Mbappé and other notable players, easily beating Poland. The next matchup was the hardest that France would face in the knockout rounds, England. The English were a team that were hoping to make it to the Final and possibly win the Cup, just like France. It was a relatively even match, and France barely won, giving up an unnecessary second penalty to the English. It was only a surprising miss on that penalty that allowed France to advance.
+
+France took down Morocco next, and is now up against Lionel Messi and Argentina. This will be another tough match for France, as Messi has established himself well in this tournament. This is probably his last chance to win a World Cup with Argentina and thus establish himself as the greatest Argentinian player, and possibly greatest player period, of all time. Despite that, France has a very good team as well, and I am expecting an even match. Whatever happens, we are proud of the French team for making it to two consecutive World Cup Finals. We will be watching this afternoon, in the hopes of celebrating a second consecutive World Cup win.
