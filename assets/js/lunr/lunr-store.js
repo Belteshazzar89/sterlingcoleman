@@ -454,4 +454,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2022/12/france-world-cup.html",
         "teaser": null
+      },{
+        "title": "Versailles in the Championnat National",
+        "excerpt":"Of all the soccer teams which I support, the club team which I have enjoyed supporting the most in these past few years is FC Versailles. When I first got interested in the French football pyramid and the lower leagues, I looked up which team at a decent level was...","categories": [],
+        "tags": [],
+        "url": "/blog/2023/01/versailles-championnat-national.html",
+        "teaser": null
       }]
