@@ -460,4 +460,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2023/01/versailles-championnat-national.html",
         "teaser": null
+      },{
+        "title": "Flea Market Season",
+        "excerpt":"With the very beginning of Spring a month or two ago, I have once again been frequenting the local vide-greniers, or brocantes. These are the French terms for the flea markets which pop up all over the place starting in the Spring. In the past, we would go to more...","categories": [],
+        "tags": [],
+        "url": "/blog/2023/05/flea-market-season.html",
+        "teaser": null
       }]
