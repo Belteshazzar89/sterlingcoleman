@@ -1,0 +1,244 @@
+Date,Start,End,Miles
+2012-01-01,Southernmost Point in the USA,Cudjoe Key,21.9
+2012-01-02,Cudjoe Key,Marathon Key,28.1
+2012-01-03,Marathon Key,Islamorada,31.0
+2012-01-04,Islamorada,Key Largo,19.4
+2012-01-05,Key Largo,Florida City,26.8
+2012-01-06,Homestead,Homestead,0.0
+2012-01-07,Florida City,Coopertown,27.0
+2012-01-08,Homestead,Homestead,0.0
+2012-01-09,Coopertown,Florida Trail Southern Terminus,30.1
+2012-01-10,Florida Trail Southern Terminus,Thirteen Mile Camp,24.6
+2012-01-11,Thirteen Mile Camp,Nobles Road Camp,18.3
+2012-01-12,Nobles Road Camp,CR 835 Picnic Shelter,37.3
+2012-01-13,CR 835 Picnic Shelter,Clewiston,23.6
+2012-01-14,Clewiston,C-5A Camp,18.7
+2012-01-15,C-5A Camp,Indian Prairie Camp,17.1
+2012-01-16,Indian Prairie Camp,Platts Bluff Boat Launch,25.4
+2012-01-17,Platts Bluff Boat Launch,Basinger Camp,16.3
+2012-01-18,Basinger Camp,Mosquito Hammock Camp,19.1
+2012-01-19,Mosquito Hammock Camp,Old Godwin Home Site,19.8
+2012-01-20,Old Godwin Home Site,Three Lakes Wildlife Management Area,18.9
+2012-01-21,Three Lakes Wildlife Management Area,Three Lakes Camp,21.5
+2012-01-22,Three Lakes Camp,Nova Road,40.5
+2012-01-23,Nova Road,Christmas,27.1
+2012-01-24,Christmas,Oviedo,31.3
+2012-01-25,Oviedo,Lake Mary,17.6
+2012-01-26,Lake Mary,Paisley,26.6
+2012-01-27,Paisley,Middle of Ocala National Forest,30.2
+2012-01-28,Middle of Ocala National Forest,88 Store,27.0
+2012-01-29,88 Store,Rice Creek Hilton,30.7
+2012-01-30,Rice Creek Hilton,Iron Bridge Shelter,13.1
+2012-01-31,Iron Bridge Shelter,Hampton,31.4
+2012-02-01,Hampton,Lake Butler,19.5
+2012-02-02,Lake Butler,Olustee Battlefield Museum,19.3
+2012-02-03,Olustee Battlefield Museum,White Springs,38.3
+2012-02-04,White Springs,White Springs,0.0
+2012-02-05,White Springs,Suwanee River,12.4
+2012-02-06,Suwanee River,Holton Creek Camp,17.1
+2012-02-07,Holton Creek Camp,Holton Creek Camp,0.0
+2012-02-08,Holton Creek Camp,Holton Creek Camp,0.0
+2012-02-09,Holton Creek Camp,Mill Creek Camp,31.3
+2012-02-10,Mill Creek Camp,US 221,33.0
+2012-02-11,US 221,JR's Aucilla River Store,40.9
+2012-02-12,JR's Aucilla River Store,St. Marks,22.5
+2012-02-13,St. Marks,St. Marks Natural Wildlife Reserve,19.9
+2012-02-14,St. Marks Natural Wildlife Reserve,Bradwell Bay,33.0
+2012-02-15,Bradwell Bay,Vilas,26.6
+2012-02-16,Vilas,Camel Lake Campground,9.6
+2012-02-17,Crawfordville,Crawfordville,0.0
+2012-02-18,Camel Lake Campground,Blountstown,20.0
+2012-02-19,Blountstown,Scott Road,26.4
+2012-02-20,Scott Road,SR 20,33.7
+2012-02-21,SR 20,Forgotten Creek Camp,26.5
+2012-02-22,Forgotten Creek Camp,Bull Campsite,32.8
+2012-02-23,Bull Campsite,US 90,35.8
+2012-02-24,US 90,Juniper Creek Shelter,30.5
+2012-02-25,Juniper Creek Shelter,"Rock Creek Road, AL",31.8
+2012-02-26,"Rock Creek Road, AL",Andalusia,31.5
+2012-02-27,Andalusia,Spring Hill Road & Mt. Ida Road,29.5
+2012-02-28,Spring Hill Road & Mt. Ida Road,Lapine,27.0
+2012-02-29,Lapine,Montgomery,32.9
+2012-03-01,Montgomery,Buyck Road,24.1
+2012-03-02,Buyck Road,CR 56,27.2
+2012-03-03,Blister Bob & Shadow Sue's House,Blister Bob & Shadow Sue's House,0.0
+2012-03-04,CR 56,Bull Gap,28.2
+2012-03-05,Bull Gap,Small Campsite,24.4
+2012-03-06,Small Campsite,Cheaha Trailhead,22.7
+2012-03-07,Cheaha Trailhead,Stream,12.4
+2012-03-08,Stream,SR 281,11.8
+2012-03-09,SR 281,Laurel Shelter,21.1
+2012-03-10,Laurel Shelter,Oakey Mountain Shelter,26.9
+2012-03-11,Oakey Mountain Shelter,"Cave Spring, GA",31.3
+2012-03-12,"Cave Spring, GA",Simms Mountain ATV Trail,20.7
+2012-03-13,Simms Mountain ATV Trail,Spring Crossing Campsite,24.7
+2012-03-14,Spring Crossing Campsite,Johns Mountain Overlook,20.9
+2012-03-15,Johns Mountain Overlook,Dalton,26.0
+2012-03-16,Dalton,Callie Jones Road,12.3
+2012-03-17,Callie Jones Road,Cohutta Wilderness Ridgeline,29.6
+2012-03-18,Cohutta Wilderness Ridgeline,Blue Ridge,41.5
+2012-03-19,Blue Ridge,Little Skeenah Creek,28.0
+2012-03-20,Little Skeenah Creek,Springer Mountain Shelter,17.6
+2012-03-21,Springer Mountain Shelter,Woody Gap,20.9
+2012-03-22,Woody Gap,Low Gap Shelter,22.1
+2012-03-23,Low Gap Shelter,NC/GA State Line,35.3
+2012-03-24,NC/GA State Line,Deep Gap,6.9
+2012-03-25,Deep Gap,Carter Gap Shelter,8.5
+2012-03-26,Carter Gap Shelter,Cold Spring Shelter,31.7
+2012-03-27,Cold Spring Shelter,Brown Fork Gap Shelter,27.5
+2012-03-28,Brown Fork Gap Shelter,Spence Field Shelter,29.4
+2012-03-29,Spence Field Shelter,Icewater Spring Shelter,27.3
+2012-03-30,Icewater Spring Shelter,Mt. Cammerer Lookout Tower,23.1
+2012-03-31,Mt. Cammerer Lookout Tower,Walnut Mountain Shelter,27.9
+2012-04-01,Walnut Mountain Shelter,Hot Springs,13.1
+2012-04-02,Hot Springs,Hot Springs,0.0
+2012-04-03,Hot Springs,Little Laurel Shelter,19.6
+2012-04-04,Little Laurel Shelter,Bald Mountain Shelter,31.6
+2012-04-05,Bald Mountain Shelter,"Erwin, TN",16.9
+2012-04-06,"Erwin, TN",Deep Gap,21.1
+2012-04-07,Deep Gap,Little Hump Mountain,30.2
+2012-04-08,Little Hump Mountain,Mountaineer Falls Shelter,16.4
+2012-04-09,Mountaineer Falls Shelter,Iron Mountain Shelter,40.1
+2012-04-10,Iron Mountain Shelter,"Damascus, VA",26.1
+2012-04-11,"Damascus, VA",Thomas Knob Shelter,28.0
+2012-04-12,Thomas Knob Shelter,Trimpi Shelter,25.1
+2012-04-13,Trimpi Shelter,Knot Maul Branch Shelter,36.1
+2012-04-14,Knot Maul Branch Shelter,Walker Gap,10.4
+2012-04-15,Walker Gap,Jenny Knob Shelter,32.5
+2012-04-16,Jenny Knob Shelter,Woods Hole Hostel,20.4
+2012-04-17,Woods Hole Hostel,Rice Field Shelter,17.2
+2012-04-18,Rice Field Shelter,Rice Field Shelter,0.0
+2012-04-19,Rice Field Shelter,Niday Shelter,43.4
+2012-04-20,Niday Shelter,Lamberts Meadow Shelter,33.1
+2012-04-21,Lamberts Meadow Shelter,Daleville,9.4
+2012-04-22,Charlottesville,Charlottesville,0.0
+2012-04-23,Daleville,Fullhardt Knob Shelter,5.0
+2012-04-24,Fullhardt Knob Shelter,Thunder Hill Shelter,37.2
+2012-04-25,Thunder Hill Shelter,Brown Mountain Creek Shelter,34.6
+2012-04-26,Brown Mountain Creek Shelter,Maupin Field Shelter,36.2
+2012-04-27,Maupin Field Shelter,Blackrock Hut,40.8
+2012-04-28,Blackrock Hut,Swift Run Gap,24.8
+2012-04-29,Swift Run Gap,Rock Spring Hut,20.5
+2012-04-30,Rock Spring Hut,Gravel Springs Hut,28.4
+2012-05-01,Gravel Springs Hut,VA 55,21.6
+2012-05-02,VA 55,Dick's Dome Shelter,7.0
+2012-05-03,Dick's Dome Shelter,Blackburn Trail Center,26.2
+2012-05-04,Blackburn Trail Center,"Mount Vernon Picnic Shelter, MD",31.9
+2012-05-05,"Mount Vernon Picnic Shelter, MD","Tumbling Run Shelter (Snoring), PA",29.8
+2012-05-06,"Tumbling Run Shelter (Snoring), PA",Pine Grove Furnace State Park,29.5
+2012-05-07,Pine Grove Furnace State Park,Darlingtton Shelter,33.5
+2012-05-08,Darlingtton Shelter,Duncannon,11.4
+2012-05-09,Duncannon,Rausch Gap Shelter,29.2
+2012-05-10,Rausch Gap Shelter,Eagle's Nest Shelter,32.6
+2012-05-11,Eagle's Nest Shelter,Allentown Hiking Club Shelter,31.2
+2012-05-12,Allentown Hiking Club Shelter,Leroy A. Smith Shelter,33.5
+2012-05-13,Leroy A. Smith Shelter,"Millbrook-Blairstown Road, NJ",34.1
+2012-05-14,"Millbrook-Blairstown Road, NJ",NJ 23,28.8
+2012-05-15,NJ 23,Murray Cabin,7.0
+2012-05-16,Murray Cabin,"Wildcat Shelter, NY",30.7
+2012-05-17,"Wildcat Shelter, NY",Hemlock Springs Campsite,31.9
+2012-05-18,Hemlock Springs Campsite,Telephone Pioneers Shelter,39.8
+2012-05-19,Telephone Pioneers Shelter,"Stewart Hollow Brook Shelter, CT",28.5
+2012-05-20,"Stewart Hollow Brook Shelter, CT",Riga Shelter,29.8
+2012-05-21,Riga Shelter,"Mt. Wilcox South Shelter, MA",29.7
+2012-05-22,"Mt. Wilcox South Shelter, MA",October Mountain Shelter,24.6
+2012-05-23,October Mountain Shelter,Dalton,11.8
+2012-05-24,Dalton,Dalton,0.0
+2012-05-25,Dalton,Dalton,0.0
+2012-05-26,Dalton,Seth Warner Shelter,30.4
+2012-05-27,Seth Warner Shelter,Story Spring Shelter,30.5
+2012-05-28,Story Spring Shelter,Peru Peak Shelter,31.2
+2012-05-29,Peru Peak Shelter,VT 103,22.3
+2012-05-30,VT 103,Gifford Woods State Park,20.7
+2012-05-31,Gifford Woods State Park,Happy Hill Shelter,37.0
+2012-06-01,Happy Hill Shelter,"Hexacuba Shelter, NH",34.5
+2012-06-02,"Hexacuba Shelter, NH",Glencliff,14.6
+2012-06-03,Glencliff,Kinsman Notch,9.5
+2012-06-04,Kinsman Notch,Franconia Notch,16.3
+2012-06-05,Franconia Notch,Zealand Falls Hut,20.0
+2012-06-06,Zealand Falls Hut,Madison Spring Hut,25.9
+2012-06-07,Madison Spring Hut,Rattle River Shelter,27.0
+2012-06-08,Rattle River Shelter,Gentian Pond Shelter,13.7
+2012-06-09,Gentian Pond Shelter,"Baldpate Lean-to, ME",21.6
+2012-06-10,"Baldpate Lean-to, ME",Bemis Mountain Lean-to,25.1
+2012-06-11,Bemis Mountain Lean-to,Poplar Ridge Lean-to,28.4
+2012-06-12,Poplar Ridge Lean-to,Stratton,21.5
+2012-06-13,Stratton,Stratton,0.0
+2012-06-14,Stratton,Pierce Pond Lean-to,33.0
+2012-06-15,Pierce Pond Lean-to,Horseshoe Canyon Lean-to,31.7
+2012-06-16,Horseshoe Canyon Lean-to,Long Pond Stream Lean-to,24.1
+2012-06-17,Long Pond Stream Lean-to,East Branch Lean-to,31.6
+2012-06-18,East Branch Lean-to,Nesuntabunt Mountain,31.5
+2012-06-19,Nesuntabunt Mountain,Katahdin Stream Campground,31.1
+2012-06-20,Katahdin Stream Campground,"Wassataquoik Lean-to, IAT",21.7
+2012-06-21,"Wassataquoik Lean-to, IAT",Matagamon Wilderness Campground,25.4
+2012-06-22,Matagamon Wilderness Campground,Stevens House,34.5
+2012-06-23,Stevens House,Houlton,20.0
+2012-06-24,Houlton,MacDonald House,0.0
+2012-06-25,MacDonald House,Dalton House,9.6
+2012-06-26,Dalton House,Dalton House,0.0
+2012-06-27,Dalton House,Dalton House,0.0
+2012-06-28,Dalton House,Dalton House,0.0
+2012-06-29,Dalton House,Cummings Farm,31.5
+2012-06-30,Cummings Farm,"ATV Trail, NB",27.9
+2012-07-01,"ATV Trail, NB",Miller House,0.0
+2012-07-02,Miller House,Beautiful Downtown Nictau,0.0
+2012-07-03,Beautiful Downtown Nictau,"Matapedia, QC",0.0
+2012-07-04,"Matapedia, QC",Refuge Le Quartz,28.1
+2012-07-05,Refuge Le Quartz,Causapscal,27.2
+2012-07-06,Causapscal,Amqui,30.3
+2012-07-07,Amqui,Montreal,0.0
+2012-07-08,Montreal,Montreal,0.0
+2012-07-09,Montreal,Trudeau Airport,0.0
+2012-07-10,Trudeau Airport,"Hotel Mac, Point Richmond, CA",0.0
+2012-07-11,"Hotel Mac, Point Richmond, CA","Hotel Mac, Point Richmond, CA",0.0
+2012-07-12,"Hotel Mac, Point Richmond, CA","Hotel Mac, Point Richmond, CA",0.0
+2012-07-13,"Hotel Mac, Point Richmond, CA","Hotel Mac, Point Richmond, CA",0.0
+2012-07-14,"Hotel Mac, Point Richmond, CA","Hotel Mac, Point Richmond, CA",0.0
+2012-07-15,"Hotel Mac, Point Richmond, CA","Montreal, QC",0.0
+2012-07-16,"Montreal, QC","Perth-Andover, NB",0.0
+2012-07-17,"Perth-Andover, NB",Plaster Rock,27.9
+2012-07-18,Plaster Rock,Beautiful Downtown Nictau,32.2
+2012-07-19,Beautiful Downtown Nictau,NB 108,33.2
+2012-07-20,NB 108,Saint-Jean-Baptiste-de-Restigouche,34.1
+2012-07-21,Saint-Jean-Baptiste-de-Restigouche,Amqui,46.2
+2012-07-22,Amqui,Poste John Camp,27.9
+2012-07-23,Poste John Camp,Lac Matane Refuge,25.2
+2012-07-24,Lac Matane Refuge,Lac Beaulieu Refuge,15.2
+2012-07-25,Lac Beaulieu Refuge,La Nyctale Refuge,23.5
+2012-07-26,La Nyctale Refuge,La Paruline Refuge,31.7
+2012-07-27,La Paruline Refuge,Le Tetras Refuge,21.5
+2012-07-28,Le Tetras Refuge,Las Cabourons Refuge,16.8
+2012-07-29,Las Cabourons Refuge,Gros-Morne,26.4
+2012-07-30,Gros-Morne,Le Grand Sault Shelter,26.9
+2012-07-31,Le Grand Sault Shelter,Les Cascades Refuge,30.0
+2012-08-01,Les Cascades Refuge,L'Érablière Refuge,35.5
+2012-08-02,L'Érablière Refuge,Cap Gaspé,34.1
+2012-08-03,Cap Gaspé,Riviere-du-Loup Bus Station,0.0
+2012-08-04,Riviere-du-Loup Bus Station,"Albany, PEI",5.2
+2012-08-05,"Albany, PEI",Charlottetown,34.3
+2012-08-06,Charlottetown,"Munroe's Island Campground, NS",41.5
+2012-08-07,"Munroe's Island Campground, NS",Churchville,36.1
+2012-08-08,Churchville,Arsaig Provincial Park,39.3
+2012-08-09,Arsaig Provincial Park,Antigonish,42.2
+2012-08-10,Antigonish,Antigonish,0.0
+2012-08-11,Antigonish,Baddeck,40.1
+2012-08-12,Baddeck,North Sydney,20.7
+2012-08-13,North Sydney,"Channel-Port aux Basques, NL",3.8
+2012-08-14,"Channel-Port aux Basques, NL",Gravel Lot off Trans Canada Highway,44.1
+2012-08-15,Gravel Lot off Trans Canada Highway,Barachois Poind Provincial Park,47.5
+2012-08-16,Barachois Poind Provincial Park,Corner Brook,40.5
+2012-08-17,Corner Brook,Warm Up Inn,33.9
+2012-08-18,Warm Up Inn,Rocky Harbour,31.6
+2012-08-19,Rocky Harbour,Rocky Harbour,0.0
+2012-08-20,Rocky Harbour,Parson's Pond,34.7
+2012-08-21,Parson's Pond,River of Ponds,39.6
+2012-08-22,River of Ponds,Eddie's Cove West,38.6
+2012-08-23,Eddie's Cove West,Flower's Cove,37.2
+2012-08-24,Flower's Cove,Island Resource Road,43.4
+2012-08-25,Island Resource Road,Crow Head!,30.9
+2012-08-26,Crow Head,St. Anthony,0.0
+2012-08-27,St. Anthony,St. Anthony,0.0
+2012-08-28,St. Anthony,St. Anthony,0.0
+2012-08-29,St. Anthony,St. John's,0.0
+2012-08-30,St. John's,"""The Real World""",0.0
