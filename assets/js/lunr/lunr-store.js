@@ -466,4 +466,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2023/05/flea-market-season.html",
         "teaser": null
+      },{
+        "title": "Return of the Fête du Muguet",
+        "excerpt":"Last weekend the Fête du Muguet returned to Rambouillet, as it does every year. We know in advance when it will be there, as we receive a notice in the mail that the roads will be closed the weekend of the Fête du Muguet. That doesn’t typically affect us, though...","categories": [],
+        "tags": [],
+        "url": "/blog/2023/05/fete-muguet.html",
+        "teaser": null
       }]
