@@ -167,7 +167,7 @@ gallery:
     -   image_path: /assets/images/exploration/eastern-continental-trail/august/small/21-1.jpg
         title: Portland Creek Pond Outlet
         url: /assets/images/exploration/eastern-continental-trail/august/large/21-1.jpg
-    -   image_path: /assets/images/exploration/eastern-continental-trail/august/small/22-1.jpg
+    -   image_path: /assets/images/exploration/eastern-continental-trail/august/small/22-1.jpg-
         title: Sunset from Beach Camp
         url: /assets/images/exploration/eastern-continental-trail/august/large/22-1.jpg
     -   image_path: /assets/images/exploration/eastern-continental-trail/august/small/23-1.jpg
