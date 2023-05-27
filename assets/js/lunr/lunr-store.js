@@ -472,4 +472,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2023/05/fete-muguet.html",
         "teaser": null
+      },{
+        "title": "An Alabama Dirt Roadwalk",
+        "excerpt":"Lately, I’ve been doing a lot of work on the website that I’ve created for the Eastern Continental Trail. As I continue to think about the subject, one of the things which comes to the forefront of my mind is the Alabama Roadwalk, which sticks out as the only portion...","categories": [],
+        "tags": [],
+        "url": "/blog/2023/05/alabama-dirt-roadwalk.html",
+        "teaser": null
       }]
