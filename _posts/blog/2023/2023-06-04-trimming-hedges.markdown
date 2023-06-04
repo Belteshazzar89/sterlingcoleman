@@ -1,0 +1,14 @@
+---
+date:   2023-06-04 09:00:00 +0200
+layout: single
+title:  "Trimming the Hedges"
+---
+With the arrival of Spring my mood has picked up considerably, and I have the energy to do a lot of things that I have been putting off for a long time. One of those things is attending to the hedges that separate us from our neighbors. I had taken care of own side of our property a couple of months ago, and had thought that I would do the next side the following weekend. Two months later, I finally got the courage on a Saturday morning to get up early and do it.
+
+We are lucky to have wonderful neighbors who are happy to share a few tools with us. One of those things that we don't own is a hedge trimmer. Not only did our neighbor lend me his hedge trimmer, but he also lent me a platform on which to stand to trim the top of the hedge. It took me several conversations with him to learn how to start the troublesome gas-powered hedge trimmer. Even with the trimmer on and the choke valve open, the trimmer would start upon pulling the cord, then stop immediately. This sort of experience is one of the more frustrating parts of house projects, as it requires a process to learn how to use troublesome tools that won't be necessary for another year. Finally I found that I could pull the cord with the choke closed, let the trimmer idle for a bit, then open the choke halfway and rev the engine a few times. After that I could fully open the choke and get to work.
+
+The work itself is very tough. The trimmer is heavy and chopping through the tops of thick hedges is hard work. After a few minutes of that, my forearms were shot and I spent some time collecting and disposing of the hedge trimmings as a way to rest my arms. It has been a few years since I trimmed the hedges, so there was a lot to do, and in total I filled up more than half of the big organic disposal container dedicated to our neighborhood.
+
+Not only did I do my side of the hedge, but I also did my neighbor's side as technically the hedge is entirely on our property. That effectively doubled my work, as I can only reach half of the hedge from each side, as it is wide. My neighbor is elderly and so I appreciated him moving a few things so that I could access the hedge from his side, but I didn't ask him to help with the collection of branches or the painful trimming.
+
+I started working before 10 in the morning, and didn't finish until almost 4 in the afternoon. One day later, my arms are covered in scrapes, but thankfully the rashes are mostly gone. There is a reason that I haven't trimmed the hedges in a few years, and I'm not sure I'll have the courages to do it all again next year.
