@@ -478,4 +478,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2023/05/alabama-dirt-roadwalk.html",
         "teaser": null
+      },{
+        "title": "Trimming the Hedges",
+        "excerpt":"With the arrival of Spring my mood has picked up considerably, and I have the energy to do a lot of things that I have been putting off for a long time. One of those things is attending to the hedges that separate us from our neighbors. I had taken...","categories": [],
+        "tags": [],
+        "url": "/blog/2023/06/trimming-hedges.html",
+        "teaser": null
       }]
