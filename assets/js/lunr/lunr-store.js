@@ -484,4 +484,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2023/06/trimming-hedges.html",
         "teaser": null
+      },{
+        "title": "In Memory of Jonathan",
+        "excerpt":"When I was little, my parents didn’t send me to pre-school regularly. I didn’t really play with other children very regularly or make a friend until I went to kindergarten. In my first year of school, I made a couple friends. My first friend was Jonathan. Like many boys, we...","categories": [],
+        "tags": [],
+        "url": "/blog/2023/06/in-memory-jonathan.html",
+        "teaser": null
       }]
