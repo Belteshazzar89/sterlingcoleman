@@ -1,0 +1,16 @@
+---
+date:   2023-05-21 12:00:00 +0200
+layout: single
+title:  "Return of the Fête du Muguet"
+---
+Last weekend the Fête du Muguet returned to Rambouillet, as it does every year. We know in advance when it will be there, as we receive a notice in the mail that the roads will be closed the weekend of the Fête du Muguet. That doesn't typically affect us, though the bus won'be running during those times either. The carnival is a nice time to walk around the town and look at the attractions.
+
+Of course, with children those attractions become very tempting and are constantly the subject of much begging and demanding. We set a budget this year of 20 euros to spend at the carnival, but that isn't much to spend on two children, with many things costing more than 5 euros a person. The attractions consist of pellet shooting games to win prizes, some being easier and for smaller reward, others being impossible with the hope of winning a PlayStation 5 or some other very expensive prize. There are bumper cars, rides that spin, rides that flip, and rides that go around in endless circles.
+
+For our children, the attraction that is still the winner is the multi-story labyrinth. It's perfect for us as parents as well, as we can send the kids in, and they can spend as much time as they want playing inside. When they come out, they can't go back in, so we tell them not to come out until we call them. This year, the kids spent a full hour playing inside, and were still sad when we called them out. That was money well spent (6 euros a person).
+
+From there, we went to the part of the carnival with the bigger, more sickening rides. Swinging ships, scrambled eggs, and the sort of thing that I would really prefer not to ride at a temporary carnival. This year, however, my wife offered me 20 euros to ride a horrible looking thing which requires a serious locking shoulder harness for riders in order to then spin them while doing the classic Swinging Ship action. We paid the 8 euros for my ticket, and our friend Léo got a ticket as well.
+
+Together, we strapped in and were raised up above the town, with 10 other people. I then almost got sick as we spent several minutes spinning upside down. At the points when we went completely upside-down, we stayed like that for several seconds, and the only thing keeping us from falling fifty meters to our deaths was the shoulder harness. I was legitimately scared and started to get a little sick. I held onto a pair of metal handles on the seats for dear life in case the shoulder harness failed, though I'm not sure I would have been able to keep myself from falling if that had happened. I was happy to be off the ride after a few more minutes.
+
+With that done, we had to endure a lot of crying and whining about all the things we didn't do. To be honest, I kind of hate doing these carnivals with our kids for just that reason. Everything is expensive, there is no bracelet to buy to be able to do everything as much as we want, and small children can't ever be happy with what they have done if they see something else they want. We walked home and I lay down to recover from another Fête du Muguet.

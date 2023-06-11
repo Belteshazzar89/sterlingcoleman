@@ -22,7 +22,7 @@ gallery:
         url: /assets/images/exploration/eastern-continental-trail/march/large/5-4jpg
     -   image_path: /assets/images/exploration/eastern-continental-trail/march/small/5-5.jpg
         title: Talladega Creek
-        url: /assets/images/exploration/eastern-continental-trail/march/large/5-5jpg
+        url: /assets/images/exploration/eastern-continental-trail/march/large/5-5.jpg
     -   image_path: /assets/images/exploration/eastern-continental-trail/march/small/6-1.jpg
         title: View from Mountains Approaching Cheaha
         url: /assets/images/exploration/eastern-continental-trail/march/large/6-2.jpg

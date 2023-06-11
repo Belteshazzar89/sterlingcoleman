@@ -17,4 +17,4 @@ There is still much work to be done, but I have created a solid base proposal. I
 
 [cdt]: https://continentaldividetrail.org/
 [gdt]: https://greatdividetrail.com/
-[ndt]: /exploration/northern-divide-trail
+[ndt]: /exploration/northern-rockies-trail

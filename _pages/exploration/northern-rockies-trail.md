@@ -1,10 +1,10 @@
 ---
 author_profile: true
 layout: archive
-permalink: /exploration/northern-divide-trail/
-title: Northern Divide Trail
+permalink: /exploration/northern-rockies-trail/
+title: Northern Rockies Trail
 ---
-The Northern Divide Trail (NDT) is a planned trail in the Hart and Muskwa Ranges of the Northern Rocky Mountains.
+The Northern Rockies Trail (NRT) is a planned trail in the Hart and Muskwa Ranges of the Northern Rocky Mountains.
 
 - Length: ≈ 1000 kilometers
 - Elevation Change: ≈ 130 kilometers
@@ -13,7 +13,7 @@ The Northern Divide Trail (NDT) is a planned trail in the Hart and Muskwa Ranges
 
 ## Goal
 
-The goal of the Northern Divide Trail is to guide explorers through the Northern Rocky Mountains in Northern British Columbia. The Rocky Mountains are mostly covered by the Continental Divide Trail in the United States and the Great Divide Trail on the border between Alberta and British Columbia. The NDT fills the last remaining gap between the Northern Terminus of the GDT, at Kakwa Lake, and the Northern Terminus of the Rocky Mountains, at the Liard River.
+The goal of the Northern Rockies Trail is to guide explorers through the Northern Rocky Mountains in Northern British Columbia. The Rocky Mountains are mostly covered by the Continental Divide Trail in the United States and the Great Divide Trail on the border between Alberta and British Columbia. The NRT fills the last remaining gap between the Northern Terminus of the GDT, at Kakwa Lake, and the Northern Terminus of the Rocky Mountains, at the Liard River.
 
 ## Condition
 
@@ -21,13 +21,13 @@ The route for the trail has been planned, but no work has been done on the groun
 
 ## Route
 
-From Kakwa Lake, the Southernmost section of the Northern Divide Trail enters the Hart Ranges and continues Northwest to Monkman Provincial Park.
+From Kakwa Lake, the Southernmost section of the Northern Rockies Trail enters the Hart Ranges and continues Northwest to Monkman Provincial Park.
 
-From Kinuseo Falls in the park, the next section of the NDT continues Northwest to Pine Le Moray Provincial Park. After that, it continues to the Peace Arm of Williston Lake. The trail includes a crossing of this arm of the lake, and continues Northwest into the Muskwa Ranges.
+From Kinuseo Falls in the park, the next section of the NRT continues Northwest to Pine Le Moray Provincial Park. After that, it continues to the Peace Arm of Williston Lake. The trail includes a crossing of this arm of the lake, and continues Northwest into the Muskwa Ranges.
 
-North of Williston Lake, the trail heads North to Graham-Laurier Provincial Park. North of this, there are optional paths to the east and west to resupply at Pink Mountain or Tsay Key Dene, respectively. The NDT goes North to Redfern-Kelly Provincial Park, and then Northwest through Kwadacha Wilderness Provincial Park, just to the west of Northern Rocky Mountains Provincial Park. North of that, the trail stretches to the Toad River and the Alaska Highway in Muncho Lake Provincial Park.
+North of Williston Lake, the trail heads North to Graham-Laurier Provincial Park. North of this, there are optional paths to the east and west to resupply at Pink Mountain or Tsay Key Dene, respectively. The NRT goes North to Redfern-Kelly Provincial Park, and then Northwest through Kwadacha Wilderness Provincial Park, just to the west of Northern Rocky Mountains Provincial Park. North of that, the trail stretches to the Toad River and the Alaska Highway in Muncho Lake Provincial Park.
 
-The Northernmost section of the Northern Divide Trail goes North from the Toad River, parallels the length of Muncho Lake and the Alaska Highway, finally crossing the highway before coming back to it at the Liard River. The trail's Northern Terminus is Liard Hot Springs Provincial Park.
+The Northernmost section of the Northern Rockies Trail goes North from the Toad River, parallels the length of Muncho Lake and the Alaska Highway, finally crossing the highway before coming back to it at the Liard River. The trail's Northern Terminus is Liard Hot Springs Provincial Park.
 
 ## Resupply
 
@@ -48,20 +48,20 @@ Toad River is the Northernmost resupply point and should be a destination for a 
 
 ## Travel
 
-The NDT is best hiked after finishing the GDT at Kakwa Lake, or before hiking the GDT if hiking Southbound. Getting to the Liard River is relatively easy. Public transportation to Fort Nelson is available by [plane][yye] or [bus][bcbus]. Hitch from there to the Liard River.
+The NRT is best hiked after finishing the GDT at Kakwa Lake, or before hiking the GDT if hiking Southbound. Getting to the Liard River is relatively easy. Public transportation to Fort Nelson is available by [plane][yye] or [bus][bcbus]. Hitch from there to the Liard River.
 
 For the Southern Terminus, public transportation is available to Prince George by [plane][yxs], [train][via-rail], or [bus][bcbus]. The bus route from Prince George to Valemount has a stop at the McBride train station, which is about 70 kilometers from Walker Forest Service Road, which leads to Kakwa Lake. The closest public transportation seems to be the Dome Creek train station, which is listed as "stop on request".
 
 ## Resources
 
 - [Keyhole Markup File][kmz]: Meticulous route with periodic points labelling geographic features. The path formed by this route has been divided into days, none of which have a maximum slope of over 50%, or a total length of over 40 kilometers. Each day details the route to get to the next camp, which is often on a major creek or river.
-- [Maps][maps]: Large file containing detailed 1:20,000 scale maps on the NDT route. Made using maps provided by the provincial government of British Columbia, each of the 63 pages for the principal route covers roughly half of a day of hiking.
+- [Maps][maps]: Large file containing detailed 1:20,000 scale maps on the NRT route. Made using maps provided by the provincial government of British Columbia, each of the 63 pages for the principal route covers roughly half of a day of hiking.
 - [Northbound Text Guide][text]: Text guide which puts the trail into plain English, describing the route day by day.
 
 [bcbus]: https://bcbus.ca/
-[kmz]: /assets/resources/exploration/northern-divide-trail/northern-divide-trail.kmz
+[kmz]: /assets/resources/exploration/northern-rockies-trail/northern-rockies-trail.kmz
 [maps]: https://drive.google.com/file/d/1dpaxKYFeDWgrkSQSX4OUC6K7Aa8_FFWW/view?usp=sharing
-[text]: /assets/resources/exploration/northern-divide-trail/NDTNorthboundGuide.pdf
+[text]: /assets/resources/exploration/northern-rockies-trail/NRTNorthboundGuide.pdf
 [via-rail]: https://www.viarail.ca/
 [yye]: https://en.wikipedia.org/wiki/Fort_Nelson_Airport
 [yxs]: https://en.wikipedia.org/wiki/Prince_George_Airport
