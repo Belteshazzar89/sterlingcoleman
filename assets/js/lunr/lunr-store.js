@@ -490,4 +490,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2023/06/in-memory-jonathan.html",
         "teaser": null
+      },{
+        "title": "A Chinese Wedding",
+        "excerpt":"This summer, we are finally getting a chance to see my wife’s family in China. We were originally scheduled to visit in February 2020, but needless to say COVID ruined those plans. This time, our trip has coincided perfectly with my wife’s sister’s wedding, so we have been doing that...","categories": [],
+        "tags": [],
+        "url": "/blog/2023/07/chinese-wedding.html",
+        "teaser": null
       }]
