@@ -1,0 +1,16 @@
+---
+date:   2023-09-23 09:00:00 +0200
+layout: single
+title:  "The Fallen Oak Branch"
+---
+This year, we had a bit of a nasty surprise when a large branch of the big oak tree in our back yard split partially at the trunk and fell. I wasn't home when it split, but apparently the break was quite loud. I feel sad, as I love that oak tree, and I would imagine that it is well over a hundred years old. I suppose that I should have been trimming some of the farther extremities being held by the large branch in order to reduce the weight. In truth, I had never even considered the idea of trimming the tree, as it is so massive that I suppose I had assumed that it could handle itself.
+
+When I say that a branch split off the trunk, that is technically correct. However, the branch in question has a diameter larger than many people, and even the extremities of the branch ten yards from the trunk is over a foot thick. There must be about ten different secondary branches, each of significant size and length.
+
+The branch fell onto other smaller trees in the area both on our property and on the other side of the fence where the train tracks are. Thankfully, the branch was far from the tracks and there was no issue there. The smaller trees bent but did not break, and in between the part of the branch still attached to the trunk and the support of these other trees, the gigantic oak branch never actually reached the ground. This posed quite a problem for me, a software engineer with little landscaping experience and no chainsaw.
+
+I let the branch sit for about half a year while I mourned the loss of part of our beautiful oak tree. I then got to work with my little hand saw, and starting removing branches bit by bit. Always making sure to stay out of harm's way, I slowly reduced the weight strain on the supporting trees and removed many of the outlying branches. Dutifully sawing them into firewood-sized bits, they were stored in the basement in a growing pile. I attacked the tree almost every day for a couple weeks, and as I got rid of more and more wood, I kept close eye on the gigantic oak branch.
+
+Though I had to slide under our fence and cut from the property belonging to the train tracks, I have finally succeeded in bringing this behemoth to the ground. When I finally cut the final big branch supporting the weight, the fallen oak branch completed its six-month journey to the ground, and split completely from the trunk. I was very relieved to have the branch on the ground, instead of looming in the air where it was a real safety hazard. It would have surely been a fatal accident had it fallen on someone.
+
+I am really proud of my work on the tree, having avoided the expense and trouble of hiring a crew to deal with this thing, and having done the whole project with a handsaw. I estimate I spent a total of twenty hours working on it, sawing bits off the tree, then sawing the bits into smaller bits for storage in the basement. Now all that is left is the large branch on the ground. I think I will leave it there for awhile. I've had enough of sawing for quite awhile.
