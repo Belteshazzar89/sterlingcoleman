@@ -496,4 +496,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2023/07/chinese-wedding.html",
         "teaser": null
+      },{
+        "title": "The Fallen Oak Branch",
+        "excerpt":"This year, we had a bit of a nasty surprise when a large branch of the big oak tree in our back yard split partially at the trunk and fell. I wasn’t home when it split, but apparently the break was quite loud. I feel sad, as I love that...","categories": [],
+        "tags": [],
+        "url": "/blog/2023/09/fallen-oak-branch.html",
+        "teaser": null
       }]
