@@ -502,4 +502,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2023/09/fallen-oak-branch.html",
         "teaser": null
+      },{
+        "title": "Geography of French Football Teams",
+        "excerpt":"I recently completed a map of all the teams in the top five leages in the French Football pyramid. It took quite a bit of time, as though there are only about 20 or fewer teams in each of the top three leagues, the fourth and fifth divisions have about...","categories": [],
+        "tags": [],
+        "url": "/blog/2023/09/french-football-map.html",
+        "teaser": null
       }]
