@@ -17,4 +17,4 @@ Whether or not the reported numbers are 99% accurate or just 95% accurate, the p
 
 No matter what choices are made, the Eastern Continental Trail is quite a long trail. I'd pack a lunch.
 
-[distance]: https://easterncontinentaltrail.com/route/distance
+[distance]: https://easterncontinentaltrail.com/resources/tools/distance
