@@ -97,6 +97,9 @@ author:
     - label:  Steam
       icon:   "fab fa-fw fa-steam"
       url:    "https://steamcommunity.com/id/belteshazzar89"
+    - label:  Eastern Continental Trail
+      icon:   "fas fa-fw fa-mountain"
+      url:    "https://easterncontinentaltrail.com/"
 
 # Site Footer
 footer:
