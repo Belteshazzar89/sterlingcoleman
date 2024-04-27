@@ -1,7 +1,7 @@
 ---
 author_profile: true
 layout: archive
-permalink: /exploration/grandes-randonnees/21
+permalink: /exploration/grandes-randonnees/21/
 title: GR 21
 ---
 The GR21 is a trail which offers magnificent views of the cliffs of Normandy on the Côte d'Albâtre. Stretching from Le Tréport to Le Havre, the 200 kilometers offered by the GR21 show off the English Channel, the agricultural setting of the Seine-Maritime department, and many little villages with lovely homes.
