@@ -9,5 +9,8 @@ I've always been appreciative of the less-traveled path. Being in the minority o
 
 Until now, my most interesting adventure has been the Eastern Continental Trail.
 
-{% include exploration/eastern-continental-trail/introduction.md %}
-{% include exploration/northern-rockies-trail/introduction.md %}
+<a href="eastern-continental-trail/"><img src="/assets/images/exploration/ect-photo.jpg" /></a>
+
+<a href="northern-rockies-trail/"><img src="/assets/images/exploration/nrt-photo.jpg" /></a>
+
+<a href="grandes-randonnees/"><img src="/assets/images/exploration/gr-photo.jpg" /></a>
