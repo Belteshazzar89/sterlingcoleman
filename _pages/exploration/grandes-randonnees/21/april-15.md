@@ -1,5 +1,40 @@
 ---
 author_profile: true
+date: 15-04-2024 12:00:00 -0500
+gallery:
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-15/small/091236.jpg
+        title: Daniel and Alex in beautiful downtown Manneville-ès-Plains
+        url: /assets/images/exploration/grandes-randonnees/21/april-15/large/091236.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-15/small/092828.jpg
+        title: A line of wind turbines in the farm fields
+        url: /assets/images/exploration/grandes-randonnees/21/april-15/large/092828.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-15/small/102119.jpg
+        title: The beach at Saint-Valery-en-Caux
+        url: /assets/images/exploration/grandes-randonnees/21/april-15/large/102119.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-15/small/102606.jpg
+        title: An old German bunker carved into the cliff
+        url: /assets/images/exploration/grandes-randonnees/21/april-15/large/102606.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-15/small/102931.jpg
+        title: Miriam, Danel, and Alex at the beach at Ssaint-Valery-en-Caux
+        url: /assets/images/exploration/grandes-randonnees/21/april-15/large/102931.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-15/small/164612.jpg
+        title: Green fields stretching out to the edge of the Normandy cliffs
+        url: /assets/images/exploration/grandes-randonnees/21/april-15/large/164612.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-15/small/191956.jpg
+        title: The Mémoire d'Albâtre sign at the exhibit of German bunkers
+        url: /assets/images/exploration/grandes-randonnees/21/april-15/large/191956.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-15/small/192348.jpg
+        title: Approaching sunset over Veulettes-sur-Mer
+        url: /assets/images/exploration/grandes-randonnees/21/april-15/large/192348.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-15/small/192442.jpg
+        title: The words of Cicero at the Mémoire d'Albâtre
+        url: /assets/images/exploration/grandes-randonnees/21/april-15/large/192442.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-15/small/192827.jpg
+        title: The cliffs and sea from a German bunker
+        url: /assets/images/exploration/grandes-randonnees/21/april-15/large/192827.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-15/small/195003.jpg
+        title: Our tent set up at the Courtyard of the Fairies
+        url: /assets/images/exploration/grandes-randonnees/21/april-15/large/195003.jpg
 layout: single
 next:
     url: exploration/grandes-randonnees/21/april-16
@@ -37,3 +72,5 @@ My original plan was to camp at the Mémoire d'Albâtre, the exhibition of Germa
 When we past a public building in Conteville, we found a spot out of the way and set up our tent. A woman who presumably worked there walked by and we explained the situation, and she graciously agreed to let us stay.
 
 It was a dangerously windy night, and our tent shook and strained all night with the gale-force winds, but it was staked down first, and never broke. The children were warm in their sleeping bags.
+
+{% include gallery layout="half" %}

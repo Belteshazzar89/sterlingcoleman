@@ -6,7 +6,7 @@ previous:
     url: exploration/grandes-randonnees/21/april-20
 title: Sunday, April 21, 2024
 ---
-I woke up and stayed in bed while thevkids watched TV. I was still feeling cold, and didn't get up until the last minute.
+I woke up and stayed in bed while the kids watched TV. I was still feeling cold, and didn't get up until the last minute.
 
 We hiked up a big hill to get back to the blazes marking the GR21, and started moving West.
 
