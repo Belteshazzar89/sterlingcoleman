@@ -1,5 +1,40 @@
 ---
 author_profile: true
+date: 16-04-2024 12:00:00 -0500
+gallery: 
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-16/small/081810.jpg
+        title: A German bunker over Veulettes-sur-Mer
+        url: /assets/images/exploration/grandes-randonnees/21/april-16/large/081810.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-16/small/084211.jpg
+        title: Sea foam on the sidewalk after a wild storm
+        url: /assets/images/exploration/grandes-randonnees/21/april-16/large/084211.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-16/small/115901.jpg
+        title: Walking down to Les Petites Dalles
+        url: /assets/images/exploration/grandes-randonnees/21/april-16/large/115901.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-16/small/120650.jpg
+        title: Les Petites Dalles and a grassy cliffside
+        url: /assets/images/exploration/grandes-randonnees/21/april-16/large/120650.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-16/small/123036.jpg
+        title: Miriam and Alex climb the trail out of Les Petites Dalles
+        url: /assets/images/exploration/grandes-randonnees/21/april-16/large/123036.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-16/small/123456.jpg
+        title: Daneil on the windy cliff between Les Petites Dalles and Les Grandes Dalles
+        url: /assets/images/exploration/grandes-randonnees/21/april-16/large/123456.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-16/small/124128.jpg
+        title: Daniel on the descent to Les Grandes Dalles
+        url: /assets/images/exploration/grandes-randonnees/21/april-16/large/124128.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-16/small/124333.jpg
+        title: Daniel, Miriam, and Alex on the windy descent to Les Grandes Dalles
+        url: /assets/images/exploration/grandes-randonnees/21/april-16/large/124333.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-16/small/131348.jpg
+        title: Climbing the trail out of Les Grandes Dalles
+        url: /assets/images/exploration/grandes-randonnees/21/april-16/large/131348.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-16/small/135715.jpg
+        title: Looking down the line of waves crashing on rocky Normandy beaches
+        url: /assets/images/exploration/grandes-randonnees/21/april-16/large/135715.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-16/small/151148.jpg
+        title: An automated lawnmower in Saint-Pierre-en-Port
+        url: /assets/images/exploration/grandes-randonnees/21/april-16/large/151148.jpg
 layout: single
 next:
     url: exploration/grandes-randonnees/21/april-17
@@ -26,7 +61,7 @@ There wasn't much at Les Petites Dalles besides yet another small playground, so
 
 My original plan had been to camp between Les Petites Dalles qnd Les Grandes Dalles, but as we moved between the two, we didn't see many good options for a tent. Certainly nothing that could hide from the wind. Thankfully we had already agreed to hike on further in order to be closer to the city of Fécamp, our destination for the next day.
 
-We sat on the be2nches next to the fountain in Les Dalles and ate some snacks. It may have been one of our only breaks of the day near the coast and not too cold and windy.
+We sat on the benches next to the fountain in Les Dalles and ate some snacks. It may have been one of our only breaks of the day near the coast and not too cold and windy.
 
 We set off from there with yet another small climb, heading for Saint-Pierre-en-Port. I really liked the entrance into this one. There were little Grassy alleyways and it felt like we were taking some kind of secret passage as we descended down to the road.
 
@@ -37,3 +72,5 @@ It's kind of fun buying stuff from these tiny stores. Just seeing what they have
 Leaving town with enough food to make it to Fécamp the next day, I had hoped to camp in the woods just West of town, but there was nowhere to put a tent. We continued on, finally finding a spot partially behind a few small bushes on the way to Életot.
 
 I wasn't fond of our spot, as it was not well hidden, and we could easily be seen by any residents that passed by. But we were tired and had done more than enough distance for the day. We napped, ate, and then eventually went to sleep after a brief rainshower.
+
+{% include gallery layout="half" %}

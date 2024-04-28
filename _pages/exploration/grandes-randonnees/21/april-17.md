@@ -1,5 +1,6 @@
 ---
 author_profile: true
+date: 17-04-2024 12:00:00 -0500
 layout: single
 next:
     url: exploration/grandes-randonnees/21/april-18

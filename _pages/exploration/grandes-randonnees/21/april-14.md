@@ -1,5 +1,43 @@
 ---
 author_profile: true
+date: 14-04-2024 12:00:00 -0500
+gallery:
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-14/small/092224.jpg
+        title: Daniel and Miriam hike towards Quiberville Beach
+        url: /assets/images/exploration/grandes-randonnees/21/april-14/large/092224.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-14/small/110854.jpg
+        title: A tractor pulls a boat out of the sea at Quiberville Beach
+        url: /assets/images/exploration/grandes-randonnees/21/april-14/large/110854.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-14/small/111826.jpg
+        title: Miriam and Alex climb out of Quiberville
+        url: /assets/images/exploration/grandes-randonnees/21/april-14/large/111826.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-14/small/113525.jpg
+        title: A farmer at work in his field
+        url: /assets/images/exploration/grandes-randonnees/21/april-14/large/113525.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-14/small/131446.jpg
+        title: Green fields before Saint-Aubin-sur-Mer
+        url: /assets/images/exploration/grandes-randonnees/21/april-14/large/131446.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-14/small/141115.jpg
+        title: The Route de Saussemare, which leads out to the sea from Saint-Aubin-sur-Mer
+        url: /assets/images/exploration/grandes-randonnees/21/april-14/large/141115.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-14/small/154906.jpg
+        title: Lush green grass and a partly cloudy sky
+        url: /assets/images/exploration/grandes-randonnees/21/april-14/large/154906.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-14/small/165914.jpg
+        title: Cute little bridege in Veules-les-Roses
+        url: /assets/images/exploration/grandes-randonnees/21/april-14/large/165914.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-14/small/170841.jpg
+        title: A sign details the history of the leper colony at Veules-les-Roses
+        url: /assets/images/exploration/grandes-randonnees/21/april-14/large/170841.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-14/small/175516.jpg
+        title: The Veules as it passes beneath the windows
+        url: /assets/images/exploration/grandes-randonnees/21/april-14/large/175516.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-14/small/181915.jpg
+        title: The Veules as it approaches the sea
+        url: /assets/images/exploration/grandes-randonnees/21/april-14/large/181915.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-14/small/204517.jpg
+        title: A nice sunset seen from our tent in the farm fields 
+        url: /assets/images/exploration/grandes-randonnees/21/april-14/large/204517.jpg
 layout: single
 next:
     url: exploration/grandes-randonnees/21/april-15
@@ -33,3 +71,5 @@ Alex wanted to get to set up camp, as it was getting colder. We climbed up put o
 Alex cooked up a lot of food, I had an entire baguette with ham and shredded cheese, and the kids and Alex had spaghetti noodles. Satisfied, we listened to a light rain on the tent, and then went to bed.
 
 The kids are always happy in the tent. Let's hope they can keep that spirit while walking tomorrow.
+
+{% include gallery layout="half" %}

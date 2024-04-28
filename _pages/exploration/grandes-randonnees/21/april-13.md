@@ -1,5 +1,6 @@
 ---
 author_profile: true
+date: 13-04-2024 12:00:00 -0500
 gallery: 
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-13/small/100009.jpg
         title: Miriam and Daniel at the Dieppe Museum
@@ -35,7 +36,7 @@ gallery:
         title: Horizontal Trees on the trail West of Petit Ailly Beach
         url: /assets/images/exploration/grandes-randonnees/21/april-13/large/150508.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-13/small/163715.jpg
-        title: Alex and the kids descend a harrowing trail to visit the beach off the trail
+        title: Alex and the kids descend a harrowing path to visit the beach off the trail
         url: /assets/images/exploration/grandes-randonnees/21/april-13/large/163715.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-13/small/171345.jpg
         title: The English Channel stretches off into the distance
