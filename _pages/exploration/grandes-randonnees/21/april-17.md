@@ -1,6 +1,37 @@
 ---
 author_profile: true
 date: 17-04-2024 12:00:00 -0500
+gallery:
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/085604.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-17/large/085604.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/090752.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-17/large/090752.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/090907.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-17/large/090907.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/090958.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-17/large/090958.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/091004.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-17/large/091004.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/091019.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-17/large/091019.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/103704.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-17/large/103704.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/104533.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-17/large/104533.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/105355.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-17/large/105355.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/110036.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-17/large/110036.jpg
 layout: single
 next:
     url: exploration/grandes-randonnees/21/april-18
@@ -22,3 +53,5 @@ Thankfully, the kids enjoyed some McDonald's while we waited, and by the afterno
 I set off to get our town chores done. The stores in this city were smaller than I had imagined, and it was tough to find Miriam a new pair of pants and leggings to replace her worn out and holey clothing. After walking all over town, I finally settled on the meager offering at Carrefour, but atleast she wasn't dissatisfied.
 
 We got an incredible amount of food, and I watched some Champions League soccer before bed. The next day we would head out for the famed cliffs of Étretat.
+
+{% include gallery layout="half" %}

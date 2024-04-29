@@ -1,5 +1,49 @@
 ---
 author_profile: true
+date: 19-04-2024 12:00:00 -0500
+gallery:
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/081336.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-19/large/081336.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/081343.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-19/large/081343.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/081349.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-19/large/081349.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/081806.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-19/large/081806.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/082233.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-19/large/082233.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/084941.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-19/large/084941.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/090654.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-19/large/090654.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/091912.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-19/large/091912.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/093323.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-19/large/093323.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/100726.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-19/large/100726.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/111229.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-19/large/111229.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/135114.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-19/large/135114.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/140334.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-19/large/140334.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/142146.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-19/large/142146.jpg
 layout: single
 next:
     url: exploration/grandes-randonnees/21/april-20
@@ -33,3 +77,5 @@ We took naps, except Miriam, who had too much energy to contain herself. There w
 Later, Miriam and I went into Turretot to get baguettes from the bakery. It started raining and we ran back to the tent, diving in as it started to get heavy.
 
 The kids had already eaten and I worked to steadily reduce the mountain of food I had bought in Fécamp. We spent all evening in the tent, but that was fine because it wasn't so cold there. We got to sleep, knowing the next day would be our last full day on the trail.
+
+{% include gallery layout="half" %}
