@@ -1,5 +1,37 @@
 ---
 author_profile: true
+date: 20-04-2024 12:00:00 -0500
+gallery:
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/082828.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-20/large/082828.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/083506.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-20/large/083506.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/085037.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-20/large/085037.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/100345.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-20/large/100345.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/101413.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-20/large/101413.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/102208.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-20/large/102208.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/103824.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-20/large/103824.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/134313.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-20/large/134313.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/141356.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-20/large/141356.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/150252.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-20/large/150252.jpg
 layout: single
 next:
     url: exploration/grandes-randonnees/21/april-21
@@ -33,3 +65,5 @@ Eventually we made it into the city, and got off of the trail to go to our room 
 Later on I went out to get groceries and dinner for us. It was a bit of a surreal experience, being in Le Havre with our elementary school children, who had walked 200 kilometers there over 10 days from Le Tréport.
 
 I was very proud of our family, and ready to tackle the last few kilometers and finish the GR21 the next day.
+
+{% include gallery layout="half" %}

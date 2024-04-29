@@ -1,5 +1,55 @@
 ---
 author_profile: true
+date: 21-04-2024 12:00:00 -0500
+gallery:
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/102040.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-21/large/102040.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/103317.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-21/large/103317.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/104822.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-21/large/104822.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/105619.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-21/large/105619.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/111336.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-21/large/111336.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/120322.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-21/large/120322.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/121108.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-21/large/121108.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/121116.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-21/large/121116.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/125208.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-21/large/125208.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/131820.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-21/large/131820.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/132200.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-21/large/132200.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/133122.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-21/large/133122.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/133615.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-21/large/133615.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/135334.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-21/large/135334.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/135409.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-21/large/135409.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/135434.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-21/large/135434.jpg
 layout: single
 permalink: /exploration/grandes-randonnees/21/april-21
 previous:
@@ -23,3 +73,5 @@ It was a good way to end the trail, having started hiking from the train station
 I took a few pictures of Alex and the kids in front of the closest blaze. We did it! The children accomplished their first ever thru-hike, my wife Alex as well. I was very proud of them, though perhaps a but muted in my enthusiasm by the severe cold I had acquired the day before.
 
 The trail complete, we went to McDonald's where we had lunch and the kids played until it was time to get on the train home. We made it home at night and got a few hours rest before getting back to our normal routine on Monday morning.
+
+{% include gallery layout="half" %}

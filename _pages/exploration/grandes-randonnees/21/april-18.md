@@ -1,6 +1,97 @@
 ---
 author_profile: true
 date: 18-04-2024 12:00:00 -0500
+gallery:
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/101201.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/101201.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/101213.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/101213.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/103926.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/103926.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/105913.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/105913.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/121223.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/121223.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/122004.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/122004.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/131116.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/131116.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/132316.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/132316.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/144028.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/144028.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/144646.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/144646.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/145047.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/145047.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/150012.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/150012.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/151727.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/151727.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/151752.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/151752.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/152016.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/152016.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/152705.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/152705.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/155752.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/155752.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/163033.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/163033.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/165021.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/165021.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/165157.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/165157.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/170133.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/170133.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/170323.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/170323.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/173447.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/173447.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/174157.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/174157.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/182216.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/182216.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/193030.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/193030.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/193142.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/193142.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/210011.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/210011.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/210204.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/210204.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/210213.jpg
+        title: 
+        url: /assets/images/exploration/grandes-randonnees/21/april-18/large/210213.jpg
 layout: single
 next:
     url: exploration/grandes-randonnees/21/april-19
@@ -36,3 +127,5 @@ After a long time there, we couldn't wait any longer, and climbed up out of town
 Arriving at the point where the trail heads inland and leaves the coast for the last time, there was no one there. We set up our tent and staked it down. Thankfully the wind was not too strong, even on the cliff edge. Later on a couple of people walked by, but they didn't mind us.
 
 I got some pictures of our tent as the aun set over the English Channel. Alex spent a long time cooking food for everyone. As we got to sleep I felt a bit sad that our hike was starting to wind down and that we would be leaving behind the cliffs of Normandy in the morning.
+
+{% include gallery layout="half" %}
