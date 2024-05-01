@@ -3,52 +3,52 @@ author_profile: true
 date: 21-04-2024 12:00:00 -0500
 gallery:
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/102040.jpg
-        title: 
+        title: Alex, Daniel, and Miriam above Le Havre
         url: /assets/images/exploration/grandes-randonnees/21/april-21/large/102040.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/103317.jpg
-        title: 
+        title: Another funicular in Le Havre to go with the one in Le Tréport
         url: /assets/images/exploration/grandes-randonnees/21/april-21/large/103317.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/104822.jpg
-        title: 
+        title: Daniel, Miriam, and Alex on the urban trail in Le Havre
         url: /assets/images/exploration/grandes-randonnees/21/april-21/large/104822.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/105619.jpg
-        title: 
+        title: Looking out to the harbor in Le Havre
         url: /assets/images/exploration/grandes-randonnees/21/april-21/large/105619.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/111336.jpg
-        title: 
+        title: Miriam and Daniel at the end of a tunnel in the Jardins Suspendus
         url: /assets/images/exploration/grandes-randonnees/21/april-21/large/111336.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/120322.jpg
-        title: 
+        title: Miriam and Daniel sitting down in the Jardins Suspendus
         url: /assets/images/exploration/grandes-randonnees/21/april-21/large/120322.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/121108.jpg
-        title: 
+        title: View of Le Havre from the Jardins Suspendus
         url: /assets/images/exploration/grandes-randonnees/21/april-21/large/121108.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/121116.jpg
-        title: 
+        title: A little hedge maze in the Jardins Suspendus
         url: /assets/images/exploration/grandes-randonnees/21/april-21/large/121116.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/125208.jpg
-        title: 
+        title: Looking down at the beach at Le Havre
         url: /assets/images/exploration/grandes-randonnees/21/april-21/large/125208.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/131820.jpg
-        title: 
+        title: Miriam, Alex, and Daniel at the UP#3 monument
         url: /assets/images/exploration/grandes-randonnees/21/april-21/large/131820.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/132200.jpg
-        title: 
+        title: The UP#3 monument on the beach at Le Havre
         url: /assets/images/exploration/grandes-randonnees/21/april-21/large/132200.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/133122.jpg
-        title: 
+        title: Walking to the Le Havre train station from the beach
         url: /assets/images/exploration/grandes-randonnees/21/april-21/large/133122.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/133615.jpg
-        title: 
+        title: Le Havre City Hall
         url: /assets/images/exploration/grandes-randonnees/21/april-21/large/133615.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/135334.jpg
-        title: 
+        title: The final blaze on the GR21 at Le Havre train station
         url: /assets/images/exploration/grandes-randonnees/21/april-21/large/135334.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/135409.jpg
-        title: 
+        title: Miriam and Daniel with the final blaze
         url: /assets/images/exploration/grandes-randonnees/21/april-21/large/135409.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-21/small/135434.jpg
-        title: 
+        title: Alex with the final blaze
         url: /assets/images/exploration/grandes-randonnees/21/april-21/large/135434.jpg
 layout: single
 permalink: /exploration/grandes-randonnees/21/april-21

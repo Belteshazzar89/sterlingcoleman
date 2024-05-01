@@ -3,94 +3,94 @@ author_profile: true
 date: 18-04-2024 12:00:00 -0500
 gallery:
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/101201.jpg
-        title: 
+        title: The beach at Fécamp
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/101201.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/101213.jpg
-        title: 
+        title: Houses on a hillside, seen from the beach at Fécamp
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/101213.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/103926.jpg
-        title: 
+        title: Looking back at the shore at Fécamp
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/103926.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/105913.jpg
-        title: 
+        title: Green agricultural fields West of Fécamp
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/105913.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/121223.jpg
-        title: 
+        title: The Coleman family on the briefly shaded trail
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/121223.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/122004.jpg
-        title: 
+        title: The cliffs of Normandy, seen from Yport
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/122004.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/131116.jpg
-        title: 
+        title: A cave at the Yport beach
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/131116.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/132316.jpg
-        title: 
+        title: Climbing out of Yport
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/132316.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/144028.jpg
-        title: 
+        title: Back in the farm fields near Vattetot-sur-Mer
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/144028.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/144646.jpg
-        title: 
+        title: Descending to the shoreline at Etigue Valley
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/144646.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/145047.jpg
-        title: 
+        title: The rocky shore at Etigue Valley
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/145047.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/150012.jpg
-        title: 
+        title: Alex and Miriam climb out of Etigue Valley
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/150012.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/151727.jpg
-        title: 
+        title: Green fields, clouds, pasture, and a small village
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/151727.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/151752.jpg
-        title: 
+        title: A lone sea stack sits apart from the cliff near Bénouville
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/151752.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/152016.jpg
-        title: 
+        title: A split in the cliff gives a view on the rocky beach
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/152016.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/152705.jpg
-        title: 
+        title: A bird hovers in place while seeking prey on the cliff
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/152705.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/155752.jpg
-        title: 
+        title: Daniel and Miriam rest and enjoy a magnificent view
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/155752.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/163033.jpg
-        title: 
+        title: People enjoy the rocky beach far below the edge of the cliff
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/163033.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/165021.jpg
-        title: 
+        title: The famous arch at Étretat
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/165021.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/165157.jpg
-        title: 
+        title: A small path at a point in the cliff above a beautfiul turquoise beach
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/165157.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/170133.jpg
-        title: 
+        title: Alex protects her face from the sun, Miriam watches Daniel play soccer
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/170133.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/170323.jpg
-        title: 
+        title: Small paths in the cliff show where people have ventured out to the edge
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/170323.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/173447.jpg
-        title: 
+        title: The town of Étretat with its beach and arch
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/173447.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/174157.jpg
-        title: 
+        title: At the Étretat beach
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/174157.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/182216.jpg
-        title: 
+        title: The arch as seen from the beach
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/182216.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/193030.jpg
-        title: 
+        title: Another arch, West of Étretat
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/193030.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/193142.jpg
-        title: 
+        title: The town of Étretat, seen beyond a dip in the cliff
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/193142.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/210011.jpg
-        title: 
+        title: The sun begins to set near Point de la Courtine
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/210011.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/210204.jpg
-        title: 
+        title: Another arch seen at Point de la Courtine
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/210204.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/210213.jpg
-        title: 
+        title: Our tent set up at Point de la Courtine, where the GR21 leaves the coast
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/210213.jpg
 layout: single
 next:

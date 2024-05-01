@@ -3,46 +3,46 @@ author_profile: true
 date: 19-04-2024 12:00:00 -0500
 gallery:
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/081336.jpg
-        title: 
+        title: An arch seen from our tent site in the morning under a cloudy sky
         url: /assets/images/exploration/grandes-randonnees/21/april-19/large/081336.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/081343.jpg
-        title: 
+        title: Gray clouds and a darker sea at Point de la Courtine in the morning
         url: /assets/images/exploration/grandes-randonnees/21/april-19/large/081343.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/081349.jpg
-        title: 
+        title: Alex, Miriam, and Daniel get ready to leave the coast and head inland
         url: /assets/images/exploration/grandes-randonnees/21/april-19/large/081349.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/081806.jpg
-        title: 
+        title: One last look back at the coast
         url: /assets/images/exploration/grandes-randonnees/21/april-19/large/081806.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/082233.jpg
-        title: 
+        title: Alex, Miriam, and Daniel back in the farm fields
         url: /assets/images/exploration/grandes-randonnees/21/april-19/large/082233.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/084941.jpg
-        title: 
+        title: Arriving at Le Tilleul
         url: /assets/images/exploration/grandes-randonnees/21/april-19/large/084941.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/090654.jpg
-        title: 
+        title: Following the trail through the alleys of Le Tilleul
         url: /assets/images/exploration/grandes-randonnees/21/april-19/large/090654.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/091912.jpg
-        title: 
+        title: One of many clusters of purple flowers seen from the GR21
         url: /assets/images/exploration/grandes-randonnees/21/april-19/large/091912.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/093323.jpg
-        title: 
+        title: Blaze on a street sign with an interesting name
         url: /assets/images/exploration/grandes-randonnees/21/april-19/large/093323.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/100726.jpg
-        title: 
+        title: Alex, Daniel, and Miriam on the dry muddy trail
         url: /assets/images/exploration/grandes-randonnees/21/april-19/large/100726.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/111229.jpg
-        title: 
+        title: Arriving at Gonneville-la-Mallet
         url: /assets/images/exploration/grandes-randonnees/21/april-19/large/111229.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/135114.jpg
-        title: 
+        title: Daniel gives a funny face in a pose at a small tunnel in Turretot
         url: /assets/images/exploration/grandes-randonnees/21/april-19/large/135114.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/140334.jpg
-        title: 
+        title: Pretty tree in Turretot
         url: /assets/images/exploration/grandes-randonnees/21/april-19/large/140334.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/142146.jpg
-        title: 
+        title: Our tent set up at the soccer fields in Turretot
         url: /assets/images/exploration/grandes-randonnees/21/april-19/large/142146.jpg
 layout: single
 next:
