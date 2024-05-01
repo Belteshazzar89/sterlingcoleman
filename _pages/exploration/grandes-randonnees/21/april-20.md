@@ -3,34 +3,34 @@ author_profile: true
 date: 20-04-2024 12:00:00 -0500
 gallery:
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/082828.jpg
-        title: 
+        title: Blaze and a sign marking the hiking path
         url: /assets/images/exploration/grandes-randonnees/21/april-20/large/082828.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/083506.jpg
-        title: 
+        title: Blaze and a nice sign advertising the GR21
         url: /assets/images/exploration/grandes-randonnees/21/april-20/large/083506.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/085037.jpg
-        title: 
+        title: A creek flows near Rolleville
         url: /assets/images/exploration/grandes-randonnees/21/april-20/large/085037.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/100345.jpg
-        title: 
+        title: A horse with a coat grazes on the approach to Montivilliers
         url: /assets/images/exploration/grandes-randonnees/21/april-20/large/100345.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/101413.jpg
-        title: 
+        title: Miriam crosses a stream at Montivilliers
         url: /assets/images/exploration/grandes-randonnees/21/april-20/large/101413.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/102208.jpg
-        title: 
+        title: Looking at a small ridge with houses in Montivilliers
         url: /assets/images/exploration/grandes-randonnees/21/april-20/large/102208.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/103824.jpg
-        title: 
+        title: An iron gate for a mansion in Montivilliers
         url: /assets/images/exploration/grandes-randonnees/21/april-20/large/103824.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/134313.jpg
-        title: 
+        title: Miriam and Daniel with a detailed wood carving in Montgeon Forest
         url: /assets/images/exploration/grandes-randonnees/21/april-20/large/134313.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/141356.jpg
-        title: 
+        title: The best playground on the trail in Montgeon Forest
         url: /assets/images/exploration/grandes-randonnees/21/april-20/large/141356.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-20/small/150252.jpg
-        title: 
+        title: Miriam hikes through a tree
         url: /assets/images/exploration/grandes-randonnees/21/april-20/large/150252.jpg
 layout: single
 next:

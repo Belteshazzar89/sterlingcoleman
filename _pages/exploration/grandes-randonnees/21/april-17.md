@@ -3,34 +3,34 @@ author_profile: true
 date: 17-04-2024 12:00:00 -0500
 gallery:
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/085604.jpg
-        title: 
+        title: The different colors of farm fields on the Normandy coast
         url: /assets/images/exploration/grandes-randonnees/21/april-17/large/085604.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/090752.jpg
-        title: 
+        title: The fenced-in trail approaches the cliff
         url: /assets/images/exploration/grandes-randonnees/21/april-17/large/090752.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/090907.jpg
-        title: 
+        title: The English Channel stretches as far as the eye can see from the trail
         url: /assets/images/exploration/grandes-randonnees/21/april-17/large/090907.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/090958.jpg
-        title: 
+        title: Looking down at the waves on the rocks at Életot Valley
         url: /assets/images/exploration/grandes-randonnees/21/april-17/large/090958.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/091004.jpg
-        title: 
+        title: Blue waters of the English Channel and a cloudy sky
         url: /assets/images/exploration/grandes-randonnees/21/april-17/large/091004.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/091019.jpg
-        title: 
+        title: Alex, Miriam, and Daneil pose for a photo on the descent to Életot Valley
         url: /assets/images/exploration/grandes-randonnees/21/april-17/large/091019.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/103704.jpg
-        title: 
+        title: A line of wind turbines under a cloudy sky on the roadwalk into Fécamp
         url: /assets/images/exploration/grandes-randonnees/21/april-17/large/103704.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/104533.jpg
-        title: 
+        title: Miriam and Daniel with Fécamp in the distance
         url: /assets/images/exploration/grandes-randonnees/21/april-17/large/104533.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/105355.jpg
-        title: 
+        title: The Coleman family approaches Fécamp through the thickets
         url: /assets/images/exploration/grandes-randonnees/21/april-17/large/105355.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/110036.jpg
-        title: 
+        title: Above Fécamp
         url: /assets/images/exploration/grandes-randonnees/21/april-17/large/110036.jpg
 layout: single
 next:
