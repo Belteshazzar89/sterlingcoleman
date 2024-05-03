@@ -52,6 +52,9 @@ previous:
     url: exploration/grandes-randonnees/21/april-12
 title: Saturday, April 13, 2024
 ---
+{% include exploration/grand-randonnees/21/dayrow-finder.md %}
+{% include exploration/grand-randonnees/daily-description.html %}
+
 We woke up in out AirBnB in downtown Dieppe feeling rested. I got up and went to the pharmacy to get a patch for Miriam's heel, which was starting to form a blister.
 
 Our first task of the day was to eat. Actually, that was our main mission for most of the day. We hiked out of Dieppe with a ton of food and we were happy to dig into it early and often in order to reduce the weight on our backs. Same for our full water bottles.

@@ -53,6 +53,9 @@ next:
 permalink: /exploration/grandes-randonnees/21/april-11
 title: Thursday, April 11, 2024
 ---
+{% include exploration/grand-randonnees/21/dayrow-finder.md %}
+{% include exploration/grand-randonnees/daily-description.html %}
+
 The first day is done. We are camped close to Neauville(?), just to the East of Biville-sur-Mer, my initial goal.
 
 This morning, we got up and got going right on schedule. Everything went smoothly until Metro Line 4 was completely stopped so we quickly switched to another line, and made our way to Gare du Nord for our train.

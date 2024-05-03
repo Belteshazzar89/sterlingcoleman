@@ -40,6 +40,9 @@ previous:
     url: exploration/grandes-randonnees/21/april-19
 title: Saturday, April 20, 2024
 ---
+{% include exploration/grand-randonnees/21/dayrow-finder.md %}
+{% include exploration/grand-randonnees/daily-description.html %}
+
 I had a bad night. It was really cold outside, and my sleeping bag wasn't enough protection. I must have slept about three or four hours before waking up and tossing and turning the rest of the night.
 
 Thankfully the Alex and the kids fared better. After they had woken up, we got packed up and got hiking by 8:30.

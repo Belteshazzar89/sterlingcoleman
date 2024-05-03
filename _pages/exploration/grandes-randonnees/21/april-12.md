@@ -22,6 +22,9 @@ previous:
     url: exploration/grandes-randonnees/21/april-11
 title: Friday, April 12, 2024
 ---
+{% include exploration/grand-randonnees/21/dayrow-finder.md %}
+{% include exploration/grand-randonnees/daily-description.html %}
+
 We woke up near Neuvillette before 8, then packed up all of our stuff, put on out wet shoes, and got hiking at 9. Pretty soon we passed the spot I had previously hoped to camp at on the road to Biville, which turned out to be a bad spot to set up a tent. Ours was much better.
 
 There was another deviation. There have been several so far. This one brought us into the town of Penly, and from there we were walking around a nuclear power plant.
