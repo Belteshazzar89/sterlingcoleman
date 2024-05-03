@@ -40,6 +40,9 @@ previous:
     url: exploration/grandes-randonnees/21/april-16
 title: Wednesday, April 17, 2024
 ---
+{% include exploration/grand-randonnees/21/dayrow-finder.md %}
+{% include exploration/grand-randonnees/daily-description.html %}
+
 In the morning, we woke up and I was glad that we had passed a more peaceful night, with little wind. Even better, no one had disturbed us in our tent pitched right next to the dirt road.
 
 It was a town day, so we wanted to get moving. It was a little chilly getting out of our sleeping bags l, but we packed up and got hiking by 8:30 AM.

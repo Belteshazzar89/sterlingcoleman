@@ -52,6 +52,9 @@ previous:
     url: exploration/grandes-randonnees/21/april-18
 title: Friday, April 19, 2024
 ---
+{% include exploration/grand-randonnees/21/dayrow-finder.md %}
+{% include exploration/grand-randonnees/daily-description.html %}
+
 The night on the cliff was actually fine. The wind was not a real problem, and I felt warm in my sleeping bag. When we got up out of our tent, there were a couple people working on the golf course right next to our tent.
 
 It took two people to hold the tent after we picked up the tent stakes the wind being fairly strong. Thankfully the weather had changed and rain was no longer forecast. We said our goodbyes to the coast, turned our backs, and marched off inland.

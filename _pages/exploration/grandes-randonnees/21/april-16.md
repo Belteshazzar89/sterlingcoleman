@@ -43,6 +43,9 @@ previous:
     url: exploration/grandes-randonnees/21/april-15
 title: Tuesday, April 16, 2024
 ---
+{% include exploration/grand-randonnees/21/dayrow-finder.md %}
+{% include exploration/grand-randonnees/daily-description.html %}
+
 I was on the windy side of the tent, so I was being buffeted by the tent during the night. It wasn't the most restful sleep I've ever had, listening to the tent creak and groan with the howling wind.
 
 We had wanted to get up and going in the early morning in order to be away before anyone showed up. We weren't that early to leave, but we were hiking by 8 AM.

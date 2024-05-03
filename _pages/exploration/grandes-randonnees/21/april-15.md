@@ -43,6 +43,9 @@ previous:
     url: exploration/grandes-randonnees/21/april-14
 title: Monday, April 15, 2024
 ---
+{% include exploration/grand-randonnees/21/dayrow-finder.md %}
+{% include exploration/grand-randonnees/daily-description.html %}
+
 When we woke up, we were on a mission: get into the city of Saint-Valery-en-Caux as soon as possible and avoid any incoming rain. We packed up our stuff and left our site, walking in the wind along the tractor paths between the farm fields.
 
 The theme of the day was wind. We walked along some roads into a small village called Manneville-es-Plains, took a short break, then went back out onto the windy farms.
