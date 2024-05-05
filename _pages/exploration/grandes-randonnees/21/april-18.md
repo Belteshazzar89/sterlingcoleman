@@ -103,6 +103,8 @@ title: Thursday, April 18, 2024
 {% include exploration/grand-randonnees/21/dayrow-finder.md %}
 {% include exploration/grand-randonnees/daily-description.html %}
 
+<iframe width="100%" height="350px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/april-18-2024-on-the-gr-21_1064940?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=false&tilelayersControl=null&embedControl=false&datalayersControl=null&onLoadPanel=none&captionBar=false&captionMenus=false&editinosmControl=false&locateControl=false&captionControl=false#11/49.7359/0.2700"></iframe>
+
 Alex and the kids slept well on the bed, and I slept in my sleeping bag on the floor. In the morning, I got Miriam new bandages for her foot, which was rubbing against her shoe at the ankle.
 
 The kids were bouncing off the walls. We had a ton of food that we needed to eat, but we just couldn't eat it all. We ate as much as we could, but I couldn't help much because I had already eaten too much the night before and was not feeling good.

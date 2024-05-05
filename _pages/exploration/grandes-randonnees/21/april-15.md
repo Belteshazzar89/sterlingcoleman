@@ -46,6 +46,8 @@ title: Monday, April 15, 2024
 {% include exploration/grand-randonnees/21/dayrow-finder.md %}
 {% include exploration/grand-randonnees/daily-description.html %}
 
+<iframe width="100%" height="350px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/untitled-map_1064869?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=false&tilelayersControl=null&embedControl=false&datalayersControl=null&onLoadPanel=none&captionBar=false&captionMenus=false&editinosmControl=false&locateControl=false&captionControl=false#12/49.8629/0.6913"></iframe>
+
 When we woke up, we were on a mission: get into the city of Saint-Valery-en-Caux as soon as possible and avoid any incoming rain. We packed up our stuff and left our site, walking in the wind along the tractor paths between the farm fields.
 
 The theme of the day was wind. We walked along some roads into a small village called Manneville-es-Plains, took a short break, then went back out onto the windy farms.

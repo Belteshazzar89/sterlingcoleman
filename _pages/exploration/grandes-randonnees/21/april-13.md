@@ -55,6 +55,8 @@ title: Saturday, April 13, 2024
 {% include exploration/grand-randonnees/21/dayrow-finder.md %}
 {% include exploration/grand-randonnees/daily-description.html %}
 
+<iframe width="100%" height="350px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/untitled-map_1064850?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=null&embedControl=false&datalayersControl=null&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=false&locateControl=false&editinosmControl=false#12/49.9180/1.0267"></iframe>
+
 We woke up in out AirBnB in downtown Dieppe feeling rested. I got up and went to the pharmacy to get a patch for Miriam's heel, which was starting to form a blister.
 
 Our first task of the day was to eat. Actually, that was our main mission for most of the day. We hiked out of Dieppe with a ton of food and we were happy to dig into it early and often in order to reduce the weight on our backs. Same for our full water bottles.
