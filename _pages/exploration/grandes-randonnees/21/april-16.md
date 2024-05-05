@@ -46,6 +46,8 @@ title: Tuesday, April 16, 2024
 {% include exploration/grand-randonnees/21/dayrow-finder.md %}
 {% include exploration/grand-randonnees/daily-description.html %}
 
+<iframe width="100%" height="350px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/april-16-2024-on-the-gr-21_1064936?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=false&tilelayersControl=null&embedControl=false&datalayersControl=null&onLoadPanel=none&captionBar=false&captionMenus=false&editinosmControl=false&locateControl=false&captionControl=false#12/49.8284/0.5313"></iframe>
+
 I was on the windy side of the tent, so I was being buffeted by the tent during the night. It wasn't the most restful sleep I've ever had, listening to the tent creak and groan with the howling wind.
 
 We had wanted to get up and going in the early morning in order to be away before anyone showed up. We weren't that early to leave, but we were hiking by 8 AM.

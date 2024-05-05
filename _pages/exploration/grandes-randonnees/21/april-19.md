@@ -55,6 +55,8 @@ title: Friday, April 19, 2024
 {% include exploration/grand-randonnees/21/dayrow-finder.md %}
 {% include exploration/grand-randonnees/daily-description.html %}
 
+<iframe width="100%" height="350px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/april-19-2024-on-the-gr-21_1064943?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=false&tilelayersControl=null&embedControl=false&datalayersControl=null&onLoadPanel=none&captionBar=false&captionMenus=false&editinosmControl=false&locateControl=false&captionControl=false#11/49.6560/0.1796"></iframe>
+
 The night on the cliff was actually fine. The wind was not a real problem, and I felt warm in my sleeping bag. When we got up out of our tent, there were a couple people working on the golf course right next to our tent.
 
 It took two people to hold the tent after we picked up the tent stakes the wind being fairly strong. Thankfully the weather had changed and rain was no longer forecast. We said our goodbyes to the coast, turned our backs, and marched off inland.

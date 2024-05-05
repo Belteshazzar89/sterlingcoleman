@@ -59,6 +59,8 @@ title: Sunday, April 21, 2024
 {% include exploration/grand-randonnees/21/dayrow-finder.md %}
 {% include exploration/grand-randonnees/daily-description.html %}
 
+<iframe width="100%" height="350px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/april-21-2024-on-the-gr-21_1064948?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=false&tilelayersControl=null&embedControl=false&datalayersControl=null&onLoadPanel=none&captionBar=false&captionMenus=false&editinosmControl=false&locateControl=false&captionControl=false#14/49.4996/0.1047"></iframe>
+
 I woke up and stayed in bed while the kids watched TV. I was still feeling cold, and didn't get up until the last minute.
 
 We hiked up a big hill to get back to the blazes marking the GR21, and started moving West.

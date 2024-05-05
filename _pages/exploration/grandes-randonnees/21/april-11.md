@@ -56,6 +56,8 @@ title: Thursday, April 11, 2024
 {% include exploration/grand-randonnees/21/dayrow-finder.md %}
 {% include exploration/grand-randonnees/daily-description.html %}
 
+<iframe width="100%" height="350px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/april-11-2024-on-the-gr21_1064825?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=false&tilelayersControl=true&embedControl=null&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=false&locateControl=false&editinosmControl=false#11/50.0416/1.3005"></iframe>
+
 The first day is done. We are camped close to Neauville(?), just to the East of Biville-sur-Mer, my initial goal.
 
 This morning, we got up and got going right on schedule. Everything went smoothly until Metro Line 4 was completely stopped so we quickly switched to another line, and made our way to Gare du Nord for our train.

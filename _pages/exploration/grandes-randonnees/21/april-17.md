@@ -43,6 +43,8 @@ title: Wednesday, April 17, 2024
 {% include exploration/grand-randonnees/21/dayrow-finder.md %}
 {% include exploration/grand-randonnees/daily-description.html %}
 
+<iframe width="100%" height="350px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/april-17-2024-on-the-gr-21_1064938?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=false&tilelayersControl=null&embedControl=false&datalayersControl=null&onLoadPanel=none&captionBar=false&captionMenus=false&editinosmControl=false&locateControl=false&captionControl=false#12/49.7791/0.4201"></iframe>
+
 In the morning, we woke up and I was glad that we had passed a more peaceful night, with little wind. Even better, no one had disturbed us in our tent pitched right next to the dirt road.
 
 It was a town day, so we wanted to get moving. It was a little chilly getting out of our sleeping bags l, but we packed up and got hiking by 8:30 AM.

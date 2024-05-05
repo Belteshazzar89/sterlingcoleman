@@ -49,6 +49,8 @@ title: Sunday, April 14, 2024
 {% include exploration/grand-randonnees/21/dayrow-finder.md %}
 {% include exploration/grand-randonnees/daily-description.html %}
 
+<iframe width="100%" height="350px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/untitled-map_1064867?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=false&tilelayersControl=null&embedControl=false&datalayersControl=null&onLoadPanel=none&captionBar=false&captionMenus=false&editinosmControl=false&locateControl=false&captionControl=false#12/49.8959/0.8626"></iframe>
+
 We woke up at the Ailly Lighthouse feeling well-rested. Our tent site was a good one. We picked up and got hiking at 9AM.
 
 The itinerary for the day was a series of villages, the first being Saint-Marguerite-sur-Mer. We got down to the beach and th3 kids played on a playground for a few minutes. It was an overcast and windy morning, and we weren't too keen on sticking around for long.

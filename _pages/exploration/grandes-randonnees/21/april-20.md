@@ -43,6 +43,8 @@ title: Saturday, April 20, 2024
 {% include exploration/grand-randonnees/21/dayrow-finder.md %}
 {% include exploration/grand-randonnees/daily-description.html %}
 
+<iframe width="100%" height="350px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/april-20-2024-on-the-gr-21_1064947?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=false&tilelayersControl=null&embedControl=false&datalayersControl=null&onLoadPanel=none&captionBar=false&captionMenus=false&editinosmControl=false&locateControl=false&captionControl=false#11/49.5614/0.1342"></iframe>
+
 I had a bad night. It was really cold outside, and my sleeping bag wasn't enough protection. I must have slept about three or four hours before waking up and tossing and turning the rest of the night.
 
 Thankfully the Alex and the kids fared better. After they had woken up, we got packed up and got hiking by 8:30.
