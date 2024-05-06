@@ -84,13 +84,13 @@ gallery:
         title: The town of Étretat, seen beyond a dip in the cliff
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/193142.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/210011.jpg
-        title: The sun begins to set near Point de la Courtine
+        title: The sun begins to set near Pointe de la Courtine
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/210011.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/210204.jpg
-        title: Another arch seen at Point de la Courtine
+        title: Another arch seen at Pointe de la Courtine
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/210204.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-18/small/210213.jpg
-        title: Our tent set up at Point de la Courtine, where the GR21 leaves the coast
+        title: Our tent set up at Pointe de la Courtine, where the GR21 leaves the coast
         url: /assets/images/exploration/grandes-randonnees/21/april-18/large/210213.jpg
 layout: single
 next:
@@ -113,7 +113,7 @@ The theme of the day was heavy backpacks. We left Fécamp feeling overburdened a
 
 We hiked into the little town of Yport, where the kids played on a playground. I wanted to take long breaks because I planned to camp up near Pointe de la Courtine, which I anticipated would be busy until sunset. But it was too windy to stay in Yport for long, so we kept hiking.
 
-Alex's knee was bothering her. She had felt it before, and with a heavy backpack it was aggravated. At one point agter Vaucottes we stopped to sit on some logs, and she cooked up a lot of hot dogs to feed the kids and reduce her pack weight.
+Alex's knee was bothering her. She had felt it before, and with a heavy backpack it was aggravated. At one point after Vaucottes we stopped to sit on some logs, and she cooked up a lot of hot dogs to feed the kids and reduce her pack weight.
 
 At one point I noticed that the blazes kept us on the coast instead of going into Benouville. It is quite rare that the blazes differ from the route downloaded to my phone and the book, so this must be a recent change.
 
@@ -123,14 +123,14 @@ The path along the cliff edge was beautiful. Not too windy, a little sunny. The 
 
 We came into contact with more and more people, and I realized we had changed from countryside etiquette to town mode when my greetings failed to receive a response.
 
-Close to the town, we stopped on a big concrete slab and rested with many tourists who were taking pictures. We could see the town of Étretat, as well as the iconic naturalo arch in jutting out from the cliff into the water. Daniel played soccer with a family.
+Close to the town, we stopped on a big concrete slab and rested with many tourists who were taking pictures. We could see the town of Étretat, as well as the iconic natural arch jutting out from the cliff into the water. Daniel played soccer with a family.
 
 We stayed there for hours, delaying our descent into the town. When we finally did go down, we found a playground for the kids. There were tourists everywhere, and it was a very different atmosphere from the rest of the hike, which was solitary.
 
-After a long time there, we couldn't wait any longer, and climbed up out of town. The number of tourists hiking on the West side of town had dwindled down to very few, and as we hiked farther from town, we were along again.
+After a long time there, we couldn't wait any longer, and climbed up out of town. The number of tourists hiking on the West side of town had dwindled down to very few, and as we hiked farther from town, we were alone again.
 
 Arriving at the point where the trail heads inland and leaves the coast for the last time, there was no one there. We set up our tent and staked it down. Thankfully the wind was not too strong, even on the cliff edge. Later on a couple of people walked by, but they didn't mind us.
 
-I got some pictures of our tent as the aun set over the English Channel. Alex spent a long time cooking food for everyone. As we got to sleep I felt a bit sad that our hike was starting to wind down and that we would be leaving behind the cliffs of Normandy in the morning.
+I got some pictures of our tent as the sun set over the English Channel. Alex spent a long time cooking food for everyone. As we got to sleep I felt a bit sad that our hike was starting to wind down and that we would be leaving behind the cliffs of Normandy in the morning.
 
 {% include gallery layout="half" %}

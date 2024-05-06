@@ -6,7 +6,7 @@ gallery:
         title: An arch seen from our tent site in the morning under a cloudy sky
         url: /assets/images/exploration/grandes-randonnees/21/april-19/large/081336.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/081343.jpg
-        title: Gray clouds and a darker sea at Point de la Courtine in the morning
+        title: Gray clouds and a darker sea at Pointe de la Courtine in the morning
         url: /assets/images/exploration/grandes-randonnees/21/april-19/large/081343.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-19/small/081349.jpg
         title: Alex, Miriam, and Daniel get ready to leave the coast and head inland
@@ -59,7 +59,7 @@ title: Friday, April 19, 2024
 
 The night on the cliff was actually fine. The wind was not a real problem, and I felt warm in my sleeping bag. When we got up out of our tent, there were a couple people working on the golf course right next to our tent.
 
-It took two people to hold the tent after we picked up the tent stakes the wind being fairly strong. Thankfully the weather had changed and rain was no longer forecast. We said our goodbyes to the coast, turned our backs, and marched off inland.
+It took two people to hold the tent after we picked up the tent stakes, the wind being fairly strong. Thankfully the weather had changed and rain was no longer forecast. We said our goodbyes to the coast, turned our backs, and marched off inland.
 
 I was a little sad to leave the coast. At this point, leaving the cliff edge signaled that our hike was nearing its end. In just another day we would be in Le Havre, if all went according to plan.
 
@@ -71,7 +71,7 @@ We hiked right past a Carrefour Market at Gonneville-la-Mallet, and I got some d
 
 The kids were getting tired of walking with no breaks as we embarked on a cold and windy tour of the farms. We started to get some light rain, and our shoes and socks got wet from walking through the wet grass in the fields.
 
-We persevered, and got to Turretot. The rain stopped and the kids played at a playground for a few minutes before we got to cold and had to go.
+We persevered, and got to Turretot. The rain stopped and the kids played at a playground for a few minutes before we got too cold and had to go.
 
 My plan was to set up our tent behind some buildings at the local soccer field, where I had seen another hiker post a video of his spot. We made it to the exact spot I was looking for, and set up our tent.
 
