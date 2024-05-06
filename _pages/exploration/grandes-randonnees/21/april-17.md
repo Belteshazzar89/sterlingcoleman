@@ -18,7 +18,7 @@ gallery:
         title: Blue waters of the English Channel and a cloudy sky
         url: /assets/images/exploration/grandes-randonnees/21/april-17/large/091004.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/091019.jpg
-        title: Alex, Miriam, and Daneil pose for a photo on the descent to Életot Valley
+        title: Alex, Miriam, and Daniel pose for a photo on the descent to Életot Valley
         url: /assets/images/exploration/grandes-randonnees/21/april-17/large/091019.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-17/small/103704.jpg
         title: A line of wind turbines under a cloudy sky on the roadwalk into Fécamp
@@ -47,7 +47,7 @@ title: Wednesday, April 17, 2024
 
 In the morning, we woke up and I was glad that we had passed a more peaceful night, with little wind. Even better, no one had disturbed us in our tent pitched right next to the dirt road.
 
-It was a town day, so we wanted to get moving. It was a little chilly getting out of our sleeping bags l, but we packed up and got hiking by 8:30 AM.
+It was a town day, so we wanted to get moving. It was a little chilly getting out of our sleeping bags, but we packed up and got hiking by 8:30 AM.
 
 We didn't stop for much as we hiked past Életot and on through the fields towards Senneville-sur-Fécamp. A village with Fécamp in the name was music to our ears, and encouraged us to press on to the city where we had a bedroom reserved.
 

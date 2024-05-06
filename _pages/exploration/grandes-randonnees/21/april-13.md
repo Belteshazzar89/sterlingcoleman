@@ -57,7 +57,7 @@ title: Saturday, April 13, 2024
 
 <iframe width="100%" height="350px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/untitled-map_1064850?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=null&embedControl=false&datalayersControl=null&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=false&locateControl=false&editinosmControl=false#12/49.9180/1.0267"></iframe>
 
-We woke up in out AirBnB in downtown Dieppe feeling rested. I got up and went to the pharmacy to get a patch for Miriam's heel, which was starting to form a blister.
+We woke up in our AirBnB in downtown Dieppe feeling rested. I got up and went to the pharmacy to get a patch for Miriam's heel, which was starting to form a blister.
 
 Our first task of the day was to eat. Actually, that was our main mission for most of the day. We hiked out of Dieppe with a ton of food and we were happy to dig into it early and often in order to reduce the weight on our backs. Same for our full water bottles.
 
@@ -67,7 +67,7 @@ The schedule today was to go slow and take long breaks when possible. We had pus
 
 On the way to Pourville, we hit some mud. Thankfully we had already seen much worse in our preparations, as well as on our first day.
 
-It wasn't until we got to Pourville and after I had bought us a baguette that I realized I had left our ham hot dogs, and cheese in the refrigerator this morning. A little frustrating, but at least we didn't have to carry it.
+It wasn't until we got to Pourville and after I had bought us a baguette that I realized I had left our ham, hot dogs, and cheese in the refrigerator this morning. A little frustrating, but at least we didn't have to carry it.
 
 We cooked noodles for ourselves on the rocky beach, then left to slowly climb up out of Pourville and head West..
 

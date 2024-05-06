@@ -18,7 +18,7 @@ gallery:
         title: Miriam and Alex climb the trail out of Les Petites Dalles
         url: /assets/images/exploration/grandes-randonnees/21/april-16/large/123036.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-16/small/123456.jpg
-        title: Daneil on the windy cliff between Les Petites Dalles and Les Grandes Dalles
+        title: Daniel on the windy cliff between Les Petites Dalles and Les Grandes Dalles
         url: /assets/images/exploration/grandes-randonnees/21/april-16/large/123456.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-16/small/124128.jpg
         title: Daniel on the descent to Les Grandes Dalles
@@ -58,17 +58,17 @@ After traversing the windy boardwalk, we found the bakery was closed for renovat
 
 The path to the next town led right by the base of three wind turbines, which we saw all stop turning at once, presumably controlled by someone. The wind was still going strong, but not quite as strong as the previous night.
 
-We made it to through the wind to Saint-Martin-aux-Buneaux. We got off the trail briefly to go to a local convenience store, where the friendly owner chatted with us about other hikers, and took a photo of us.
+We made it through the wind to Saint-Martin-aux-Buneaux. We got off the trail briefly to go to a local convenience store, where the friendly owner chatted with us about other hikers, and took a photo of us.
 
 I also found a very clean public bathroom, which was the real highlight of the little town. Back on the trail, we soon descended to Les Petites Dalles, one of many ravine villages crammed with a few houses leading to the beach.
 
 There wasn't much at Les Petites Dalles besides yet another small playground, so we let Miriam and Daniel play for five minutes before we succumbed to the pressure of the cold wind and set off for the climb out of the little cluster of buildings.
 
-My original plan had been to camp between Les Petites Dalles qnd Les Grandes Dalles, but as we moved between the two, we didn't see many good options for a tent. Certainly nothing that could hide from the wind. Thankfully we had already agreed to hike on further in order to be closer to the city of Fécamp, our destination for the next day.
+My original plan had been to camp between Les Petites Dalles and Les Grandes Dalles, but as we moved between the two, we didn't see many good options for a tent. Certainly nothing that could hide from the wind. Thankfully we had already agreed to hike on further in order to be closer to the city of Fécamp, our destination for the next day.
 
-We sat on the benches next to the fountain in Les Dalles and ate some snacks. It may have been one of our only breaks of the day near the coast and not too cold and windy.
+We sat on the benches next to the fountain in Les Grandes Dalles and ate some snacks. It may have been one of our only breaks of the day near the coast and not too cold and windy.
 
-We set off from there with yet another small climb, heading for Saint-Pierre-en-Port. I really liked the entrance into this one. There were little Grassy alleyways and it felt like we were taking some kind of secret passage as we descended down to the road.
+We set off from there with yet another small climb, heading for Saint-Pierre-en-Port. I really liked the entrance into this one. There were little grassy alleyways and it felt like we were taking some kind of secret passage as we descended down to the road.
 
 I left the others to rest while I went to the pharmacy and convenience store. I got chapstick and cream from the pharmacy, but the convenience store was closed for another thirty minutes, so I delivered what I had to Alex and the kids, then returned and caught up on my journal while I waited.
 

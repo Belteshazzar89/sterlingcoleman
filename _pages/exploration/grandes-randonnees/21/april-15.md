@@ -52,7 +52,7 @@ When we woke up, we were on a mission: get into the city of Saint-Valery-en-Caux
 
 The theme of the day was wind. We walked along some roads into a small village called Manneville-es-Plains, took a short break, then went back out onto the windy farms.
 
-Walking among bug wind turbines, we saw a van parked at one which was broken down, not turning. Pretty soon we had to turn West directly into the wind, and it took some effort to keep moving.
+Walking among big wind turbines, we saw a van parked at one which was broken down, not turning. Pretty soon we had to turn West directly into the wind, and it took some effort to keep moving.
 
 With Alex and I each holding a child's hand, we eventually made it down into the city, and resupplied at the Carrefour City convenience store near the beach.
 
