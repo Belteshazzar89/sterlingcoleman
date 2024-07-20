@@ -508,4 +508,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2023/09/french-football-map.html",
         "teaser": null
+      },{
+        "title": "A Guide to Hiking the GR21 with Kids",
+        "excerpt":"In April, we set out to hike the GR21 from Le Tréport to Le Havre. It was to be our first ever thru-hike as a family, and we were all a little unsure of what to expect. Miriam was still eight years old, and Daniel had just reached six years...","categories": [],
+        "tags": [],
+        "url": "/blog/2024/07/guide-hiking-gr21-kids.html",
+        "teaser": null
       }]
