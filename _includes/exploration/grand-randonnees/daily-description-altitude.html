@@ -1,0 +1,25 @@
+<style type="text/css" rel="stylesheet">
+    div.daily-description {
+        margin-bottom: 2em;
+    }
+    @media  screen and (min-width: 80em) {
+        div.daily-description {
+            position: absolute;
+            right: -525px;
+            width: 75%;
+        }
+        span.desc-span {
+            display: inline-block;
+            text-align: right;
+            width: 125px;
+        }
+    }
+</style>
+<div class="daily-description">
+    <span class="desc-span"><b>Start</b></span>: {{ dayrow["Start"] }}
+    <br /><span class="desc-span"><b>End</b></span>: {{ dayrow["End"] }}
+    <br /><span class="desc-span"><b>Ascent</b></span>: {{ dayrow["Ascent"] }} m
+    <br /><span class="desc-span"><b>Descent</b></span>: {{ dayrow["Descent"] }} m
+    <br /><span class="desc-span"><b>Distance</b></span>: {{ dayrow["Kilometers"] }} km
+    <br /><span class="desc-span"><b>Total</b></span>: {{ cumulative }} km
+</div>
