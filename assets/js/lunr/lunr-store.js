@@ -514,4 +514,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2024/07/guide-hiking-gr21-kids.html",
         "teaser": null
+      },{
+        "title": "Replacing a Porch Roof",
+        "excerpt":"Back in May, I headed to the United States for a short trip. The main objective of my visit was to replace the porch roof of a house that I own in Memphis. The house itself needs a lot of work which I don’t plan on doing quite yet, but...","categories": [],
+        "tags": [],
+        "url": "/blog/2024/10/replacing-porch-roof.html",
+        "teaser": null
       }]
