@@ -520,4 +520,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2024/10/replacing-porch-roof.html",
         "teaser": null
+      },{
+        "title": "A Guide to Hiking the GR56 with Kids",
+        "excerpt":"This past August our family took on our second hike as a family. I had been looking forward to this summer as an opportunity to access some wild and remote, high-altitude place that would not be a reasonable hike during the Spring or Autumn seasons. Therefore, I selected the GR56,...","categories": [],
+        "tags": [],
+        "url": "/blog/2024/11/guide-hiking-gr56-kids.html",
+        "teaser": null
       }]
