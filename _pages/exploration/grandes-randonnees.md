@@ -10,3 +10,5 @@ The Grandes Randonnées are a collection of over 300 hiking trails in France. Th
 <a href="21/"><img src="/assets/images/exploration/grandes-randonnees/gr21-photo.jpg" /></a>
 
 <a href="56/"><img src="/assets/images/exploration/grandes-randonnees/gr56-photo.jpg" /></a>
+
+<a href="441/"><img src="/assets/images/exploration/grandes-randonnees/gr441-photo.jpg" /></a>
