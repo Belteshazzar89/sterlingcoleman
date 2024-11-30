@@ -526,4 +526,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2024/11/guide-hiking-gr56-kids.html",
         "teaser": null
+      },{
+        "title": "Thanksgiving with Friends",
+        "excerpt":"This year I had a few extra vacation days that I needed to use before the end of the year, so I took a long weekend off of work in order to celebrate Thanksgiving. It was nice to have a day off, and I spent some time preparing for a...","categories": [],
+        "tags": [],
+        "url": "/blog/2024/11/thanksgiving-with-friends.html",
+        "teaser": null
       }]
