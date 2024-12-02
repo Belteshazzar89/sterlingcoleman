@@ -2,6 +2,9 @@
 author_profile: true
 date: 22-10-2024 12:00:00 +0200
 gallery:
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-22/small/122342.jpg
+        title: Eric takes a turn with the rolling backpack in the light rain and fog
+        url: /assets/images/exploration/grandes-randonnees/441/october-22/large/122342.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/441/october-22/small/143402.jpg
         title: Salers cattle huddled together in the cold fog
         url: /assets/images/exploration/grandes-randonnees/441/october-22/large/143402.jpg

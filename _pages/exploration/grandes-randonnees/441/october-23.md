@@ -3,11 +3,20 @@ author_profile: true
 date: 23-10-2024 12:00:00 +0200
 gallery:
     -   image_path: /assets/images/exploration/grandes-randonnees/441/october-23/small/101224.jpg
-        title: 
+        title: Lac de Servières in the morning
         url: /assets/images/exploration/grandes-randonnees/441/october-23/large/101224.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/441/october-23/small/104302.jpg
-        title: 
+        title: Green fields and low clouds
         url: /assets/images/exploration/grandes-randonnees/441/october-23/large/104302.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-23/small/105549.jpg
+        title: We take the farm roads between the fields as we head North
+        url: /assets/images/exploration/grandes-randonnees/441/october-23/large/105549.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-23/small/122833.jpg
+        title: Eric and Isa walk beneath the beautful trees outside the Château de Cordes 
+        url: /assets/images/exploration/grandes-randonnees/441/october-23/large/122833.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-23/small/160827.jpg
+        title: The group prepares to hike out from Olby after "1, 2, 3, Soleil"
+        url: /assets/images/exploration/grandes-randonnees/441/october-23/large/160827.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/441/october-23/small/170334.jpg
         title: Puy de Dome rises above low clouds in the distance
         url: /assets/images/exploration/grandes-randonnees/441/october-23/large/170334.jpg
@@ -46,6 +55,6 @@ After out long break, we hiked on to finish our day strong. I had noticed that t
 
 My goal was to find a good spot to camp before arriving in Mazayes. Unfortunately all the land along the path was private property. We walked into Mazayes, and Lisa and Alex found us a spot behind the local elementary school.
 
-It wasn't my favorite spot, being so piblic, but it was the right time to stop hiking. We cooked dinner and noted that it was getting quite cold. Separating to our tents, we huddled in our sleeping bags for warmth, hoping to sleep through the night.
+It wasn't my favorite spot, being so public, but it was the right time to stop hiking. We cooked dinner and noted that it was getting quite cold. Separating to our tents, we huddled in our sleeping bags for warmth, hoping to sleep through the night.
 
 {% include gallery layout="half" %}
