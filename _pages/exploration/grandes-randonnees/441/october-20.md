@@ -2,15 +2,48 @@
 author_profile: true
 date: 20-10-2024 12:00:00 +0200
 gallery:
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-20/small/090158.jpg
+        title: Daniel and Alex pack up after a preliminary night at the park in Volvic
+        url: /assets/images/exploration/grandes-randonnees/441/october-20/large/090158.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/441/october-20/small/092830.jpg
-        title:
+        title: Daniel and Miriam smirking at the camera at the beginning of the hike
         url: /assets/images/exploration/grandes-randonnees/441/october-20/large/092830.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-20/small/092837.jpg
+        title: Coleen and Isa smile for the camera at the starting point
+        url: /assets/images/exploration/grandes-randonnees/441/october-20/large/092837.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-20/small/092850.jpg
+        title: Daniel and Miriam start the GR441, Eric and Coleen wait for the rest of the group
+        url: /assets/images/exploration/grandes-randonnees/441/october-20/large/092850.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/441/october-20/small/102911.jpg
-        title:
+        title: One of a pair of hot air balloons which accompanied us on our first morning
         url: /assets/images/exploration/grandes-randonnees/441/october-20/large/102911.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-20/small/113017.jpg
+        title: Isa leads the charge up to the Puy de la Nugère
+        url: /assets/images/exploration/grandes-randonnees/441/october-20/large/113017.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-20/small/114403.jpg
+        title: Daniel and Andrew beat a pile of brush with sticks, Miriam and Coleen build with wood
+        url: /assets/images/exploration/grandes-randonnees/441/october-20/large/114403.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-20/small/135718.jpg
+        title: The children form their own hiking group and take the lead
+        url: /assets/images/exploration/grandes-randonnees/441/october-20/large/135718.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-20/small/140059.jpg
+        title: Miriam hides from the camera as Coleen charges up another leaf-covered hill
+        url: /assets/images/exploration/grandes-randonnees/441/october-20/large/140059.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-20/small/145621.jpg
+        title: The Puy de Dôme watches over us
+        url: /assets/images/exploration/grandes-randonnees/441/october-20/large/145621.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/441/october-20/small/164447.jpg
-        title:
+        title: Puy de Dôme awaits us in the distance
         url: /assets/images/exploration/grandes-randonnees/441/october-20/large/164447.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-20/small/164505.jpg
+        title: Everyone rests at the top of Puy Chopine
+        url: /assets/images/exploration/grandes-randonnees/441/october-20/large/164505.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-20/small/185708.jpg
+        title: A thick fog sets in as sunset arrives
+        url: /assets/images/exploration/grandes-randonnees/441/october-20/large/185708.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-20/small/185719.jpg
+        title: Coleen poses in front of a heavy fog rolling on across the fields
+        url: /assets/images/exploration/grandes-randonnees/441/october-20/large/185719.jpg
 layout: single
 next:
     url: exploration/grandes-randonnees/441/october-21
@@ -26,7 +59,7 @@ I won't take the time to recount our travel from Rambouillet to Volvic in detail
 
 Sunday morning, we woke up but took our time to get packed up. Our friends enjoyed some hot breakfast while the children played even more after having already played the night before.
 
-It was fun to be hiking with another family for once, and we enjoyed each others company while we hiked along underneath a pair of hot air balloons.
+It was fun to be hiking with another family for once, and we enjoyed each others' company while we hiked along underneath a pair of hot air balloons.
 
 We got started and we were hiking in the woods, slowly climbing up and out of Volvic. The trail was a nice jaunt in the forest, and I was pleased to see that the mud I had anticipated was covered by a solid covering of leaves.
 
@@ -34,7 +67,7 @@ There were still some muddy portions, and we occasionally found ourselves slippi
 
 During this first day, we took some breaks in order to rest and let the kids play. Their favorite game appears to be breaking dead limbs and sticks, and making little wooden teepees.
 
-We took a long break for lunch, and then we continued on. We were climbing up and going back down again all day, until we finally made it to the Puy de Jumes, where we tooka bother break and then stayed up high for awhile.
+We took a long break for lunch, and then we continued on. We were climbing up and going back down again all day, until we finally made it to the Puy de Jumes, where we took another break and then stayed up high for awhile.
 
 We had a great view of the surrounding area from the Puy de Chopine, where we could even see the famous Puy de Dôme.
 

@@ -2,12 +2,30 @@
 author_profile: true
 date: 21-10-2024 12:00:00 +0200
 gallery:
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-21/small/091145.jpg
+        title: Daniel has breakfast while everyone packs up in the morning
+        url: /assets/images/exploration/grandes-randonnees/441/october-21/large/091145.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-21/small/091154.jpg
+        title: Andrew, Eric, and Daniel in the foreground as the group finishes breakfast
+        url: /assets/images/exploration/grandes-randonnees/441/october-21/large/091154.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-21/small/110320.jpg
+        title: Daniel, Coleen, and Miriam lead the way to Puy de Dôme
+        url: /assets/images/exploration/grandes-randonnees/441/october-21/large/110320.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-21/small/111128.jpg
+        title: Andrew, Eric, and Timothy get into the shade for a few moments before the climb
+        url: /assets/images/exploration/grandes-randonnees/441/october-21/large/111128.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-21/small/111554.jpg
+        title: We hike up a nice grove of trees on the way to Puy de Dôme
+        url: /assets/images/exploration/grandes-randonnees/441/october-21/large/111554.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/441/october-21/small/112721.jpg
-        title:
+        title: Puy de Dôme from the North
         url: /assets/images/exploration/grandes-randonnees/441/october-21/large/112721.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/441/october-21/small/133324.jpg
-        title:
+        title: At the top of Puy de Dôme, looking at the Temple of Mercury and the weather station
         url: /assets/images/exploration/grandes-randonnees/441/october-21/large/133324.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-21/small/154246.jpg
+        title: A short pause in the village of Laschamps
+        url: /assets/images/exploration/grandes-randonnees/441/october-21/large/154246.jpg
 layout: single
 next:
     url: exploration/grandes-randonnees/441/october-22
@@ -19,7 +37,7 @@ title: Monday, October 21, 2024
 {% include exploration/grand-randonnees/441/dayrow-finder.md %}
 {% include exploration/grand-randonnees/daily-description.html %}
 
-<iframe width="100%" height="450px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/october-21-2024_1139463?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=false&tilelayersControl=null&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=false&locateControl=false&editinosmControl=false#13/45.7614/2.9467"></iframe>
+<iframe width="100%" height="450px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/october-21-2024_1139463?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=false&tilelayersControl=null&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=false&locateControl=false&editinosmControl=false#11/45.7614/2.9467"></iframe>
 
 During the night, there was some traffic st the Vulcania roundabout, but it was not as bad as I thought it would be. When we got up in the morning, the fields were still covered in fog. We got packed up and set out around 9:30.
 

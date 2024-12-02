@@ -2,6 +2,15 @@
 author_profile: true
 date: 24-10-2024 12:00:00 +0200
 gallery:
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-24/small/102428.jpg
+        title: Eric feeds a chicken in a small village along the way
+        url: /assets/images/exploration/grandes-randonnees/441/october-24/large/102428.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-24/small/104913.jpg
+        title: Timothy completes the thorny path up to St. Pierre-le-Chastel
+        url: /assets/images/exploration/grandes-randonnees/441/october-24/large/104913.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/441/october-24/small/105409.jpg
+        title: Andrew, Coleen, Timothy, and Daniel enjoy the view from the top of St. Pierre-le-Chastel
+        url: /assets/images/exploration/grandes-randonnees/441/october-24/large/105409.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/441/october-24/small/123438.jpg
         title: Boulder crater covered in deep layer of moss
         url: /assets/images/exploration/grandes-randonnees/441/october-24/large/123438.jpg
