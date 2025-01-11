@@ -73,7 +73,7 @@ We saw a lot there, including the greenhouses. Plants from all over the world, i
 
 We hiked down to the beach and walked over to the very visible UP#3 monument. We took a few pictures, then headed for the train station, looking for the last blaze.
 
-It was a good way to end the trail, having started hiking from the train station at Le Tréport, 200 kilometers to the West. The kids were mostly counting down the steps until lunch. A few kilometers from the beach, we made it to the train station.
+It was a good way to end the trail, having started hiking from the train station at Le Tréport, 200 kilometers to the East. The kids were mostly counting down the steps until lunch. A few kilometers from the beach, we made it to the train station.
 
 I took a few pictures of Alex and the kids in front of the closest blaze. We did it! The children accomplished their first ever thru-hike, my wife Alex as well. I was very proud of them, though perhaps a bit muted in my enthusiasm by the severe cold I had acquired the day before.
 
