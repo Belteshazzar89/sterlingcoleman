@@ -15,7 +15,7 @@ gallery:
         title: An old German bunker carved into the cliff
         url: /assets/images/exploration/grandes-randonnees/21/april-15/large/102606.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-15/small/102931.jpg
-        title: Miriam, Danel, and Alex at the beach at Ssaint-Valery-en-Caux
+        title: Miriam, Danel, and Alex at the beach at Saint-Valery-en-Caux
         url: /assets/images/exploration/grandes-randonnees/21/april-15/large/102931.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-15/small/164612.jpg
         title: Green fields stretching out to the edge of the Normandy cliffs
@@ -60,7 +60,7 @@ I had hoped the town might have a McDonald's, but no. I found a kebab store and 
 
 The forecast had cleared up considerably, though it was still windy. We ended our long break after 1PM and left the city, climbing out on the West side.
 
-As soon as we got to the edge of the first farm, a rain started. We ducked into a fortuitously-placed forest path to wait it out. Soon I explored the woods a bit more, and as the rain wasn't stopping, opted to pitch our tent deeper in the woods where jt was dry, just for a break.
+As soon as we got to the edge of the first farm, a rain started. We ducked into a fortuitously-placed forest path to wait it out. Soon I explored the woods a bit more, and as the rain wasn't stopping, opted to pitch our tent deeper in the woods where it was dry, just for a break.
 
 As we were getting the rain fly on, a downpour started and the children dove into the tent just in the nick of time. Alex got in as well and I finished setting it up, wet but happy the rest of us made it in quite dry.
 
