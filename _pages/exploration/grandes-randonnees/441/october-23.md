@@ -15,10 +15,10 @@ gallery:
         title: Eric and Isa walk beneath the beautful trees outside the Château de Cordes 
         url: /assets/images/exploration/grandes-randonnees/441/october-23/large/122833.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/441/october-23/small/160827.jpg
-        title: The group prepares to hike out from Olby after "1, 2, 3, Soleil"
+        title: The group prepares to hike out from Olby after '1, 2, 3, Soleil'
         url: /assets/images/exploration/grandes-randonnees/441/october-23/large/160827.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/441/october-23/small/170334.jpg
-        title: Puy de Dome rises above low clouds in the distance
+        title: Puy de Dôme rises above low clouds in the distance
         url: /assets/images/exploration/grandes-randonnees/441/october-23/large/170334.jpg
 layout: single
 next:
@@ -51,7 +51,7 @@ We walked on to catch up to our group. I was glad that the easy path was good fo
 
 Our arrival in Olby was well-timed. The convenience store had just opened back up for the afternoon. We bought lots of things, and the kind woken running the store let us charge Alex's phone. The children played a version of "Red Light, Green Light" called "1, 2, 3, Soleil".
 
-After out long break, we hiked on to finish our day strong. I had noticed that the sole of my shoes were super thin, and I could feel every pebble. I hoped they would hold out for the remainder of the hike.
+After our long break, we hiked on to finish our day strong. I had noticed that the sole of my shoes were super thin, and I could feel every pebble. I hoped they would hold out for the remainder of the hike.
 
 My goal was to find a good spot to camp before arriving in Mazayes. Unfortunately all the land along the path was private property. We walked into Mazayes, and Lisa and Alex found us a spot behind the local elementary school.
 
