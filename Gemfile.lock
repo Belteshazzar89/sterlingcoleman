@@ -266,7 +266,7 @@ GEM
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
-    uri (0.13.0)
+    uri (1.0.3)
     wdm (0.2.0)
     webrick (1.8.1)
 
@@ -279,6 +279,7 @@ DEPENDENCIES
   jekyll-include-cache
   jekyll-paginate-v2
   nokogiri (>= 1.18.9)
+  uri (>= 0.13.2)
   wdm (>= 0.1.0)
 
 BUNDLED WITH
