@@ -1,6 +1,6 @@
 ---
 author_profile: true
-date: 17-08-2025 12:00:00 -0500
+date: 22-07-2025 12:00:00 -0500
 layout: single
 next:
     url: exploration/great-divide-route/commentary/july-23
@@ -9,6 +9,9 @@ previous:
     url: exploration/great-divide-route/commentary/july-21
 title: Tuesday, July 22, 2025
 ---
+{% include exploration/great-divide-route/dayrow-finder.md %}
+{% include exploration/great-divide-route/daily-description.html %}
+
 <iframe width="100%" height="350px" frameborder="0" allowfullscreen src="https://caltopo.com/m/GF71881"></iframe>
 
 ## Poor Navigation from Amisk Lake
