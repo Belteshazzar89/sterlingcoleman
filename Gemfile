@@ -5,5 +5,3 @@ gem "jekyll-paginate-v2", group: :jekyll_plugins
 gem 'jekyll-include-cache' # Needed for Github Pages
 gem 'wdm', '>= 0.1.0'
 gem 'nokogiri', '>= 1.18.9'
-
-gem "webrick", "~> 1.7"
