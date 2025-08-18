@@ -1,6 +1,6 @@
 ---
 author_profile: true
-date: 15-08-2025 12:00:00 -0500
+date: 19-07-2025 12:00:00 -0500
 layout: single
 next:
     url: exploration/great-divide-route/commentary/july-20
@@ -9,6 +9,9 @@ previous:
     url: exploration/great-divide-route/commentary/july-13
 title: Saturday, July 19, 2025
 ---
+{% include exploration/great-divide-route/approach-dayrow-finder.md %}
+{% include exploration/great-divide-route/approach-daily-description.html %}
+
 <iframe width="100%" height="350px" frameborder="0" allowfullscreen src="https://caltopo.com/m/Q0HRKMS"></iframe>
 
 ## Starting from the Highway Again

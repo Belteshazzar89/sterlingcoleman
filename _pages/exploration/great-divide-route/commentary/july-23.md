@@ -1,6 +1,6 @@
 ---
 author_profile: true
-date: 17-08-2025 12:00:00 -0500
+date: 23-07-2025 12:00:00 -0500
 layout: single
 next:
     url: exploration/great-divide-route/commentary/july-24
@@ -9,6 +9,9 @@ previous:
     url: exploration/great-divide-route/commentary/july-22
 title: Wednesday, July 23, 2025
 ---
+{% include exploration/great-divide-route/dayrow-finder.md %}
+{% include exploration/great-divide-route/daily-description.html %}
+
 <iframe width="100%" height="350px" frameborder="0" allowfullscreen src="https://caltopo.com/m/J84LHL2"></iframe>
 
 ## Difficult Climb Leaving Warner Lake
