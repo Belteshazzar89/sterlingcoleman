@@ -9,7 +9,6 @@
             width: 75%;
         }
         span.desc-span {
-            display: inline-block;
             text-align: right;
             width: 60px;
         }
@@ -18,6 +17,9 @@
 <div class="daily-description">
     <span class="desc-span"><b>Start</b></span>: {{ dayrow["Start"] }}
     <br /><span class="desc-span"><b>End</b></span>: {{ dayrow["End"] }}
-    <br /><span class="desc-span"><b>Route Distance (km)</b></span>: {{ dayrow["Kilometers"] }}
-    <br /><span class="desc-span"><b>Total</b></span>: {{ cumulative }}
+    <br /><span class="desc-span"><b>Route (km)</b></span>: {{ dayrow["Route"] }}
+    <br /><span class="desc-span"><b>Total (km)</b></span>: {{ cumulative }}
+    <br /><span class="desc-span"><b>Actual (km)</b></span>: {{ dayrow["Actual"] }}
+    <br /><span class="desc-span"><b>Hours</b></span>: {{ dayrow["Hours"] }}
+    <br /><span class="desc-span"><b>Total (hrs)</b></span>: {{ cumulative_hours }}
 </div>

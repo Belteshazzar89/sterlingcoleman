@@ -42,7 +42,7 @@ I was so tired of it, that at the end, as is typical for me, I climbed higher in
 
 ## Relief Pass
 
-I belive the pass which I did not have name for is known by others as Relief Pass. It is an easy hike up to this pass, and from here I could see an old burned-out valley off to the East, past the valley which I would follow North towards Warner Lake. The lake isn't visible from the pass, just the beginning of the descent to the valley floor.
+I believe the pass which I did not have name for is known by others as Relief Pass. It is an easy hike up to this pass, and from here I could see an old burned-out valley off to the East, past the valley which I would follow North towards Warner Lake. The lake isn't visible from the pass, just the beginning of the descent to the valley floor.
 
 ## Approaching Warner Lake
 

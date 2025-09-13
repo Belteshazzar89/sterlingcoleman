@@ -48,7 +48,7 @@ What a treat it was to be at Jarvis Cabin. I had seen photos from previous trips
 
 ## The Trail Goes Cold
 
-It is an odd feeling when you are walking along the trail, and concentrating hard to stay on it, and you lose it. Soon you pick it up again as you reexamine where it turned under a pile of fallen trees, and you follow it for another hundred meters until you lose it again, but this time you a bit less sure when you find what you belive is the trail again. Soon the trail enters a meadow and you aren't at all sure where the trail appears on the other side.
+It is an odd feeling when you are walking along the trail, and concentrating hard to stay on it, and you lose it. Soon you pick it up again as you reexamine where it turned under a pile of fallen trees, and you follow it for another hundred meters until you lose it again, but this time you are a bit less sure when you find what you believe is the trail again. Soon the trail enters a meadow and you aren't at all sure where the trail appears on the other side.
 
 Soon you are questioning if it might not be better to simply start hiking West and forget about where the trail might be. Perhaps the effort it took to stay on the trail would be better spent finding the best route through the thick deadfall. And so, you begin the off-trail portion of the Great Divide Route!
 
@@ -66,7 +66,7 @@ I was in a hurry to make the climb over the wall behind Moonias Lake and continu
 
 ## Climbing to the Ridge Behind Moonias Lake
 
-In some ways, perhaps we could say that the climb up from Moonias Lake is the first really difficult climb of the hike. If you can do this climb without issues, then you should be able to do the others on the Great Divide Route. I was pullling on vegetation and using the rocks of a dry water drainage to find sure footing. It wasn't an easy climb, but it also wasn't the insane feat which I had prepared myself for mentally, after reading the accounts of previous GDR hikers. It's relatively short, and a decent representation of the types of physical challenges which the GDR contains.
+In some ways, perhaps we could say that the climb up from Moonias Lake is the first really difficult climb of the hike. If you can do this climb without issues, then you should be able to do the others on the Great Divide Route. I was pulling on vegetation and using the rocks of a dry water drainage to find sure footing. It wasn't an easy climb, but it also wasn't the insane feat which I had prepared myself for mentally, after reading the accounts of previous GDR hikers. It's relatively short, and a decent representation of the types of physical challenges which the GDR contains.
 
 ## Fay Lake
 
