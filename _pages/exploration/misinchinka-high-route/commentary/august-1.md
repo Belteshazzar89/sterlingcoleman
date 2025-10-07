@@ -33,7 +33,7 @@ From the cozy little valley nestled up behind the curled mountain arm, it's a sm
 
 ## Bad, Just Bad
 
-From about Anzac Stream all the way to the pipeline is tough going. Even if there may be some slight reprieve while traversingthe slightly higher terrain up above 1500 meters altitude, it's not the alpine zone. It's bushwhacking, and it gets bad at the very beginning of the descent, four kilometers away from Coastal GasLink Pipeline.
+From about Anzac Stream all the way to the pipeline is tough going. Even if there may be some slight reprieve while traversing the slightly higher terrain up above 1500 meters altitude, it's not the alpine zone. It's bushwhacking, and it gets bad at the very beginning of the descent, four kilometers away from Coastal GasLink Pipeline.
 
 The descent is high bushes, including plenty of Devil's Club. Though it goes down a water drainage, the drainage is not rocks or anything which provides good footing. It's bushes. And there is no break from the bushes, they are constant all the way to the pipeline.
 

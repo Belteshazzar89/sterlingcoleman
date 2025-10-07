@@ -50,6 +50,6 @@ I was blessed not to be faced with significant rock scrambles. The only mishap w
 
 The views from this area are stunning, as they are on many portions of the Misinchinka High Route. But today I just wanted to get moving. My plan was to advance far enough to be able to finish the following day. I was slightly surprised to find myself descending back down below 1400 meters elevation, as I had hoped to be done with any and all bushes. But I pushed through, filled my water bottles, and started the climb to the final, long ridge.
 
-My mission became finding a spot to camp out of the wind. I was growing tired as I passed a broken down snowmobile. Up on the ridge, I came across a beautiful tarn in a bown depression, with big chunks of ice in it. I camped here, mostly out of the wind. Tomorrow was the big day.
+My mission became finding a spot to camp out of the wind. I was growing tired as I passed a broken down snowmobile. Up on the ridge, I came across a beautiful tarn in a bowl depression, with big chunks of ice in it. I camped here, mostly out of the wind. Tomorrow was the big day.
 
 {% include gallery layout="half" %}
