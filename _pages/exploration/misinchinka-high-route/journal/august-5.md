@@ -67,7 +67,7 @@ I made good time in the morning, climbing and descending the waves of the ridge.
 
 A caribou came and checked me out during one my breaks. To the West, I could see the highway and the Powder King Resort. Soon, I could see Azouzetta Lake!
 
-My final challenge was the Murray Trail. I was exhausted and made the horrible decision to attempt to cross a steep ice secion, falling and sliding rapidly over a hudnred meters towards my doom before self-arresting with a trekking pole.
+My final challenge was the Murray Trail. I was exhausted and made the horrible decision to attempt to cross a steep ice section, falling and sliding rapidly over a hundred meters towards my doom before self-arresting with a trekking pole.
 
 I did get down to the bottom after that, and made it to Cafe 97. I finished!
 

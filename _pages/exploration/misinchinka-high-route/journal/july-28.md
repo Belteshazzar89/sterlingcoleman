@@ -36,7 +36,7 @@ title: Monday, July 28, 2025
 
 <iframe width="100%" height="350px" frameborder="0" allowfullscreen src="https://caltopo.com/m/UM0ECPA"></iframe>
 
-This was a really tough day. I think I've decided today to end my hike at Azouzetta Lake, assuming I can hike that far. In the morning I descovered I had lost a pair of socks during the oil spill cleanup. Starting late, I made very slow progress, dealing with rocks and ice.
+This was a really tough day. I think I've decided today to end my hike at Azouzetta Lake, assuming I can hike that far. In the morning I discovered I had lost a pair of socks during the oil spill cleanup. Starting late, I made very slow progress, dealing with rocks and ice.
 
 Once down in the bush, I was charged by a young female grizzly bear with two cubs. I yelled, we circled each other for a second, then I sprayed. She ran, but the spray permeated my skin and burned for a long time.
 
