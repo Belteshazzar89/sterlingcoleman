@@ -1,7 +1,7 @@
 ---
 author_profile: true
 layout: archive
-permalink: /exploration/grandes-randonnees/700
+permalink: /exploration/grandes-randonnees/700/
 title: GR 700
 ---
 The "Regordane" is a medieval path tracing from North to South, starting in Le Puy-en-Velay and reaching 245 kilometers to the South to the village of Saint-Gilles, not far from the Mediterranean.
