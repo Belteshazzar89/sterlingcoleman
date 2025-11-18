@@ -48,7 +48,7 @@ After several hours of continuous hiking, we approached the town. We came across
 
 We headed into town and found that the other store had moved to the campground we had just visited. At the information center, we found out about another food store in town. Alex went to find it while I charged my phone. The woman at the center said they see few hikers on the GR56, and most people are on the well-known GR5.
 
-Unfortunately, due to miscommunication, Alex didn't find the other store, and by the time I found it, it bad just closed. That's life in France on a Sunday.
+Unfortunately, due to miscommunication, Alex didn't find the other store, and by the time I found it, it had just closed. That's life in France on a Sunday.
 
 We went back to a restaurant where we had been told to order a pizza. We sat down and were told that they only serve pizza in the evening. We ordered some overpriced stuff and did our best to get the children to eat.
 
