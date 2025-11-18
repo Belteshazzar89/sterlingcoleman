@@ -27,7 +27,7 @@ gallery:
         title: Miriam standing in green grass with imposing mountains all around
         url: /assets/images/exploration/grandes-randonnees/56/august-17/large/190422.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/56/august-17/small/190506.jpg
-        title: Mirim and the tent at Lake Behing the Cross
+        title: Mirim and the tent at Lake Behind the Cross
         url: /assets/images/exploration/grandes-randonnees/56/august-17/large/190506.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/56/august-17/small/190536.jpg
         title: Lake Behind the Cross, with Cavale Pass behind

@@ -33,7 +33,7 @@ title: Monday, August 19, 2024
 
 <iframe width="100%" height="350px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/august-19-2024-on-the-gr56_1107421?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=false&tilelayersControl=null&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=false&locateControl=false&editinosmControl=false#12/44.5012/6.7736"></iframe>
 
-I had a particularly bad night trying to sleep. Daniel had spent three night my sleeping bag in order to stay warm, and while that had worked, I had no room to maneuver and get comfortable, and didn't sleep much at all.
+I had a particularly bad night trying to sleep. Daniel had spent the night in my sleeping bag in order to stay warm, and while that had worked, I had no room to maneuver and get comfortable, and didn't sleep much at all.
 
 We got up and packed up our stuff. Today was the day we were finally going to get some food. We had hiked the whole trail so far on food we brought from home, only buying bread in Bayasse, a gazette in Bouseyias, and lollipops and croissants in Larche.
 
