@@ -14,7 +14,7 @@ title: Friday, July 25, 2025
 
 <iframe width="100%" height="350px" frameborder="0" allowfullscreen src="https://caltopo.com/m/K79UV1C"></iframe>
 
-I woke up in my camp spot in the meadow, knowing that if things went well, I would be finishg the Great Divide Route today. I packed up my gear, knocking some ice off the tent, and started hiking at 6:30.
+I woke up in my camp spot in the meadow, knowing that if things went well, I would be finishing the Great Divide Route today. I packed up my gear, knocking some ice off the tent, and started hiking at 6:30.
 
 It was relatively easy going on my way up to Paxton Pass. Here I finally got some more water, and I found my phone wasn't working. I tried to get something on the screen to no avail, and had to continue without taking any photos.
 
@@ -24,7 +24,7 @@ The trail was marked well from here, though overgrown, and I hiked down to the l
 
 I hiked on in light rain, finding the trail to be quite overgrown at times. This got me thinking about the difference between off-trail and on-trail hiking, given that I was still getting soaked by wet bushes.
 
-I continued on, meeting the first bumans in almost a week at Trot Camp. We talked, thnen I continued on. I was only going 4 km/hr, possibly because my pack was still heavy with uneaten food, possibly because of the state of the trail.
+I continued on, meeting the first humans in almost a week at Trot Camp. We talked, thnen I continued on. I was only going 4 km/hr, possibly because my pack was still heavy with uneaten food, possibly because of the state of the trail.
 
 I finally made it to the Kinuseo Falls Campground and signed the epic logbook with previous GDR finishers. I met Randy, who brought me food, and Kevin, who very graciously took me home with him to rest.
 

@@ -1,6 +1,40 @@
 ---
 author_profile: true
 date: 27-07-2025 12:00:00 -0500
+gallery: 
+    -   image_path: /assets/images/exploration/misinchinka-high-route/july-27/small/9510.jpg
+        title: 
+        url: /assets/images/exploration/misinchinka-high-route/july-27/large/9510.jpg
+    -   image_path: /assets/images/exploration/misinchinka-high-route/july-27/small/9511.jpg
+        title: 
+        url: /assets/images/exploration/misinchinka-high-route/july-27/large/9511.jpg
+    -   image_path: /assets/images/exploration/misinchinka-high-route/july-27/small/9512.jpg
+        title: 
+        url: /assets/images/exploration/misinchinka-high-route/july-27/large/9512.jpg
+    -   image_path: /assets/images/exploration/misinchinka-high-route/july-27/small/9513.jpg
+        title: 
+        url: /assets/images/exploration/misinchinka-high-route/july-27/large/9513.jpg
+    -   image_path: /assets/images/exploration/misinchinka-high-route/july-27/small/9514.jpg
+        title: 
+        url: /assets/images/exploration/misinchinka-high-route/july-27/large/9514.jpg
+    -   image_path: /assets/images/exploration/misinchinka-high-route/july-27/small/9515.jpg
+        title: 
+        url: /assets/images/exploration/misinchinka-high-route/july-27/large/9515.jpg
+    -   image_path: /assets/images/exploration/misinchinka-high-route/july-27/small/9516.jpg
+        title: 
+        url: /assets/images/exploration/misinchinka-high-route/july-27/large/9516.jpg
+    -   image_path: /assets/images/exploration/misinchinka-high-route/july-27/small/9517.jpg
+        title: 
+        url: /assets/images/exploration/misinchinka-high-route/july-27/large/9517.jpg
+    -   image_path: /assets/images/exploration/misinchinka-high-route/july-27/small/9518.jpg
+        title: 
+        url: /assets/images/exploration/misinchinka-high-route/july-27/large/9518.jpg
+    -   image_path: /assets/images/exploration/misinchinka-high-route/july-27/small/9519.jpg
+        title: 
+        url: /assets/images/exploration/misinchinka-high-route/july-27/large/9519.jpg
+    -   image_path: /assets/images/exploration/misinchinka-high-route/july-27/small/9520.jpg
+        title: 
+        url: /assets/images/exploration/misinchinka-high-route/july-27/large/9520.jpg
 layout: single
 next:
     url: exploration/misinchinka-high-route/commentary/july-28

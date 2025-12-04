@@ -28,7 +28,7 @@ The whole hike to get past Mt. Whitford and move through the area to the North i
 
 ## The Hump
 
-The small hump South of Mt. Dudzic is the memorable part of this area for me. My progress ground to a crawl in this area, and not just because I had to climb a descend a few hundred meters. There was ample vegetation to navigate and the two successive descents were not that easy.
+The small hump South of Mt. Dudzic is the memorable part of this area for me. My progress ground to a crawl in this area, and not just because I had to climb and descend a few hundred meters. There was ample vegetation to navigate and the two successive descents were not that easy.
 
 ## The Route Hits a Wall, and Goes Up It
 

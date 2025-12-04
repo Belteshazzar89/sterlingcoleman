@@ -36,7 +36,7 @@ The GDT hikers I met coming out as I was on my way in told me that they had cros
 
 ## Good Hiking North of Buchanan
 
-As the path gained in elevation, the hiking became more enjoyable, nostably out of the mud. Wishaw Lake is easily visible from the path, and apparently some people camp there occasionally. Mariel Lake, on the other hand, was not visible from the path. This surprised me, because I had noted its position, and the path looks like it comes within about 50 meters of the North edge of the lake.
+As the path gained in elevation, the hiking became more enjoyable, notably out of the mud. Wishaw Lake is easily visible from the path, and apparently some people camp there occasionally. Mariel Lake, on the other hand, was not visible from the path. This surprised me, because I had noted its position, and the path looks like it comes within about 50 meters of the North edge of the lake.
 
 ## Majestic Kakwa Lake
 
