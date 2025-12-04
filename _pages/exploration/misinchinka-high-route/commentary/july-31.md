@@ -29,7 +29,7 @@ title: Thursday, July 31, 2025
 
 ## Dudzic Ridge
 
-Getting up to the ridge from below Mt. Dudzic is a typical climb. Not overly difficult, just a lot of elevation gain. Starting from 1600 meters elevation gain means that there isn't much brush to contend with, thankfully.
+Getting up to the ridge from below Mt. Dudzic is a typical climb. Not overly difficult, just a lot of elevation gain. Starting from 1600 meters elevation means that there isn't much brush to contend with, thankfully.
 
 As I noted in my journal, the ridge itself is not a straight ridge walk, but I still maintained a decent speed despite the elevation changes, at least compared to other areas such as the Reynolds Ridge.
 

@@ -38,7 +38,7 @@ title: Tuesday, July 29, 2025
 
 ## Nice Ridge
 
-Leaving my camp at the tarn, I enjoyed the short walk along the ridge, before it was time to descend to the West. This was the first little tast of ridge walking on the Misinchinka High Route, and it highlighted the best parts of the route. This particular ridge was short, but it was the highlight of a day that was otherwise spent at lower elevation.
+Leaving my camp at the tarn, I enjoyed the short walk along the ridge, before it was time to descend to the West. This was the first little taste of ridge walking on the Misinchinka High Route, and it highlighted the best parts of the route. This particular ridge was short, but it was the highlight of a day that was otherwise spent at lower elevation.
 
 ## Homininka Stream Area
 

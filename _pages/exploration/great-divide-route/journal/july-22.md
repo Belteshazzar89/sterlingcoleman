@@ -24,7 +24,7 @@ I was at least pleased to find the creek easy to cross, not even getting my feet
 
 Up at the pass, I saw a caribou up close! Over the pass, I had a clear view of the length of the valley I would traverse. The beginning was good hiking in the boggy meadows, but it got to be tough going closer to the lake.
 
-It got worse as I climbed away fom the the lake and was constantly in thick bushes on the side of the valley, my feet contorting thsmselves, struggling for a foothold. I finally got done with that, and had easier hiking to the pass.
+It got worse as I climbed away fom the the lake and was constantly in thick bushes on the side of the valley, my feet contorting themselves, struggling for a foothold. I finally got done with that, and had easier hiking to the pass.
 
 Descending towards South Warner Stream wasn't too bad either, and I saw a grizzly bear, about forty meters away. He ran, and I made noise while exiting the area.
 
