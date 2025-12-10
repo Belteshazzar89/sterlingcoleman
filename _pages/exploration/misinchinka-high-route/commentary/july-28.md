@@ -38,7 +38,7 @@ title: Monday, July 28, 2025
 
 ## The Charging Grizzly
 
-From the iceberg tarn, it's an easy walk to the spot where I got charged by a mother grizzly bear with two cubs in tow. The route hugs the bottom of the cliff to the West. I took a small shortcut by going through the grass before the turn to the forst to the Northesat. The bear came from the bushes directly West, in the direction of the cliff.
+From the iceberg tarn, it's an easy walk to the spot where I got charged by a mother grizzly bear with two cubs in tow. The route hugs the bottom of the cliff to the West. I took a small shortcut by going through the grass before the turn to the forest to the North. The bear came from the bushes directly West, in the direction of the cliff.
 
 Perhaps the bear thought that I had cut off any escape route for her, since I was between her and the forest, and she had nothing but a rock wall behind her. In any case, I would strongly recommend making a lot of bear noise in this area. I believe that the tarn where I camped the night before is where Dylan was charged by a grizzly bear, and this spot is only a few kilometers farther along the route. It might be a coincidence, but I would prepare for an encounter with a grizzly bear on the first day or two of the Misinchinka High Route.
 
