@@ -20,7 +20,7 @@ I had thought that the hike up to Weaver-Limestone Pass would be pretty easy. Wh
 
 ## Limestone Lakes High Alternate
 
-It was recommended to me to try the alternate which climbs high up above the Limestone Lakes, and thus avoids the difficult bushwhack around the first and second lakes. I missed the spot where my alternate track deviated from the main route, and so I go pretty close to the first lake, and then started climbing straight to the North.
+It was recommended to me to try the alternate which climbs high up above the Limestone Lakes, and thus avoids the difficult bushwhack around the first and second lakes. I missed the spot where my alternate track deviated from the main route, and so I got pretty close to the first lake, and then started climbing straight to the North.
 
 The climb itself was tough. I believe it took me a full 1.5 hours to do the whole thing, and that is a long time for me, as I'm typically strong on the climbs. I do wonder if that time would not have been better spent bushwhacking along the North edge of the first Limestone Lake. It seems to be a little over a kilometer in a straight line to pass the first lake. I might have been able to finish that in the time it took me to climb up so high.
 
@@ -28,7 +28,7 @@ Once the climb was done, I felt that the terrain, while much better than bushwha
 
 The descent was my real problem with this alternate. I'm quite wary of injuries on the descents, and this one actually went down a ravine which I wasn't comfortable descending. I opted to go South and belay down willows and other troubleseome plants. It wasn't easy, but it was less dangerous than what I felt the rocky ravine, which was also quite wet with running water, provided. I should also note that there is no need to cross the inlet to the sinkhole pond when rejoining the main route from the alternate. I just walked around the sinkhole, and the route circumvents it a bit from the other side anyway.
 
-All in all, I would have liked to have seen the main route around the lakes. It may have been less enjoyable, but it may have also used less energy and been less dangerous. That was atleast my feeling as I spied the third lake with its simply grass banks from up high on my tricky descent.
+All in all, I would have liked to have seen the main route around the lakes. It may have been less enjoyable, but it may have also used less energy and been less dangerous. That was atleast my feeling as I spied the third lake with its simple grassy banks from up high on my tricky descent.
 
 ## Great Hiking
 
