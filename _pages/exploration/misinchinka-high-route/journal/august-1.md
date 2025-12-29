@@ -3,16 +3,16 @@ author_profile: true
 date: 01-08-2025 12:00:00 -0500
 gallery: 
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-1/small/9539.jpg
-        title: 
+        title: Morning departure from Mountain Arm Camp
         url: /assets/images/exploration/misinchinka-high-route/august-1/large/9539.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-1/small/9540.jpg
-        title: 
+        title: Anzac Stream, covered in deadfall
         url: /assets/images/exploration/misinchinka-high-route/august-1/large/9540.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-1/small/9541.jpg
-        title: 
+        title: A sign on the Coastal GasLink Pipeline
         url: /assets/images/exploration/misinchinka-high-route/august-1/large/9541.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-1/small/9542.jpg
-        title: 
+        title: Looking East at the Coastal GasLink Pipeline
         url: /assets/images/exploration/misinchinka-high-route/august-1/large/9542.jpg
 layout: single
 next:

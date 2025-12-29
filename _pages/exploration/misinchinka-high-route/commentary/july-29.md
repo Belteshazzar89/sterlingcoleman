@@ -6,22 +6,22 @@ gallery:
         title: 
         url: /assets/images/exploration/misinchinka-high-route/july-29/large/9528.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/july-29/small/9529.jpg
-        title: 
+        title: Survey marker on the ridge above the railroad tunnel
         url: /assets/images/exploration/misinchinka-high-route/july-29/large/9529.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/july-29/small/9529.jpg
-        title: 
+        title: Survey marker on the ridge above the railroad tunnel
         url: /assets/images/exploration/misinchinka-high-route/july-29/large/9529.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/july-29/small/9530.jpg
-        title: 
+        title: Beautiful view from the ridge
         url: /assets/images/exploration/misinchinka-high-route/july-29/large/9530.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/july-29/small/9531.jpg
-        title: 
+        title: Beautiful view from the ridge
         url: /assets/images/exploration/misinchinka-high-route/july-29/large/9531.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/july-29/small/9532.jpg
-        title: 
+        title: Cave outlet of the stream from Dry Pond
         url: /assets/images/exploration/misinchinka-high-route/july-29/large/9532.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/july-29/small/9533.jpg
-        title: 
+        title: The smaller summer remnant of Dry Pond in the background, outlet stream in the foreground
         url: /assets/images/exploration/misinchinka-high-route/july-29/large/9533.jpg
 layout: single
 next:

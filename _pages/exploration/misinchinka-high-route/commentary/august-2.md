@@ -3,19 +3,19 @@ author_profile: true
 date: 02-08-2025 12:00:00 -0500
 gallery: 
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-2/small/9543.jpg
-        title: 
+        title: Morning departure from Kinney Ridge Camp
         url: /assets/images/exploration/misinchinka-high-route/august-2/large/9543.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-2/small/9544.jpg
-        title: 
+        title: Beautiful view looking West from Mount Kinney
         url: /assets/images/exploration/misinchinka-high-route/august-2/large/9544.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-2/small/9545.jpg
-        title: 
+        title: Selfie on top of Mount Kinney with rock cairn
         url: /assets/images/exploration/misinchinka-high-route/august-2/large/9545.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-2/small/9546.jpg
-        title: 
+        title: Beautiful view from Mount Kinney
         url: /assets/images/exploration/misinchinka-high-route/august-2/large/9546.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-2/small/9547.jpg
-        title: 
+        title: The rather small crossing on the North Anzac River
         url: /assets/images/exploration/misinchinka-high-route/august-2/large/9547.jpg
 layout: single
 next:

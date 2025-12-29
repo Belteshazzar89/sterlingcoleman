@@ -3,19 +3,19 @@ author_profile: true
 date: 03-08-2025 12:00:00 -0500
 gallery: 
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-3/small/9548.jpg
-        title: 
+        title: Morning departure from Tarn Camp
         url: /assets/images/exploration/misinchinka-high-route/august-3/large/9548.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-3/small/9549.jpg
-        title: 
+        title: Snow and rocks in the heavy fog on Reynolds Ridge
         url: /assets/images/exploration/misinchinka-high-route/august-3/large/9549.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-3/small/9550.jpg
-        title: 
+        title: Tarn backed by snow up on Reynolds Ridge
         url: /assets/images/exploration/misinchinka-high-route/august-3/large/9550.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-3/small/9551.jpg
-        title: 
+        title: The Misinchinka River with accommanying overgrown plants
         url: /assets/images/exploration/misinchinka-high-route/august-3/large/9551.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-3/small/9552.jpg
-        title: 
+        title: Tent being batted around by high winds in a small depression below the ridge
         url: /assets/images/exploration/misinchinka-high-route/august-3/large/9552.jpg
 layout: single
 next:
