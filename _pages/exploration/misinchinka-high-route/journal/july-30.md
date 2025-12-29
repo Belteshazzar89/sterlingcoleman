@@ -3,7 +3,7 @@ author_profile: true
 date: 30-07-2025 12:00:00 -0500
 gallery: 
     -   image_path: /assets/images/exploration/misinchinka-high-route/july-30/small/9534.jpg
-        title: 
+        title: Dangerous climb on the left, took alternate straight to avoid
         url: /assets/images/exploration/misinchinka-high-route/july-30/large/9534.jpg
 layout: single
 next:

@@ -9,25 +9,25 @@ gallery:
         title: 
         url: /assets/images/exploration/misinchinka-high-route/august-4/large/9554.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-4/small/9555.jpg
-        title: 
+        title: A view across the surface of one of the Mountain Ponds
         url: /assets/images/exploration/misinchinka-high-route/august-4/large/9555.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-4/small/9556.jpg
-        title: 
+        title: Broken down snowmobile on the climb to the ridge
         url: /assets/images/exploration/misinchinka-high-route/august-4/large/9556.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-4/small/9557.jpg
-        title: 
+        title: Hidden Iceberg Tarn, high up on the ridge
         url: /assets/images/exploration/misinchinka-high-route/august-4/large/9557.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-4/small/9558.jpg
-        title: 
+        title: Deep hole outlet of Hidden Iceberg Tarn
         url: /assets/images/exploration/misinchinka-high-route/august-4/large/9558.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-4/small/9559.jpg
-        title: 
+        title: Deep hole outlet of Hidden Iceberg Tarn
         url: /assets/images/exploration/misinchinka-high-route/august-4/large/9559.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-4/small/9560.jpg
-        title: 
+        title: Hidden Iceberg Tarn, with the tent set up
         url: /assets/images/exploration/misinchinka-high-route/august-4/large/9560.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-4/small/9561.jpg
-        title: 
+        title: Hidden Iceberg Tarn, with the tent set up
         url: /assets/images/exploration/misinchinka-high-route/august-4/large/9561.jpg
 layout: single
 next:

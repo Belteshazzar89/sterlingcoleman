@@ -3,52 +3,52 @@ author_profile: true
 date: 05-08-2025 12:00:00 -0500
 gallery: 
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9562.jpg
-        title: 
+        title: Beautiful Murray Ridge, with powerlines visible near the highway
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9562.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9563.jpg
-        title: 
+        title: Beautiful Murray Ridge, with powerlines visible near the highway
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9563.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9564.jpg
-        title: 
+        title: Hungry Caribou checking on me during a break
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9564.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9565.jpg
-        title: 
+        title: Hungry Caribou checking on me during a break
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9565.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9566.jpg
-        title: 
+        title: Hungry Caribou checking on me during a break
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9566.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9567.jpg
-        title: 
+        title: Hungry Caribou checking on me during a break
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9567.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9568.jpg
-        title: 
+        title: Hungry Caribou checking on me during a break
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9568.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9569.jpg
-        title: 
+        title: Obelisk up on the ridge, East of Azouzetta Lake
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9569.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9570.jpg
-        title: 
+        title: Looking down on Azouzetta Lake
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9570.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9571.jpg
-        title: 
+        title: Selfie with Azouzetta Lake
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9571.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9572.jpg
-        title: 
+        title: Seated in Cafe 97 at Azouetta Lake
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9572.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9573.jpg
-        title: 
+        title: The most delicious burger ever eaten at Cafe 97
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9573.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9574.jpg
-        title: 
+        title: The most delicious burger ever eaten at Cafe 97
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9574.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9575.jpg
-        title: 
+        title: Selfie with the sun in my eyes outside Cafe 97
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9575.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9576.jpg
-        title: 
+        title: Selfie outside Cafe 97
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9576.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9577.jpg
-        title: 
+        title: Selfie outside Cafe 97
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9577.jpg
 layout: single
 permalink: /exploration/misinchinka-high-route/commentary/august-5
@@ -81,7 +81,7 @@ Descending more and more, the trail entered a water drainage ravine with steep s
 
 I went down the East side, and my trail ran out of dirt as the steep ravine wall closed in on it. The trail ended, and I turned back to hike back up the mountain and go around to the West side. Too tired to climb back up, I made the horrible mistake of attempting to cross the steep ice sheet to get to the trail on the West side.
 
-Do not set foot on that ice sheet. I slipped and started sliding on my stomach, picking up speed quickly. If I had not performed a difficult self-arrest by digging in my trekkking poles hard into the ice, I would have shattered my legs on the rocks below, and who knows how many other bones. I don't think it would have been fatal, but I'm not positive.
+Do not set foot on that ice sheet. I slipped and started sliding on my stomach, picking up speed quickly. If I had not performed a difficult self-arrest by digging in my trekking poles hard into the ice, I would have shattered my legs on the rocks below, and who knows how many other bones. I don't think it would have been fatal, but I'm not positive.
 
 Be careful when you are very tired and have the finish line in sight not to get careless.
 

@@ -3,16 +3,16 @@ author_profile: true
 date: 31-07-2025 12:00:00 -0500
 gallery: 
     -   image_path: /assets/images/exploration/misinchinka-high-route/july-31/small/9535.jpg
-        title: 
+        title: Beautiful view across the valley from Dudzic Ridge
         url: /assets/images/exploration/misinchinka-high-route/july-31/large/9535.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/july-31/small/9536.jpg
-        title: 
+        title: Looking at a mountain goat (not visible) near a peak
         url: /assets/images/exploration/misinchinka-high-route/july-31/large/9536.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/july-31/small/9537.jpg
-        title: 
+        title: Looking North from Mountain Arm Camp at the elevated valley
         url: /assets/images/exploration/misinchinka-high-route/july-31/large/9537.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/july-31/small/9538.jpg
-        title: 
+        title: Looking North from Mountain Arm Camp at the elevated valley
         url: /assets/images/exploration/misinchinka-high-route/july-31/large/9538.jpg
 layout: single
 next:

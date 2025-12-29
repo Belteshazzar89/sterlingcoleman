@@ -3,25 +3,25 @@ author_profile: true
 date: 28-07-2025 12:00:00 -0500
 gallery: 
     -   image_path: /assets/images/exploration/misinchinka-high-route/july-28/small/9521.jpg
-        title: 
+        title: Myhon Pond, North of Mount Myhon
         url: /assets/images/exploration/misinchinka-high-route/july-28/large/9521.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/july-28/small/9522.jpg
-        title: 
+        title: Myhon Pond, North of Mount Myhon
         url: /assets/images/exploration/misinchinka-high-route/july-28/large/9522.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/july-28/small/9523.jpg
-        title: 
+        title: Looking back over Sukunka Valley
         url: /assets/images/exploration/misinchinka-high-route/july-28/large/9523.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/july-28/small/9524.jpg
-        title: 
+        title: Looking back over Sukunka Valley
         url: /assets/images/exploration/misinchinka-high-route/july-28/large/9524.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/july-28/small/9525.jpg
-        title: 
+        title: Looking back over Sukunka Valley
         url: /assets/images/exploration/misinchinka-high-route/july-28/large/9525.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/july-28/small/9526.jpg
-        title: 
+        title: Tent above Sukunka Tarn
         url: /assets/images/exploration/misinchinka-high-route/july-28/large/9526.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/july-28/small/9527.jpg
-        title: 
+        title: Tent above Sukunka Tarn
         url: /assets/images/exploration/misinchinka-high-route/july-28/large/9527.jpg
 layout: single
 next:
