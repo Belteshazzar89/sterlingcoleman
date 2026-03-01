@@ -532,4 +532,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2024/11/thanksgiving-with-friends.html",
         "teaser": null
+      },{
+        "title": "31 Days of the Kitchen: Day One",
+        "excerpt":"For a long time, I’ve been putting off building a new kitchen in a nook of our living room. Our current kitchen is old and falling apart, and I’ve known for a long time that we needed to move the kitchen to a more open space, and convert the old...","categories": [],
+        "tags": [],
+        "url": "/blog/2026/03/31-days-of-kitchen-day-one.html",
+        "teaser": null
       }]
