@@ -538,4 +538,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2026/03/31-days-of-kitchen-day-one.html",
         "teaser": null
+      },{
+        "title": "31 Days of the Kitchen: Day Two",
+        "excerpt":"On the second day, I could feel that familiar feeling on the second day of the commitment of any major project. I just didn’t really want to get back to working on the kitchen. I put it off until the end of the day, even though the kids were out...","categories": [],
+        "tags": [],
+        "url": "/blog/2026/03/31-days-of-kitchen-day-two.html",
+        "teaser": null
       }]
