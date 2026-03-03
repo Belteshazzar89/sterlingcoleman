@@ -544,4 +544,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2026/03/31-days-of-kitchen-day-two.html",
         "teaser": null
+      },{
+        "title": "31 Days of the Kitchen: Day Three",
+        "excerpt":"Today was the third day of the kitchen project, but I was in Paris for work all day, and could only work on the project once I got home in the evening. As soon as I came home, I went to the hardware store and picked up some more plastic...","categories": [],
+        "tags": [],
+        "url": "/blog/2026/03/31-days-of-kitchen-day-three.html",
+        "teaser": null
       }]
