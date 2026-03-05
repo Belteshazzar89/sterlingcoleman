@@ -550,4 +550,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2026/03/31-days-of-kitchen-day-three.html",
         "teaser": null
+      },{
+        "title": "31 Days of the Kitchen: Day Four",
+        "excerpt":"It’s the fourth day of the kitchen project, and the past two days haven’t been too impressive. Not much progress made. So today, I got working on the project a little earlier today, with the goal of getting more cabling done. I had two cables in place, and some work...","categories": [],
+        "tags": [],
+        "url": "/blog/2026/03/31-days-of-kitchen-day-four.html",
+        "teaser": null
       }]
