@@ -16,7 +16,7 @@ title: Tuesday, July 22, 2025
 
 ## Poor Navigation from Amisk Lake
 
-Somehow I managed to climb to quickly and too early as I left Amisk Lake, leaving the route on my left and having to descend back down to get back on it. This happened to me multiple times during my hike, as I typically prefer to get up to terrain which seems preferable to me, such as shorter grass. I would recommend just sticking to the route, as though it might be more difficult early compared to the slope to the East, it gets to better hiking soon enough and goes directly into the pass.
+Somehow I managed to climb too quickly and too early as I left Amisk Lake, leaving the route on my left and having to descend back down to get back on it. This happened to me multiple times during my hike, as I typically prefer to get up to terrain which seems preferable to me, such as shorter grass. I would recommend just sticking to the route, as though it might be more difficult early compared to the slope to the East, it gets to better hiking soon enough and goes directly into the pass.
 
 ## Tricky Descent to North Herrick Creek
 
