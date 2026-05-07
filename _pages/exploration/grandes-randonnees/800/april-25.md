@@ -12,7 +12,7 @@ gallery:
         title: Alex and Miriam walk alongside a double barge in the canal
         url: /assets/images/exploration/grandes-randonnees/800/april-25/large/091252.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/800/april-25/small/101713.jpg
-        title: Green fields as far a the eye can see
+        title: Green fields as far as the eye can see
         url: /assets/images/exploration/grandes-randonnees/800/april-25/large/101713.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/800/april-25/small/114524.jpg
         title: A feature allowing water to bypass a lock on the canal

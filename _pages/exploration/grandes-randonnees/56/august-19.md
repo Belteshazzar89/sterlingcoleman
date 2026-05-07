@@ -12,7 +12,7 @@ gallery:
         title: Miriam and Alex at the old Caurres Battery
         url: /assets/images/exploration/grandes-randonnees/56/august-19/large/174816.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/56/august-19/small/175312.jpg
-        title: Miriam and Daneil at the gate to the old Caurres Battery
+        title: Miriam and Daniel at the gate to the old Caurres Battery
         url: /assets/images/exploration/grandes-randonnees/56/august-19/large/175312.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/56/august-19/small/175344.jpg
         title: Miriam and Daniel with the Ubaye valley behind
