@@ -18,7 +18,7 @@ gallery:
         title: The children admire a donkey and some animals
         url: /assets/images/exploration/grandes-randonnees/800/april-21/large/191959.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/800/april-21/small/192012.jpg
-        title: Daneil feeds a donkey some grass
+        title: Daniel feeds a donkey some grass
         url: /assets/images/exploration/grandes-randonnees/800/april-21/large/192012.jpg
 layout: single
 next:

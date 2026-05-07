@@ -13,7 +13,7 @@ The Northern Rockies Trail (NRT) is a planned trail in the Hart and Muskwa Range
 
 ## Goal
 
-The goal of the Northern Rockies Trail is to guide explorers through the Northern Rocky Mountains in Northern British Columbia. The Rocky Mountains are mostly covered by the Continental Divide Trail in the United States and the Great Divide Trail on the border between Alberta and British Columbia. The NRT fills the last remaining gap between the Northern Terminus of the GDT, at Kakwa Lake, and the Northern Terminus of the Rocky Mountains, at the Liard River.
+The goal of the Northern Rockies Trail is to guide explorers through the Northern Rocky Mountains in Northern British Columbia. The Rocky Mountains are mostly covered by the Continental Divide Trail in the United States and the Great Divide Trail on the border between Alberta and British Columbia. The NRT fills the last remaining gap between the Northern Terminus of the Misinchinka High Route, at Azouzetta Lake, and the Northern Terminus of the Rocky Mountains, at the Liard River.
 
 ## Condition
 
@@ -21,34 +21,30 @@ The route for the trail has been planned, but no work has been done on the groun
 
 ## Route
 
-From Kakwa Lake, the Southernmost section of the Northern Rockies Trail enters the Hart Ranges and continues Northwest to Monkman Provincial Park.
+From Azouzetta Lake, the Southernmost section of the Northern Rockies Trail enters the Hart Ranges and continues North to the Peace Arm of Williston Lake. The trail includes a crossing of this arm of the lake, and continues Northwest into the Muskwa Ranges.
 
-From Kinuseo Falls in the park, the next section of the NRT continues Northwest to Pine Le Moray Provincial Park. After that, it continues to the Peace Arm of Williston Lake. The trail includes a crossing of this arm of the lake, and continues Northwest into the Muskwa Ranges.
-
-North of Williston Lake, the trail heads North to Graham-Laurier Provincial Park. North of this, there are optional paths to the east and west to resupply at Pink Mountain or Tsay Key Dene, respectively. The NRT goes North to Redfern-Kelly Provincial Park, and then Northwest through Kwadacha Wilderness Provincial Park, just to the west of Northern Rocky Mountains Provincial Park. North of that, the trail stretches to the Toad River and the Alaska Highway in Muncho Lake Provincial Park.
+North of Williston Lake, the trail heads North to Graham-Laurier Provincial Park. The NRT goes North to Redfern-Kelly Provincial Park, and then Northwest through Kwadacha Wilderness Provincial Park, just to the west of Northern Rocky Mountains Provincial Park. North of that, the trail stretches to the Toad River and the Alaska Highway in Muncho Lake Provincial Park.
 
 The Northernmost section of the Northern Rockies Trail goes North from the Toad River, parallels the length of Muncho Lake and the Alaska Highway, finally crossing the highway before coming back to it at the Liard River. The trail's Northern Terminus is Liard Hot Springs Provincial Park.
 
 ## Resupply
 
-The Northern Rocky mountains are very sparsely populated, and as such there are few options for explorers to resupply. From South to North, a direct thru-hike would use the following points:
-1. Tumbler Ridge
-2. Chetwynd
-3. Toad River
+The Northern Rocky mountains are very sparsely populated, and as such there are few options for explorers to resupply. From South to North, a direct thru-hike would probably want to use the following points:
+1. Resupply at Williston Lake, probably cached in advance
+2. Robb Lake, via the ATV Trail which provides access from Highway 97 to the East
+3. Redfern Lake, via the ATV Trail which provides access from Highway 97 to the East
+4. Highway 97 near Toad River
 
-A person would need to hitch a ride from Monkman Provincial Park to Tumbler Ridge and back again on a little-used road. The hitches to Chetwynd and Toad River should be easier, as they are on highways.
+In theory, this should be possible. When I hiked the Misinchinka High Route, I averaged about 1.75 kilometers per hour, though that includes a roadwalk in Monkman Provincial Park along the Imperial Creek Forest Service Road. I estimate that a hiker should be aiming to hike 1.5 kilometers on average for 14 hours a day, for an average of 20 kilometers a day. This provides the following steps:
 
-The only real question is: How can an explorer get from one resupply (Chetwynd) at the Pine River (at the Northern edge of Pine Le Moray Provincial Park) all the way to the Toad River? At about 600 kilometers, this is well above a typical hiker's capacity.
-
-There are no good alternatives. A person could use one of the proposed side trails to resupply at Pink Mountain or Tsay Key Dene, but both of those options take several days (in one direction) to reach, and do not significantly reduce the amount of food needed starting at the Pine River.
-
-Indeed, the best option may simply be to carry the full amount of food needed to get to the Toad River, all the way from the Pine River. This will be a significant weight, but it will lighten as the food is consumed. Other than that, a person would have to depend on a food cache being placed near the ironically-named Halfway River.
-
-Toad River is the Northernmost resupply point and should be a destination for a resupply package. The general store at the tiny highway village serves as a post office. Neither of the trail's termini are resupply points. The Southern Terminus at Kakwa Lake is merely the end of the Great Divide Trail, and the Northern Terminus at the Liard River has the Liard Hot Springs Lodge, but no town. 
+1. Azouzetta Lake to Williston Lake: 135 kilometers in 7 days
+2. Williston Lake to Robb Lake: 140 kilometers in 7 days
+3. Robb Lake to Redfern Lake: 85 kilomters in 4 days
+4. Redfern Lake to BC Highway 97: 240 kilometers in 12 days
 
 ## Travel
 
-The NRT is best hiked after finishing the GDT at Kakwa Lake, or before hiking the GDT if hiking Southbound. Getting to the Liard River is relatively easy. Public transportation to Fort Nelson is available by [plane][yye] or [bus][bcbus]. Hitch from there to the Liard River.
+The NRT is best hiked after finishing the Misinchinka High Route at Azouzetta Lake. Getting to the Liard River is relatively easy. Public transportation to Fort Nelson is available by [plane][yye] or [bus][bcbus]. Hitch from there to the Liard River.
 
 For the Southern Terminus, public transportation is available to Prince George by [plane][yxs], [train][via-rail], or [bus][bcbus]. The bus route from Prince George to Valemount has a stop at the McBride train station, which is about 70 kilometers from Walker Forest Service Road, which leads to Kakwa Lake. The closest public transportation seems to be the Dome Creek train station, which is listed as "stop on request".
 

@@ -4,6 +4,8 @@ layout: archive
 permalink: /exploration/misinchinka-high-route/
 title: Misinchinka High Route
 ---
+<iframe width="100%" height="350px" frameborder="0" allowfullscreen src="https://caltopo.com/m/CF73E1L"></iframe>
+
 The Misinchinka High Route is an off-trail route between Monkman Provincial Park and Azouzetta Lake in Pine LeMoray Provincial Park. Created and pioneered by Dylan Ivens, the route maintains a high elevation as much as possible. Extremely wild, there are no hiking paths, very little trace of human existence, and traversing the route is partly an exercise in survival. The only significant human infrastructure to be found on the route is the Coastal GasLink Pipeline.
 
 # Journal

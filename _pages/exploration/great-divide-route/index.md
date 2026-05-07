@@ -4,6 +4,8 @@ layout: archive
 permalink: /exploration/great-divide-route/
 title: Great Divide Route
 ---
+<iframe width="100%" height="350px" frameborder="0" allowfullscreen src="https://caltopo.com/m/QNP9VFA"></iframe>
+
 The Great Divide Route is a mostly off-trail route between Kakwa Provincial Park, where the Great Divide Trail has its Northern Terminus, and Monkman Provincial Park, where the continental divide departs from the Rocky Mountains. My interest in the Great Divide Route is related to my interest in hiking North of the established trails in the Rocky Mountains, as the Great Divide Route is the first organized endeavor to continue hiking North in the Rockies, off-trail.
 
 # Journal
