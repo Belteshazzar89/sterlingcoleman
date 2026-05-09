@@ -4,6 +4,8 @@ layout: archive
 permalink: /exploration/grandes-randonnees/441/
 title: GR 441
 ---
+<iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/gr441_1403494?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=false&tilelayersControl=true&embedControl=null&datalayersControl=false&onLoadPanel=none&captionBar=false&captionMenus=false&captionControl=false&locateControl=false&editinosmControl=false#11/45.777007/2.931290"></iframe>
+
 The "Tour de la Chaîne des Puys", also known as the GR441, is a loop trail in central France. A "puy" is a volcanic crater, and this region has a series of ancient volcanos which have since degraded and are now mostly forested hills. The Topoguide published by FFRandonnee lays out a plan to start and finish the hike in the town of Volvic, whose water quality is famous in France, and where the hike begins in the Parc de la Source.
 
 We took on this hike with friends, and that was a great decision. Their companionship for us and our children made each day more interesting. The beginning of the hike had us sweating a bit as we hiked up to the top of several hills. On the second day, we took on the famous "Puy de Dôme", which was the highest point on the trail.
