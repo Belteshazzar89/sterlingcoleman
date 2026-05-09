@@ -15,7 +15,7 @@ gallery:
         title: Miriam, Daniel, and Coleen at the big hand
         url: /assets/images/exploration/grandes-randonnees/441/october-25/large/095941.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/441/october-25/small/150048.jpg
-        title: Daniel hikings along bright green fields and blue skey on the last day
+        title: Daniel hiking along bright green fields and blue skey on the last day
         url: /assets/images/exploration/grandes-randonnees/441/october-25/large/150048.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/441/october-25/small/152902.jpg
         title: Eric, Timothy, Andrew, and Daniel descend towards Volvic

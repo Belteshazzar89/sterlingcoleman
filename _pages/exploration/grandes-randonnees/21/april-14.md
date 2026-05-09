@@ -24,7 +24,7 @@ gallery:
         title: Lush green grass and a partly cloudy sky
         url: /assets/images/exploration/grandes-randonnees/21/april-14/large/154906.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-14/small/165914.jpg
-        title: Cute little bridege in Veules-les-Roses
+        title: Cute little bridge in Veules-les-Roses
         url: /assets/images/exploration/grandes-randonnees/21/april-14/large/165914.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/21/april-14/small/170841.jpg
         title: A sign details the history of the leper colony at Veules-les-Roses
