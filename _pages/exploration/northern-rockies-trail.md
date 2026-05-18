@@ -49,6 +49,9 @@ In theory, this should be possible. When I hiked the Misinchinka High Route, I a
 2. Williston Lake to Robb Lake: 140 kilometers in 7 days
 3. Robb Lake to Redfern Lake: 85 kilometers in 4 days
 4. Redfern Lake to BC Highway 97: 240 kilometers in 12 days
+5. BC Highway 97 to the Liard River: 100 kilometers in 5 days
+
+Clearly, the hike North from Redfern Lake would be a big challenge. The best option to resupply before hiking all the way North to BC Highway 97 would be the mining service road near the Magnum Mine. This option, though not a sure option due to questionable accessibility, would reduce the distance covered between resupply points from Redfern Lake by 50 kilometers, to 190 kilometers.
 
 ## Travel
 

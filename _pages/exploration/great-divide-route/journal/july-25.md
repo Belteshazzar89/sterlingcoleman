@@ -24,7 +24,7 @@ The trail was marked well from here, though overgrown, and I hiked down to the l
 
 I hiked on in light rain, finding the trail to be quite overgrown at times. This got me thinking about the difference between off-trail and on-trail hiking, given that I was still getting soaked by wet bushes.
 
-I continued on, meeting the first humans in almost a week at Trot Camp. We talked, thnen I continued on. I was only going 4 km/hr, possibly because my pack was still heavy with uneaten food, possibly because of the state of the trail.
+I continued on, meeting the first humans in almost a week at Trot Camp. We talked, then I continued on. I was only going 4 km/hr, possibly because my pack was still heavy with uneaten food, possibly because of the state of the trail.
 
 I finally made it to the Kinuseo Falls Campground and signed the epic logbook with previous GDR finishers. I met Randy, who brought me food, and Kevin, who very graciously took me home with him to rest.
 
