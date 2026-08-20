@@ -14,6 +14,15 @@ gallery:
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-12/small/104649.jpg
         title: A pipeline view down the mountain near Hospitalet
         url: /assets/images/exploration/grandes-randonnees/107/august-12/large/104649.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-12/small/115106.jpg
+        title: Daniel expresses his frustration with the hike
+        url: /assets/images/exploration/grandes-randonnees/107/august-12/large/115106.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-12/small/115129.jpg
+        title: Daniel is tired of hiking, despite the beautiful Pyrenees mountains behind him
+        url: /assets/images/exploration/grandes-randonnees/107/august-12/large/115129.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-12/small/120708.jpg
+        title: Miriam and Sterling rest at the creek for lunch
+        url: /assets/images/exploration/grandes-randonnees/107/august-12/large/120708.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-12/small/125336.jpg
         title: Daniel plays in a creek near the N320 national highway at Puymorens Pass
         url: /assets/images/exploration/grandes-randonnees/107/august-12/large/125336.jpg
@@ -23,6 +32,9 @@ gallery:
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-12/small/142559.jpg
         title: Manmade water operations at Carol Creek near Porta
         url: /assets/images/exploration/grandes-randonnees/107/august-12/large/142559.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-12/small/150606.jpg
+        title: Miriam sits in Carol Creek, while Daniel throws stones and Sterling rests
+        url: /assets/images/exploration/grandes-randonnees/107/august-12/large/150606.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-12/small/153239.jpg
         title: Miriam, Daniel, and Alex at the rest stop in Porta
         url: /assets/images/exploration/grandes-randonnees/107/august-12/large/153239.jpg
