@@ -8,12 +8,72 @@ gallery:
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/091549.jpg
         title: A picnic table with a view in Sorgeat
         url: /assets/images/exploration/grandes-randonnees/107/august-10/large/091549.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/094659.jpg
+        title: Daniel and Miriam at the Lauze River
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/094659.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/094725.jpg
+        title: A long break in the shade
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/094725.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/112044.jpg
         title: Soaking my feet in the lukewarm public spring in Ax-les-Thermes
         url: /assets/images/exploration/grandes-randonnees/107/august-10/large/112044.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/115611.jpg
+        title: Miriam on a big rock in the sunlight on the Lauze
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/115611.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/131801.jpg
         title: A pipeline crosses the trail near Orgeix
         url: /assets/images/exploration/grandes-randonnees/107/august-10/large/131801.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/133044.jpg
+        title: Flowers on the bridge over the Oriège
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/133044.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/133110.jpg
+        title: A break in the shade on a bench next to the Oriège in Orgeix
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/133110.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/133131.jpg
+        title: Photo from the bridge over the Oriège, looking upstream
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/133131.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/133438.jpg
+        title: Miriam and Daniel playing in the water
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/133438.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/133447.jpg
+        title: The Orgeix church right next to the Oriège River
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/133447.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/134426.jpg
+        title: Miriam, Daniel and Sterling
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/134426.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/195759.jpg
+        title: The tent set up in the setting sun on the Ijou Pass
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/195759.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/195905.jpg
+        title: The end of a rainbow next to Ijou Pass
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/195905.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/195953.jpg
+        title: Daniel, Miriam, and Sterling at the Ijou Pass, with a rainbow in the background
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/195953.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/200019.jpg
+        title: Setting up the tent, with a cabin in the background
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/200019.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/200040.jpg
+        title: A view of the valley below Ijou Pass
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/200040.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/200154.jpg
+        title: The rainbow from Ijou Pass
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/200154.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/200239.jpg
+        title: The sun shines down through the clouds on Ijou Pass
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/200239.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/200247.jpg
+        title: Standing next to the tent in the sunlight
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/200247.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/200337.jpg
+        title: Sunlight on the tent at Ijou Pass
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/200337.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/201615.jpg
+        title: Rays of sunshine
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/201615.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/201625.jpg
+        title: Rays of sunshine coming through the clouds, seen from the tent
+        url: /assets/images/exploration/grandes-randonnees/107/august-10/large/201625.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-10/small/204430.jpg
         title: View of the sunset from our tent at Joux Pass
         url: /assets/images/exploration/grandes-randonnees/107/august-10/large/204430.jpg

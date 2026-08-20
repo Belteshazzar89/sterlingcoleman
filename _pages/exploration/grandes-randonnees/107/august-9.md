@@ -23,21 +23,54 @@ gallery:
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-9/small/105427.jpg
         title: We hike a bit spread out from Comus towards Prades
         url: /assets/images/exploration/grandes-randonnees/107/august-9/large/105427.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-9/small/134351.jpg
+        title: Daniel after leaving Prades
+        url: /assets/images/exploration/grandes-randonnees/107/august-9/large/134351.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-9/small/135218.jpg
         title: Miriam on the way to Montaillou, near the Sarrat de Coussinal
         url: /assets/images/exploration/grandes-randonnees/107/august-9/large/135218.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-9/small/135358.jpg
+        title: Daniel in Montaillou
+        url: /assets/images/exploration/grandes-randonnees/107/august-9/large/135358.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-9/small/161723.jpg
         title: Balaguès Pass, finally attained after a hike up from Montaillou
         url: /assets/images/exploration/grandes-randonnees/107/august-9/large/161723.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-9/small/161834.jpg
         title: View on a nearby valley
         url: /assets/images/exploration/grandes-randonnees/107/august-9/large/161834.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-9/small/162609.jpg
+        title: A short pause while hiking the hot highlands after Balaguès Pass
+        url: /assets/images/exploration/grandes-randonnees/107/august-9/large/162609.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-9/small/163611.jpg
+        title: Hiking in the heat
+        url: /assets/images/exploration/grandes-randonnees/107/august-9/large/163611.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-9/small/164603.jpg
         title: The Chemin des Bonshommes in the foreground, mountains in the background
         url: /assets/images/exploration/grandes-randonnees/107/august-9/large/164603.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-9/small/165325.jpg
+        title: A tired photo near the highland cows
+        url: /assets/images/exploration/grandes-randonnees/107/august-9/large/165325.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-9/small/165358.jpg
+        title: Hiking the trail, with mountains in the distance
+        url: /assets/images/exploration/grandes-randonnees/107/august-9/large/165358.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-9/small/165415.jpg
+        title: Dry grass and smelly cows
+        url: /assets/images/exploration/grandes-randonnees/107/august-9/large/165415.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-9/small/165619.jpg
+        title: Daniel and Miriam on the dirt footpath
+        url: /assets/images/exploration/grandes-randonnees/107/august-9/large/165619.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-9/small/165624.jpg
+        title: A wider view of the area beyond Balaguès Pass
+        url: /assets/images/exploration/grandes-randonnees/107/august-9/large/165624.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-9/small/165626.jpg
         title: The beginning of the cows near the Chioula Refuge
         url: /assets/images/exploration/grandes-randonnees/107/august-9/large/165626.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-9/small/170106.jpg
+        title: A signpost, closely monitored by the cows
+        url: /assets/images/exploration/grandes-randonnees/107/august-9/large/170106.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-9/small/171301.jpg
+        title: A wider, dry grass path
+        url: /assets/images/exploration/grandes-randonnees/107/august-9/large/171301.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-9/small/174020.jpg
         title: A nicely-manicured grassy path on the descent from Balaguès Pass
         url: /assets/images/exploration/grandes-randonnees/107/august-9/large/174020.jpg
@@ -81,7 +114,7 @@ We hiked on in the sun atop these hills for awhile, eventually turning away from
 
 I went ahead and investigated many possibilities, but eventually settled on Ijou Pass. It had cow droppings and cows, but was very flat. Other spots would be right on the trail, and not so flat.
 
-Later in the evening I made a campfire, thinking it might cheer us up. Instead, Alex called me an imbecile whonwas risking a forest fire, not understanding the importance of recent rain in this area as well as the big stone ring around the fire. She told me she didn't want to go on another hike with me.
+Later in the evening I made a campfire, thinking it might cheer us up. Instead, Alex called me an imbecile who was risking a forest fire, not understanding the importance of recent rain in this area as well as the big stone ring around the fire. She told me she didn't want to go on another hike with me.
 
 That suited me just fine.
 

@@ -1,7 +1,10 @@
 ---
 author_profile: true
 date: 11-08-2026 12:00:00 -0500
-gallery: 
+gallery:
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/074448.jpg
+        title: A view of the mountains in the morning
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/074448.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/075603.jpg
         title: Daniel hiking through the forest from Joux Pass towards Mérens
         url: /assets/images/exploration/grandes-randonnees/107/august-11/large/075603.jpg
@@ -14,18 +17,84 @@ gallery:
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/103614.jpg
         title: Daniel and Miriam at the hot spring above Mérens
         url: /assets/images/exploration/grandes-randonnees/107/august-11/large/103614.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/103735.jpg
+        title: Daniel and Miriam
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/103735.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/103746.jpg
+        title: Miriam gets ready to hike again
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/103746.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/120912.jpg
+        title: Miriam and Daniel hike near the Nabreil Waterfall
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/120912.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/120915.jpg
+        title: The Nabreil Waterfall
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/120915.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/124124.jpg
         title: Daniel and Miriam play at the Nabreil Waterfall
         url: /assets/images/exploration/grandes-randonnees/107/august-11/large/124124.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/132058.jpg
         title: Daniel crosses Nabre Creek on a little foot bridge
         url: /assets/images/exploration/grandes-randonnees/107/august-11/large/132058.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/140352.jpg
+        title: Sterling hikes ahead of Daniel and Miriam on the steep climb
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/140352.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/140435.jpg
+        title: Lots of vegetation and flowers on the climb
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/140435.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/140549.jpg
+        title: The creek tumbles down the mountain, often hidden by bushes
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/140549.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/140609.jpg
+        title: Looking back across the valley while climbing towards Porteille des Bésines
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/140609.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/140851.jpg
+        title: Sterling and Daniel
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/140851.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/142131.jpg
+        title: Miriam and Daniel take a break
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/142131.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/142151.jpg
+        title: Looking back past Miriam and Daniel
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/142151.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/142246.jpg
+        title: Miriam rests near an old dead log
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/142246.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/143253.jpg
+        title: Looking back across the valley to the mountain peaks behind
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/143253.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/143512.jpg
+        title: Continuing the ascent towards Porteille des Bésines
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/143512.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/143822.jpg
         title: Estagnas Lake, on the way up to the Porteille des Bésines
         url: /assets/images/exploration/grandes-randonnees/107/august-11/large/143822.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/143950.jpg
+        title: Arriving at Estagnas Lake
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/143950.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/144130.jpg
+        title: Down at Estagnas Lake
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/144130.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/144157.jpg
+        title: Estagnas Lake, with a view to the Porteille des Bésines
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/144157.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/155644.jpg
+        title: Miriam poses for a photo, approaching the Porteille des Bésines
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/155644.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/160116.jpg
+        title: Laid back and relaxing at the Porteille des Bésines
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/160116.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/160216.jpg
+        title: Miriam and Daniel rest after the long climb to Porteille des Bésines
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/160216.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/160321.jpg
         title: The Porteille des Bésines, finally reached after a long climb up from Mérens
         url: /assets/images/exploration/grandes-randonnees/107/august-11/large/160321.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/160322.jpg
+        title: Daniel relaxes and Sterling takes a photo at the Porteille des Bésines
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/160322.jpg
+    -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/160855.jpg
+        title: Descending down from Porteille des Bésines under threatening clouds
+        url: /assets/images/exploration/grandes-randonnees/107/august-11/large/160855.jpg
     -   image_path: /assets/images/exploration/grandes-randonnees/107/august-11/small/193417.jpg
         title: The very dry Bésines Pond after a period of drought
         url: /assets/images/exploration/grandes-randonnees/107/august-11/large/193417.jpg
