@@ -33,7 +33,7 @@ gallery:
         title: Selfie with Azouzetta Lake
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9571.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9572.jpg
-        title: Seated in Cafe 97 at Azouetta Lake
+        title: Seated in Cafe 97 at Azouzetta Lake
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9572.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9573.jpg
         title: The most delicious burger ever eaten at Cafe 97

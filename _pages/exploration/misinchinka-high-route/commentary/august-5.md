@@ -33,7 +33,7 @@ gallery:
         title: Selfie with Azouzetta Lake
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9571.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9572.jpg
-        title: Seated in Cafe 97 at Azouetta Lake
+        title: Seated in Cafe 97 at Azouzetta Lake
         url: /assets/images/exploration/misinchinka-high-route/august-5/large/9572.jpg
     -   image_path: /assets/images/exploration/misinchinka-high-route/august-5/small/9573.jpg
         title: The most delicious burger ever eaten at Cafe 97
@@ -89,7 +89,7 @@ Be careful when you are very tired and have the finish line in sight not to get 
 
 The campground is a welcome respite and return to civilization, but it is weird to be thrown right back into society with other human beings after ten days alone. I didn't see another soul on the whole MHR, including the Murray Trail, and so my first interaction was stepping into a crowded Cafe 97.
 
-That was a shock, but a welcome one once I got a burger and fries I settled in. BC Bus North stops here on Tuesday and Friday evenings on its way to Prince George, which was my backup plan.
+That was a shock, but a welcome one once I got a burger and fries and I settled in. BC Bus North stops here on Tuesday and Friday evenings on its way to Prince George, which was my backup plan.
 
 One final note: I wouldn't count on the staff at Azouzetta Lake to be of much help when it comes to your hike. I don't think they'll hold a resupply box for you, and I couldn't get ahold of them by phone. I received a hint that they are under new ownership and are raising prices, and I doubt they will be of much help for hikers coming through, which is a shame as they are pretty much the only option in that part of the Rocky Mountains.
 
